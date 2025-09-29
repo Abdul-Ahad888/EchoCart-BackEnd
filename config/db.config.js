@@ -1,18 +1,21 @@
-const { Sequelize } = require('sequelize')
+const { Sequelize } = require('sequelize');
 
-// Don’t connect on Vercel for now
-if (process.env.VERCEL_ENV === "production") {
-    console.log("Skipping DB connection on Vercel");
-    module.exports = {};
+const dbName = process.env.DB_NAME || 'echocart';
+const dbUser = process.env.DB_USER || 'root';
+const dbPassword = process.env.DB_PASSWORD || '';
+
+let sequelize;
+
+// On Vercel → use SQLite (skip MySQL)
+if (process.env.VERCEL) {
+  console.log("⚡ Running on Vercel → using in-memory SQLite, skipping MySQL");
+  sequelize = new Sequelize('sqlite::memory:', { logging: false });
 } else {
-    const dbName = process.env.DB_NAME || 'echocart'
-    const dbUser = process.env.DB_USER || 'root'
-    const dbPassword = process.env.DB_PASSWORD || ''
-
-    const sequelize = new Sequelize(dbName, dbUser, dbPassword, {
-        host: "localhost",
-        dialect: "mysql"
-    })
-
-    module.exports = sequelize
+  console.log("⚡ Running locally → using MySQL");
+  sequelize = new Sequelize(dbName, dbUser, dbPassword, {
+    host: "localhost",
+    dialect: "mysql"
+  });
 }
+
+module.exports = sequelize;
