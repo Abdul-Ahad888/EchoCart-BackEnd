@@ -3,28 +3,32 @@ const sequelize = require("../config/db.config");
 const User = require('./user.model')
 const Product = require('./product.model')
 
-const Wishlist = sequelize.define('Wishlist', {
+if (!sequelize) {
+    // On Vercel → just export an empty object
+    module.exports = {};
+} else {
+    const Wishlist = sequelize.define('Wishlist', {
 
-    id : {
-        type: DataTypes.UUID,
-        defaultValue: DataTypes.UUIDV4,
-        primaryKey: true
-    },
-    userId : {
-        type: DataTypes.UUID,
-        allowNull: false,
-    },
-    productId : {
-        type: DataTypes.UUID,
-        allowNull: false,
-    }
-})
+        id: {
+            type: DataTypes.UUID,
+            defaultValue: DataTypes.UUIDV4,
+            primaryKey: true
+        },
+        userId: {
+            type: DataTypes.UUID,
+            allowNull: false,
+        },
+        productId: {
+            type: DataTypes.UUID,
+            allowNull: false,
+        }
+    })
 
 
-// RelationShips :
+    // RelationShips :
 
-Wishlist.belongsTo(User, { foreignKey : 'userId' })
-Wishlist.belongsTo(Product, { foreignKey : 'productId' })
-
+    Wishlist.belongsTo(User, { foreignKey: 'userId' })
+    Wishlist.belongsTo(Product, { foreignKey: 'productId' })
+}
 
 module.exports = Wishlist

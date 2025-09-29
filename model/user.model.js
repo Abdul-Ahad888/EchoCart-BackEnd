@@ -1,6 +1,11 @@
 const { DataTypes } = require('sequelize')
 const sequelize = require('../config/db.config')
 
+
+if (!sequelize) {
+    // On Vercel → just export an empty object
+    module.exports = {};
+} else {
 const User = sequelize.define('User', {
 
     id: {
@@ -56,5 +61,6 @@ const User = sequelize.define('User', {
     }
 
 });
+}
 
 module.exports = User

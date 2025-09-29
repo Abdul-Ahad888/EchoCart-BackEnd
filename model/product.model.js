@@ -1,6 +1,11 @@
 const { DataTypes } = require('sequelize');
 const sequelize = require('../config/db.config');
 
+
+if (!sequelize) {
+    // On Vercel → just export an empty object
+    module.exports = {};
+} else {
 const Product = sequelize.define('Product', {
     id: {
         type: DataTypes.UUID,
@@ -72,5 +77,6 @@ const Product = sequelize.define('Product', {
         defaultValue: false
     }
 });
+}
 
 module.exports = Product;

@@ -2,9 +2,9 @@ const { Sequelize } = require('sequelize');
 
 let sequelize;
 
-if (process.env.VERCEL_ENV) {
+if (process.env.VERCEL) {
   console.log("⚡ Running on Vercel → Skipping DB connection completely");
-  sequelize = null; // no DB at all
+  sequelize = null; // no DB in production
 } else {
   const dbName = process.env.DB_NAME || 'echocart';
   const dbUser = process.env.DB_USER || 'root';
