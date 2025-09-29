@@ -1,5 +1,5 @@
 const app = require('./app');
-const sequelize = require('./db');
+const sequelize = require('./config/db.config');
 
 // Only sync DB locally (skip on Vercel)
 if (sequelize) {
