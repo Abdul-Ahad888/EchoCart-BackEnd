@@ -16,7 +16,6 @@ if (!process.env.VERCEL) {
     Wishlist.sync({ alter: true }),
     Order.sync({ alter: true }),
   ])
-  
   .then(() => sequelize.sync({ alter: true }))
   .then(() => console.log("✅ Database synced"))
   .catch((err) => console.error("❌ Database sync error:", err));
