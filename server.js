@@ -2,7 +2,7 @@ const app = require('./app');
 const sequelize = require('./db');
 
 // Only sync DB locally (skip on Vercel)
-if (!process.env.VERCEL) {
+if (sequelize) {
   const User = require("./model/user.model");
   const Product = require("./model/product.model");
   const Cart = require("./model/cart.model");
