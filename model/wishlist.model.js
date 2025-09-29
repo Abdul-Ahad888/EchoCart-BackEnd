@@ -3,10 +3,10 @@ const sequelize = require("../config/db.config");
 const User = require('./user.model')
 const Product = require('./product.model')
 
-if (!sequelize) {
-    // On Vercel → just export an empty object
-    module.exports = {};
-} else {
+
+let Wishlist = null; // define in outer scope
+
+if (sequelize) {
     const Wishlist = sequelize.define('Wishlist', {
 
         id: {

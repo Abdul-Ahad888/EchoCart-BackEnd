@@ -2,10 +2,9 @@ const sequelize = require('../config/db.config')
 const { DataTypes } = require('sequelize')
 const User = require('./user.model')
 
-if (!sequelize) {
-    // On Vercel → just export an empty object
-    module.exports = {};
-} else {
+let Order = null;
+
+if (sequelize) {
 const Order = sequelize.define('Order', {
     id: {
         type: DataTypes.UUID,
