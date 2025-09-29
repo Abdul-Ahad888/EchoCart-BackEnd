@@ -8,16 +8,19 @@ const Cart = require("./model/cart.model");
 const Wishlist = require("./model/wishlist.model");
 const Order = require("./model/order.model");
 
-Promise.all([
-  User.sync(),
-  Product.sync(),
-  Cart.sync(),
-  Wishlist.sync(),
-  Order.sync(),
-])
-
-  .then(() => sequelize.sync({ alter: true }))
-  .then(() => console.log("✅ Database synced"))
-  .catch((err) => console.error("❌ Database sync error:", err));
+if (process.env.NODE_ENV !== "production") {
+  Promise.all([
+    User.sync(),
+    Product.sync(),
+    Cart.sync(),
+    Wishlist.sync(),
+    Order.sync(),
+  ])
+    .then(() => sequelize.sync({ alter: true }))
+    .then(() => console.log("✅ Database synced"))
+    .catch((err) => console.error("❌ Database sync error:", err));
+} else {
+  console.log("⚡ Production mode: skipping DB sync");
+}
 
 module.exports = app;
