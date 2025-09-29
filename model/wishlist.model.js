@@ -4,9 +4,6 @@ const User = require('./user.model')
 const Product = require('./product.model')
 
 
-let Wishlist = null; // define in outer scope
-
-if (sequelize) {
     const Wishlist = sequelize.define('Wishlist', {
 
         id: {
@@ -29,6 +26,6 @@ if (sequelize) {
 
     Wishlist.belongsTo(User, { foreignKey: 'userId' })
     Wishlist.belongsTo(Product, { foreignKey: 'productId' })
-}
+
 
 module.exports = Wishlist

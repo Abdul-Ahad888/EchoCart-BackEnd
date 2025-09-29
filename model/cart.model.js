@@ -4,9 +4,6 @@ const User = require('./user.model')
 const Product = require('./product.model')
 
 
-let Cart = null; // define in outer scope
-
-if (sequelize) {
     const Cart = sequelize.define('Cart', {
 
         id: {
@@ -26,7 +23,7 @@ if (sequelize) {
     
     Cart.belongsTo(User, { foreignKey: 'userId' })
     Cart.belongsTo(Product, { foreignKey: 'productId' })
-}
+
 
 
 

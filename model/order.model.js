@@ -2,9 +2,7 @@ const sequelize = require('../config/db.config')
 const { DataTypes } = require('sequelize')
 const User = require('./user.model')
 
-let Order = null;
 
-if (sequelize) {
 const Order = sequelize.define('Order', {
     id: {
         type: DataTypes.UUID,
@@ -66,7 +64,7 @@ const Order = sequelize.define('Order', {
 })
 
 Order.belongsTo(User, { foreignKey: "userId" })
-}
+
 
 
 module.exports = Order

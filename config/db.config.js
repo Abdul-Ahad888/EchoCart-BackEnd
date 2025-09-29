@@ -1,19 +1,16 @@
 const { Sequelize } = require('sequelize');
+require('dotenv').config();
 
-let sequelize;
+const dbName = process.env.DB_NAME
+const dbUser = process.env.DB_USER
+const dbPassword = process.env.DB_PASSWORD
+const dbHost = process.env.DB_HOST
 
-if (process.env.VERCEL) {
-  console.log("⚡ Running on Vercel → Skipping DB connection completely");
-  sequelize = null; // no DB in production
-} else {
-  const dbName = process.env.DB_NAME || 'echocart';
-  const dbUser = process.env.DB_USER || 'root';
-  const dbPassword = process.env.DB_PASSWORD || '';
+const sequelize = new Sequelize(dbName, dbUser, dbPassword, {
+  host: dbHost,
+  dialect: "mysql",
+  port: 3306,
+});
 
-  sequelize = new Sequelize(dbName, dbUser, dbPassword, {
-    host: "localhost",
-    dialect: "mysql"
-  });
-}
 
 module.exports = sequelize;

@@ -2,9 +2,6 @@ const { DataTypes } = require('sequelize');
 const sequelize = require('../config/db.config');
 
 
-let Product = null; // define in outer scope
-
-if (sequelize) {
 const Product = sequelize.define('Product', {
     id: {
         type: DataTypes.UUID,
@@ -76,6 +73,6 @@ const Product = sequelize.define('Product', {
         defaultValue: false
     }
 });
-}
+
 
 module.exports = Product;
