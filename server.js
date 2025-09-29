@@ -1,14 +1,13 @@
 const app = require('./app')
-// require('dotenv').config()
 
-if (process.env.NODE_ENV !== "production") {
+// Skip DB setup on Vercel for now
+if (process.env.VERCEL_ENV !== "production") {
     const User = require("./model/user.model");
     const Product = require("./model/product.model");
     const Cart = require("./model/cart.model");
     const Wishlist = require("./model/wishlist.model");
     const Order = require("./model/order.model");
 
-    // Sync all models once
     Promise.all([
         User.sync({ alter: true }),
         Product.sync({ alter: true }),
