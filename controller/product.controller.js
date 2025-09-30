@@ -47,45 +47,54 @@ const getProductById = async (req, res) => {
 }
 
 const createProduct = async (req, res) => {
+
     try {
-        const {
-            title, description, category, brand, price, discountPercentage,
-            stock, weight, tags, warrantyInformation, shippingInformation, returnPolicy
-        } = req.body;
+
+        const { title, description, category, brand, price, discountPercentage, stock, weight, tags,
+            warrantyInformation, shippingInformation, returnPolicy, } = req.body
 
         const thumbnailFile = req.files["thumbnail"] ? req.files["thumbnail"][0] : null;
-        const thumbnailUrl = thumbnailFile ? thumbnailFile.path : null; // multer-cloudinary gives .path = secure_url
+        let thumbnailUrl = null
+
+        if (thumbnailFile) {
+            const result = await cloudinary.uploader(thumbnailFile.path, {
+                folder: "echocart/products/thumnails"
+            })
+            thumbnailUrl = result.secure_url
+        }
 
         const imageFiles = req.files["images"] || [];
-        const imagesUrls = imageFiles.map(file => file.path);
+        let imagesUrls = [];
+        for (const file of imageFiles) {
+            const result = await cloudinary.uploader.upload(file.path, {
+                folder: 'echocart/products/images'
+            });
+            imagesUrls.push(result.secure_url);
+        }
+
 
         const newProduct = await Product.create({
-            title,
-            description,
-            category,
-            brand,
-            price,
-            discountPercentage,
-            stock,
-            weight,
+            title, description, category, brand, price, discountPercentage, stock, weight,
             tags: tags ? JSON.parse(tags) : [],
-            warrantyInformation,
-            shippingInformation,
-            returnPolicy,
+            warrantyInformation, shippingInformation, returnPolicy,
             images: imagesUrls,
             thumbnail: thumbnailUrl,
             reviews: []
         });
 
-        res.status(201).json({ msg: "Product Created Successfully", product: newProduct });
+
+        res.status(201).json({ msg: "Product Created Successfully", product: newProduct })
+
     } catch (err) {
-        res.status(500).json({ msg: "Error While Creating Product", error: err.message });
+        res.status(500).json({ msg: "Error While Creating Product", error: err.message })
     }
-};
+}
 
 const updateProduct = async (req, res) => {
     try {
         const { id } = req.params;
+
+        // Fetch product first
         const product = await Product.findByPk(id);
         if (!product) return res.status(404).json({ msg: "Product not found" });
 
@@ -94,18 +103,30 @@ const updateProduct = async (req, res) => {
             stock, weight, tags, warrantyInformation, shippingInformation, returnPolicy
         } = req.body;
 
-        // Thumbnail
+        // Thumbnail upload
         let thumbnailUrl = product.thumbnail;
-        if (req.files?.thumbnail && req.files.thumbnail.length > 0) {
-            thumbnailUrl = req.files.thumbnail[0].path; // Cloudinary URL
+        if (req.files?.thumbnail) {
+            const thumbnailFile = req.files.thumbnail[0];
+            const result = await cloudinary.uploader.upload(thumbnailFile.path, {
+                folder: 'echocart/products/thumbnails'
+            });
+            thumbnailUrl = result.secure_url;
         }
 
-        // Images
+        // Multiple images upload
         let imagesUrls = product.images || [];
         if (req.files?.images && req.files.images.length > 0) {
-            imagesUrls = req.files.images.map(file => file.path); // Cloudinary URLs
+            const uploadedImages = [];
+            for (const file of req.files.images) {
+                const result = await cloudinary.uploader.upload(file.path, {
+                    folder: 'echocart/products/images'
+                });
+                uploadedImages.push(result.secure_url);
+            }
+            imagesUrls = uploadedImages;
         }
 
+        // Update product
         await product.update({
             title: title || product.title,
             description: description || product.description,
@@ -124,6 +145,7 @@ const updateProduct = async (req, res) => {
         });
 
         res.status(200).json({ msg: "Product updated successfully", product });
+
     } catch (err) {
         res.status(500).json({ msg: "Error updating product", error: err.message });
     }
