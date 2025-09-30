@@ -72,6 +72,8 @@ const Product = sequelize.define('Product', {
         type: DataTypes.BOOLEAN,
         defaultValue: false
     }
+}, {
+    freezeTableName: true 
 });
 
 
