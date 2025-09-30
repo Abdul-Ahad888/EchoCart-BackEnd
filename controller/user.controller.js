@@ -113,29 +113,22 @@ const userDetails = async (req, res) => {
 
 const uploadProfileImage = async (req, res) => {
     try {
-        const userId = req.user.id;
-
         if (!req.file || !req.file.path) {
-            return res.status(400).json({ msg: "No image uploaded" });
+            return res.status(400).json({ msg: "No file uploaded" });
         }
 
-        const result = await cloudinary.uploader.upload(req.file.path, {
-            folder: 'echocart/users/profiles'
-        });
-
-        const user = await User.findByPk(userId);
+        const user = await User.findByPk(req.user.id);
         if (!user) return res.status(404).json({ msg: "User not found" });
 
-        user.profileImage = result.secure_url;
+        user.profileImage = req.file.path; // multer-storage-cloudinary gives Cloudinary URL in path
         await user.save();
 
         res.status(200).json({
             msg: "Profile image uploaded successfully",
-            imageUrl: result.secure_url,
+            imageUrl: req.file.path, // Cloudinary URL
         });
-
     } catch (err) {
-        console.log(err);
+        console.error("Upload error:", err);
         res.status(500).json({ msg: "Error while uploading image", err: err.message });
     }
 };

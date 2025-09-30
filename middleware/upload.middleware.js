@@ -2,14 +2,13 @@ const multer = require('multer')
 const { CloudinaryStorage } = require('multer-storage-cloudinary');
 const cloudinary = require('../config/cloudinary.config');
 
-
 const storage = new CloudinaryStorage({
-    cloudinary: cloudinary,
-    params: {
-        folder: "echocart",
-        allowedFormats: ['jpg', 'jpeg', 'png']
-    }
-})
+  cloudinary: cloudinary,
+  params: {
+    folder: "echocart/users/profiles",
+    allowedFormats: ['jpg', 'jpeg', 'png'],
+  },
+});
 
 
 
