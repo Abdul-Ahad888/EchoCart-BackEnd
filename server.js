@@ -11,7 +11,7 @@ const Order = require("./model/order.model");
 (async () => {
   try {
     await sequelize.authenticate();
-    console.log("✅ Connected to MySQL");
+    console.log("Connected to MySQL");
 
     if (process.env.NODE_ENV !== "production") {
       // Only sync locally
@@ -27,7 +27,7 @@ const Order = require("./model/order.model");
       console.log("⚡ Production mode: skipping DB sync");
     }
   } catch (err) {
-    console.error("❌ Database error:", err);
+    console.error("Database error:", err);
   }
 })();
 module.exports = app;

@@ -10,15 +10,15 @@ const adminRoute = require('./routes/admin.route')
 const path = require('path')
 const app = express()
 
-app.use(cors())
-  
+app.use(cors({ origin: "http://localhost:3000" }))
+
 // {origin : "http://localhost:3000"}
 
 app.use(express.json())
 
 app.get("/", (req, res) => {
-    res.send("Backend is working 🚀");
-  });  
+  res.send("Backend is working");
+});
 
 app.use('/images', express.static(path.join(__dirname, 'uploads/images')))
 
