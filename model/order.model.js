@@ -3,7 +3,7 @@ const { DataTypes } = require('sequelize')
 const User = require('./user.model')
 
 
-const Order = sequelize.define('Order', {
+const Order = sequelize.define('order', {
     id: {
         type: DataTypes.UUID,
         defaultValue: DataTypes.UUIDV4,

@@ -4,7 +4,7 @@ const User = require('./user.model')
 const Product = require('./product.model')
 
 
-    const Cart = sequelize.define('Cart', {
+    const Cart = sequelize.define('cart', {
 
         id: {
             type: DataTypes.UUID,

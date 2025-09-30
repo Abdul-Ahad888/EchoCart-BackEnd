@@ -4,7 +4,7 @@ const User = require('./user.model')
 const Product = require('./product.model')
 
 
-    const Wishlist = sequelize.define('Wishlist', {
+    const Wishlist = sequelize.define('wishlist', {
 
         id: {
             type: DataTypes.UUID,
