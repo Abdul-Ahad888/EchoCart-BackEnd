@@ -1,0 +1,5210 @@
+[
+  {
+    "id": "ba16340b-f515-4d26-a951-63e222acc1fb",
+    "title": "Dior Elegant Eau de Toilette",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "category": "Fragrances",
+    "brand": "Dior",
+    "price": 936.6,
+    "discountPercentage": 0,
+    "stock": 340,
+    "weight": 3.4,
+    "tags": [
+      "fragrance",
+      "dior",
+      "perfume"
+    ],
+    "warrantyInformation": "1 year warranty included",
+    "shippingInformation": "Ships in 3-5 business days",
+    "returnPolicy": "30-day return policy",
+    "images": [
+      "https://res.cloudinary.com/dtllrinkv/image/upload/v1759229545/echocart/products/images/fc0qnvellqwctaapye8d.jpg"
+    ],
+    "thumbnail": "https://res.cloudinary.com/dtllrinkv/image/upload/v1759229544/echocart/products/thumbnails/ntjiaizxjvhujdstycd8.jpg",
+    "reviews": [
+      {
+        "rating": 3,
+        "comment": "Good value.",
+        "date": "2025-04-04T09:01:23.554546",
+        "reviewerName": "Ali Khan",
+        "reviewerEmail": "john@example.com"
+      },
+      {
+        "rating": 5,
+        "comment": "Could be better.",
+        "date": "2025-01-17T19:00:00.000Z",
+        "reviewerName": "Hira Shah",
+        "reviewerEmail": "hira@example.com"
+      },
+      {
+        "rating": 5,
+        "comment": "Exceeded my expectations.",
+        "date": "2024-12-31T19:00:00.000Z",
+        "reviewerName": "Fatima Noor",
+        "reviewerEmail": "fatima@example.com"
+      },
+      {
+        "rating": 3,
+        "comment": "Will definitely buy again.",
+        "date": "2025-05-10T19:00:00.000Z",
+        "reviewerName": "Usman Tariq",
+        "reviewerEmail": "usman@example.com"
+      },
+      {
+        "rating": 3,
+        "comment": "Could be better.",
+        "date": "2025-01-15T19:00:00.000Z",
+        "reviewerName": "Laiba Ahmed",
+        "reviewerEmail": "laiba@example.com"
+      }
+    ]
+  },
+  {
+    "id": "876c0609-a462-4ea7-9265-36513f810416",
+    "title": "Reebok Casual Water Bottle",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "category": "Sports Accessories",
+    "brand": "Reebok",
+    "price": 56.05,
+    "discountPercentage": 0,
+    "stock": 44,
+    "weight": 2.4,
+    "tags": [
+      "sports accessories",
+      "reebok"
+    ],
+    "warrantyInformation": "1 year warranty included",
+    "shippingInformation": "Ships in 3-5 business days",
+    "returnPolicy": "30-day return policy",
+    "images": [
+      "https://res.cloudinary.com/dtllrinkv/image/upload/v1759229547/echocart/products/images/i2qx20piu5qpwsrfvp7l.jpg"
+    ],
+    "thumbnail": "https://res.cloudinary.com/dtllrinkv/image/upload/v1759229546/echocart/products/thumbnails/yyaptb6ghpf5w51whn7r.jpg",
+    "reviews": [
+      {
+        "rating": 5,
+        "comment": "Good value.",
+        "date": "2025-03-19T09:01:23.554656",
+        "reviewerName": "Ali Khan",
+        "reviewerEmail": "jane@example.com"
+      },
+      {
+        "rating": 3,
+        "comment": "Looks good and performs well.",
+        "date": "2025-06-15T19:00:00.000Z",
+        "reviewerName": "Usman Tariq",
+        "reviewerEmail": "usman@example.com"
+      },
+      {
+        "rating": 3,
+        "comment": "Looks good and performs well.",
+        "date": "2025-05-10T19:00:00.000Z",
+        "reviewerName": "Sarah Malik",
+        "reviewerEmail": "sarah@example.com"
+      },
+      {
+        "rating": 4,
+        "comment": "Will definitely buy again.",
+        "date": "2024-12-31T19:00:00.000Z",
+        "reviewerName": "Sarah Malik",
+        "reviewerEmail": "sarah@example.com"
+      }
+    ]
+  },
+  {
+    "id": "ff7f2ea1-ffcb-4907-b50e-ca56e5c4f073",
+    "title": "Reebok Limited Edition Water Bottle",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "category": "Sports Accessories",
+    "brand": "Reebok",
+    "price": 338.79,
+    "discountPercentage": 0.3,
+    "stock": 119,
+    "weight": 1.6,
+    "tags": [
+      "sports accessories",
+      "reebok"
+    ],
+    "warrantyInformation": "1 year warranty included",
+    "shippingInformation": "Ships in 3-5 business days",
+    "returnPolicy": "30-day return policy",
+    "images": [
+      "https://res.cloudinary.com/dtllrinkv/image/upload/v1759229549/echocart/products/images/sgy6ovpoltsora2stgys.jpg"
+    ],
+    "thumbnail": "https://res.cloudinary.com/dtllrinkv/image/upload/v1759229548/echocart/products/thumbnails/ezgoyaqfkw11v6loml0q.jpg",
+    "reviews": [
+      {
+        "rating": 3,
+        "comment": "Excellent product!",
+        "date": "2024-10-04T09:01:23.555017",
+        "reviewerName": "Jane Smith",
+        "reviewerEmail": "john@example.com"
+      },
+      {
+        "rating": 5,
+        "comment": "Works perfectly.",
+        "date": "2025-05-18T19:00:00.000Z",
+        "reviewerName": "Hira Shah",
+        "reviewerEmail": "hira@example.com"
+      },
+      {
+        "rating": 3,
+        "comment": "Exceeded my expectations.",
+        "date": "2025-05-18T19:00:00.000Z",
+        "reviewerName": "Ahmed Raza",
+        "reviewerEmail": "ahmed@example.com"
+      },
+      {
+        "rating": 3,
+        "comment": "Looks good and performs well.",
+        "date": "2025-03-13T19:00:00.000Z",
+        "reviewerName": "Ali Khan",
+        "reviewerEmail": "ali@example.com"
+      },
+      {
+        "rating": 3,
+        "comment": "Quality isn't consistent.",
+        "date": "2025-05-31T19:00:00.000Z",
+        "reviewerName": "Jane Smith",
+        "reviewerEmail": "jane@example.com"
+      }
+    ]
+  },
+  {
+    "id": "1a2771a0-2a4d-4352-b7ce-fe077b203dc4",
+    "title": "Maybelline Elegant Mascara",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "category": "Beauty",
+    "brand": "Maybelline",
+    "price": 786.69,
+    "discountPercentage": 0.5,
+    "stock": 191,
+    "weight": 4.2,
+    "tags": [
+      "beauty",
+      "maybelline"
+    ],
+    "warrantyInformation": "1 year warranty included",
+    "shippingInformation": "Ships in 3-5 business days",
+    "returnPolicy": "30-day return policy",
+    "images": [
+      "https://res.cloudinary.com/dtllrinkv/image/upload/v1759229551/echocart/products/images/hm4ramb89klviq9twmj2.jpg"
+    ],
+    "thumbnail": "https://res.cloudinary.com/dtllrinkv/image/upload/v1759229550/echocart/products/thumbnails/dvhzmotfxb0jg3qk1scj.jpg",
+    "reviews": [
+      {
+        "rating": 5,
+        "comment": "Highly recommend.",
+        "date": "2025-04-03T09:01:23.555229",
+        "reviewerName": "Jane Smith",
+        "reviewerEmail": "jane@example.com"
+      },
+      {
+        "rating": 4,
+        "comment": "Quality isn't consistent.",
+        "date": "2025-03-23T19:00:00.000Z",
+        "reviewerName": "Laiba Ahmed",
+        "reviewerEmail": "laiba@example.com"
+      },
+      {
+        "rating": 4,
+        "comment": "Could be better.",
+        "date": "2025-03-17T19:00:00.000Z",
+        "reviewerName": "Saad Javed",
+        "reviewerEmail": "saad@example.com"
+      },
+      {
+        "rating": 3,
+        "comment": "Love the design!",
+        "date": "2024-12-31T19:00:00.000Z",
+        "reviewerName": "Sarah Malik",
+        "reviewerEmail": "sarah@example.com"
+      },
+      {
+        "rating": 3,
+        "comment": "Works perfectly.",
+        "date": "2025-06-22T19:00:00.000Z",
+        "reviewerName": "Fatima Noor",
+        "reviewerEmail": "fatima@example.com"
+      }
+    ]
+  },
+  {
+    "id": "72b4037c-478c-4995-8a9d-f9528241bd9a",
+    "title": "Fossil Casual Chronograph",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "category": "Mens Watches",
+    "brand": "Fossil",
+    "price": 34.24,
+    "discountPercentage": 29,
+    "stock": 127,
+    "weight": 4.7,
+    "tags": [
+      "mens watches",
+      "fossil"
+    ],
+    "warrantyInformation": "1 year warranty included",
+    "shippingInformation": "Ships in 3-5 business days",
+    "returnPolicy": "30-day return policy",
+    "images": [
+      "https://res.cloudinary.com/dtllrinkv/image/upload/v1759229553/echocart/products/images/msg4jvzieowjh7h1btcx.jpg"
+    ],
+    "thumbnail": "https://res.cloudinary.com/dtllrinkv/image/upload/v1759229552/echocart/products/thumbnails/m4qu91jhrxl1itsjgwba.jpg",
+    "reviews": [
+      {
+        "rating": 4,
+        "comment": "Good value.",
+        "date": "2025-01-18T09:01:23.555435",
+        "reviewerName": "Jane Smith",
+        "reviewerEmail": "john@example.com"
+      },
+      {
+        "rating": 5,
+        "comment": "Could be better.",
+        "date": "2025-04-24T19:00:00.000Z",
+        "reviewerName": "Hira Shah",
+        "reviewerEmail": "hira@example.com"
+      },
+      {
+        "rating": 4,
+        "comment": "Quality isn't consistent.",
+        "date": "2025-04-09T19:00:00.000Z",
+        "reviewerName": "Fatima Noor",
+        "reviewerEmail": "fatima@example.com"
+      },
+      {
+        "rating": 4,
+        "comment": "Could be better.",
+        "date": "2025-06-10T19:00:00.000Z",
+        "reviewerName": "Saad Javed",
+        "reviewerEmail": "saad@example.com"
+      },
+      {
+        "rating": 5,
+        "comment": "Works perfectly.",
+        "date": "2025-04-07T19:00:00.000Z",
+        "reviewerName": "Hira Shah",
+        "reviewerEmail": "hira@example.com"
+      }
+    ]
+  },
+  {
+    "id": "01e76a54-6132-4ecb-9055-0089d4a1b8de",
+    "title": "Fossil Limited Edition Round Shades",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "category": "Sunglasses",
+    "brand": "Fossil",
+    "price": 400.05,
+    "discountPercentage": 3.7,
+    "stock": 282,
+    "weight": 3.7,
+    "tags": [
+      "sunglasses",
+      "fossil"
+    ],
+    "warrantyInformation": "1 year warranty included",
+    "shippingInformation": "Ships in 3-5 business days",
+    "returnPolicy": "30-day return policy",
+    "images": [
+      "https://res.cloudinary.com/dtllrinkv/image/upload/v1759229556/echocart/products/images/iestalbvlsv7i8jlppzq.jpg"
+    ],
+    "thumbnail": "https://res.cloudinary.com/dtllrinkv/image/upload/v1759229556/echocart/products/thumbnails/uuypzp8sycmyq5w9nbia.jpg",
+    "reviews": [
+      {
+        "rating": 5,
+        "comment": "Highly recommend.",
+        "date": "2025-05-18T09:01:23.555740",
+        "reviewerName": "Jane Smith",
+        "reviewerEmail": "jane@example.com"
+      },
+      {
+        "rating": 4,
+        "comment": "Quality isn't consistent.",
+        "date": "2025-01-08T19:00:00.000Z",
+        "reviewerName": "Hira Shah",
+        "reviewerEmail": "hira@example.com"
+      },
+      {
+        "rating": 5,
+        "comment": "Looks good and performs well.",
+        "date": "2025-04-02T19:00:00.000Z",
+        "reviewerName": "Jane Smith",
+        "reviewerEmail": "jane@example.com"
+      },
+      {
+        "rating": 5,
+        "comment": "Could be better.",
+        "date": "2025-02-07T19:00:00.000Z",
+        "reviewerName": "Ahmed Raza",
+        "reviewerEmail": "ahmed@example.com"
+      }
+    ]
+  },
+  {
+    "id": "8760ff2d-e5cb-489d-9565-d8f9ed6c1659",
+    "title": "Tiffany & Co. Casual Necklace",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "category": "Womens Jewellery",
+    "brand": "Tiffany & Co.",
+    "price": 512.68,
+    "discountPercentage": 0.6,
+    "stock": 34,
+    "weight": 1.6,
+    "tags": [
+      "womens jewellery",
+      "tiffany & co."
+    ],
+    "warrantyInformation": "1 year warranty included",
+    "shippingInformation": "Ships in 3-5 business days",
+    "returnPolicy": "30-day return policy",
+    "images": [
+      "https://res.cloudinary.com/dtllrinkv/image/upload/v1759229559/echocart/products/images/ph4qijhe4ottusdcpntl.jpg"
+    ],
+    "thumbnail": "https://res.cloudinary.com/dtllrinkv/image/upload/v1759229558/echocart/products/thumbnails/otunmi38qgslzcowedzp.jpg",
+    "reviews": [
+      {
+        "rating": 4,
+        "comment": "Good value.",
+        "date": "2025-02-09T09:01:23.555782",
+        "reviewerName": "Jane Smith",
+        "reviewerEmail": "jane@example.com"
+      },
+      {
+        "rating": 3,
+        "comment": "Quality isn't consistent.",
+        "date": "2025-02-18T19:00:00.000Z",
+        "reviewerName": "Ali Khan",
+        "reviewerEmail": "ali@example.com"
+      },
+      {
+        "rating": 5,
+        "comment": "Works perfectly.",
+        "date": "2025-05-19T19:00:00.000Z",
+        "reviewerName": "Ali Khan",
+        "reviewerEmail": "ali@example.com"
+      },
+      {
+        "rating": 4,
+        "comment": "Will definitely buy again.",
+        "date": "2025-03-16T19:00:00.000Z",
+        "reviewerName": "Saad Javed",
+        "reviewerEmail": "saad@example.com"
+      }
+    ]
+  },
+  {
+    "id": "e9208042-4840-40bc-9137-71c3d247ded7",
+    "title": "CeraVe Premium Face Wash",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "category": "Skin Care",
+    "brand": "CeraVe",
+    "price": 706.4,
+    "discountPercentage": 0.8,
+    "stock": 423,
+    "weight": 4.8,
+    "tags": [
+      "skin care",
+      "cerave"
+    ],
+    "warrantyInformation": "1 year warranty included",
+    "shippingInformation": "Ships in 3-5 business days",
+    "returnPolicy": "30-day return policy",
+    "images": [
+      "https://res.cloudinary.com/dtllrinkv/image/upload/v1759229561/echocart/products/images/uaoixyvrl5ucbe4bzsy3.jpg"
+    ],
+    "thumbnail": "https://res.cloudinary.com/dtllrinkv/image/upload/v1759229560/echocart/products/thumbnails/ibg0kwvyzevmajmqw0pr.jpg",
+    "reviews": [
+      {
+        "rating": 3,
+        "comment": "Good value.",
+        "date": "2024-09-18T09:01:23.555846",
+        "reviewerName": "Jane Smith",
+        "reviewerEmail": "ali@example.com"
+      },
+      {
+        "rating": 4,
+        "comment": "Not bad for the price.",
+        "date": "2025-01-05T19:00:00.000Z",
+        "reviewerName": "Ali Khan",
+        "reviewerEmail": "ali@example.com"
+      },
+      {
+        "rating": 3,
+        "comment": "Quality isn't consistent.",
+        "date": "2025-01-01T19:00:00.000Z",
+        "reviewerName": "Fatima Noor",
+        "reviewerEmail": "fatima@example.com"
+      }
+    ]
+  },
+  {
+    "id": "98e96936-f0a2-4a9a-be3f-4603e828a4b1",
+    "title": "Kellogg's Elegant Sauce",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "category": "Groceries",
+    "brand": "Kellogg's",
+    "price": 537.77,
+    "discountPercentage": 27.6,
+    "stock": 429,
+    "weight": 1.8,
+    "tags": [
+      "groceries",
+      "kellogg's"
+    ],
+    "warrantyInformation": "1 year warranty included",
+    "shippingInformation": "Ships in 3-5 business days",
+    "returnPolicy": "30-day return policy",
+    "images": [
+      "https://res.cloudinary.com/dtllrinkv/image/upload/v1759229563/echocart/products/images/pkfcw1c4mtri4zchsqsc.jpg"
+    ],
+    "thumbnail": "https://res.cloudinary.com/dtllrinkv/image/upload/v1759229562/echocart/products/thumbnails/yxvoegiwn4gnhffvqgmt.jpg",
+    "reviews": [
+      {
+        "rating": 4,
+        "comment": "Highly recommend.",
+        "date": "2024-10-26T09:01:23.555894",
+        "reviewerName": "Jane Smith",
+        "reviewerEmail": "ali@example.com"
+      },
+      {
+        "rating": 4,
+        "comment": "Great product, highly recommend!",
+        "date": "2025-06-27T19:00:00.000Z",
+        "reviewerName": "Hira Shah",
+        "reviewerEmail": "hira@example.com"
+      },
+      {
+        "rating": 5,
+        "comment": "Works perfectly.",
+        "date": "2025-02-17T19:00:00.000Z",
+        "reviewerName": "Hira Shah",
+        "reviewerEmail": "hira@example.com"
+      }
+    ]
+  },
+  {
+    "id": "2a982aff-552a-431c-81f0-55471397be73",
+    "title": "Seiko Casual Chronograph",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "category": "Mens Watches",
+    "brand": "Seiko",
+    "price": 622.98,
+    "discountPercentage": 5.6,
+    "stock": 281,
+    "weight": 0.8,
+    "tags": [
+      "mens watches",
+      "seiko"
+    ],
+    "warrantyInformation": "1 year warranty included",
+    "shippingInformation": "Ships in 3-5 business days",
+    "returnPolicy": "30-day return policy",
+    "images": [
+      "https://res.cloudinary.com/dtllrinkv/image/upload/v1759229565/echocart/products/images/w2oqe5dk5vt0fptkoqhj.jpg"
+    ],
+    "thumbnail": "https://res.cloudinary.com/dtllrinkv/image/upload/v1759229564/echocart/products/thumbnails/xjykwgjjgpxskvflt4fl.jpg",
+    "reviews": [
+      {
+        "rating": 3,
+        "comment": "Highly recommend.",
+        "date": "2025-01-24T09:01:23.555954",
+        "reviewerName": "Jane Smith",
+        "reviewerEmail": "ali@example.com"
+      },
+      {
+        "rating": 5,
+        "comment": "Love the design!",
+        "date": "2025-04-22T19:00:00.000Z",
+        "reviewerName": "Jane Smith",
+        "reviewerEmail": "jane@example.com"
+      },
+      {
+        "rating": 3,
+        "comment": "Will definitely buy again.",
+        "date": "2025-02-05T19:00:00.000Z",
+        "reviewerName": "Saad Javed",
+        "reviewerEmail": "saad@example.com"
+      }
+    ]
+  },
+  {
+    "id": "cb6d2f78-f310-4341-96a4-48fd1f53e408",
+    "title": "Ford Elegant Cover",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "category": "Vehicle",
+    "brand": "Ford",
+    "price": 51.99,
+    "discountPercentage": 0,
+    "stock": 366,
+    "weight": 2.1,
+    "tags": [
+      "vehicle",
+      "ford"
+    ],
+    "warrantyInformation": "1 year warranty included",
+    "shippingInformation": "Ships in 3-5 business days",
+    "returnPolicy": "30-day return policy",
+    "images": [
+      "https://res.cloudinary.com/dtllrinkv/image/upload/v1759229567/echocart/products/images/nbyou7uqhvoh3mfbxfog.jpg"
+    ],
+    "thumbnail": "https://res.cloudinary.com/dtllrinkv/image/upload/v1759229566/echocart/products/thumbnails/xjcyhsm09ky846sv1g5p.jpg",
+    "reviews": [
+      {
+        "rating": 5,
+        "comment": "Highly recommend.",
+        "date": "2024-09-26T09:01:23.556054",
+        "reviewerName": "Jane Smith",
+        "reviewerEmail": "ali@example.com"
+      },
+      {
+        "rating": 4,
+        "comment": "Looks good and performs well.",
+        "date": "2025-02-25T19:00:00.000Z",
+        "reviewerName": "Usman Tariq",
+        "reviewerEmail": "usman@example.com"
+      },
+      {
+        "rating": 3,
+        "comment": "Love the design!",
+        "date": "2025-03-18T19:00:00.000Z",
+        "reviewerName": "Laiba Ahmed",
+        "reviewerEmail": "laiba@example.com"
+      }
+    ]
+  },
+  {
+    "id": "3f0b6240-c518-41e8-945e-4c3aa63e5a79",
+    "title": "HP Premium Ultrabook",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "category": "Laptops",
+    "brand": "HP",
+    "price": 329.59,
+    "discountPercentage": 6.5,
+    "stock": 172,
+    "weight": 4.4,
+    "tags": [
+      "laptops",
+      "hp"
+    ],
+    "warrantyInformation": "1 year warranty included",
+    "shippingInformation": "Ships in 3-5 business days",
+    "returnPolicy": "30-day return policy",
+    "images": [
+      "https://res.cloudinary.com/dtllrinkv/image/upload/v1759229569/echocart/products/images/g0frie4i6xvsicpsdzjq.jpg"
+    ],
+    "thumbnail": "https://res.cloudinary.com/dtllrinkv/image/upload/v1759229568/echocart/products/thumbnails/dce6hjs6rmcg0sfz1hax.jpg",
+    "reviews": [
+      {
+        "rating": 4,
+        "comment": "Highly recommend.",
+        "date": "2024-08-09T09:01:23.556128",
+        "reviewerName": "John Doe",
+        "reviewerEmail": "jane@example.com"
+      },
+      {
+        "rating": 4,
+        "comment": "Exceeded my expectations.",
+        "date": "2025-01-05T19:00:00.000Z",
+        "reviewerName": "Bilal Aslam",
+        "reviewerEmail": "bilal@example.com"
+      },
+      {
+        "rating": 5,
+        "comment": "Great product, highly recommend!",
+        "date": "2025-02-08T19:00:00.000Z",
+        "reviewerName": "Fatima Noor",
+        "reviewerEmail": "fatima@example.com"
+      },
+      {
+        "rating": 3,
+        "comment": "Great product, highly recommend!",
+        "date": "2025-04-02T19:00:00.000Z",
+        "reviewerName": "Laiba Ahmed",
+        "reviewerEmail": "laiba@example.com"
+      },
+      {
+        "rating": 3,
+        "comment": "Looks good and performs well.",
+        "date": "2025-02-21T19:00:00.000Z",
+        "reviewerName": "Laiba Ahmed",
+        "reviewerEmail": "laiba@example.com"
+      }
+    ]
+  },
+  {
+    "id": "06097324-6ecf-40a4-bee6-d3e39a3543f6",
+    "title": "Nestle Casual Cereal",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "category": "Groceries",
+    "brand": "Nestle",
+    "price": 285.45,
+    "discountPercentage": 0.9,
+    "stock": 472,
+    "weight": 1.3,
+    "tags": [
+      "groceries",
+      "nestle"
+    ],
+    "warrantyInformation": "1 year warranty included",
+    "shippingInformation": "Ships in 3-5 business days",
+    "returnPolicy": "30-day return policy",
+    "images": [
+      "https://res.cloudinary.com/dtllrinkv/image/upload/v1759229571/echocart/products/images/lp737jmnm2rwnqf0ogs5.jpg"
+    ],
+    "thumbnail": "https://res.cloudinary.com/dtllrinkv/image/upload/v1759229570/echocart/products/thumbnails/fdflrsn4ittsch9r4j2e.jpg",
+    "reviews": [
+      {
+        "rating": 4,
+        "comment": "Highly recommend.",
+        "date": "2025-01-18T09:01:23.556288",
+        "reviewerName": "Ali Khan",
+        "reviewerEmail": "ali@example.com"
+      },
+      {
+        "rating": 4,
+        "comment": "Looks good and performs well.",
+        "date": "2025-03-04T19:00:00.000Z",
+        "reviewerName": "Hira Shah",
+        "reviewerEmail": "hira@example.com"
+      },
+      {
+        "rating": 4,
+        "comment": "Great product, highly recommend!",
+        "date": "2025-02-21T19:00:00.000Z",
+        "reviewerName": "Sarah Malik",
+        "reviewerEmail": "sarah@example.com"
+      }
+    ]
+  },
+  {
+    "id": "59780905-9bcd-4f6f-bab1-8da8b7f6e112",
+    "title": "Pandora Elegant Necklace",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "category": "Womens Jewellery",
+    "brand": "Pandora",
+    "price": 250.76,
+    "discountPercentage": 23.1,
+    "stock": 136,
+    "weight": 0.9,
+    "tags": [
+      "womens jewellery",
+      "pandora"
+    ],
+    "warrantyInformation": "1 year warranty included",
+    "shippingInformation": "Ships in 3-5 business days",
+    "returnPolicy": "30-day return policy",
+    "images": [
+      "https://res.cloudinary.com/dtllrinkv/image/upload/v1759229574/echocart/products/images/dqmsi6rdesfsgjpymegx.jpg"
+    ],
+    "thumbnail": "https://res.cloudinary.com/dtllrinkv/image/upload/v1759229572/echocart/products/thumbnails/xukvz3ghwcacpnmjlqgj.jpg",
+    "reviews": [
+      {
+        "rating": 3,
+        "comment": "Excellent product!",
+        "date": "2025-05-24T09:01:23.556459",
+        "reviewerName": "Ali Khan",
+        "reviewerEmail": "jane@example.com"
+      },
+      {
+        "rating": 5,
+        "comment": "Not what I expected.",
+        "date": "2025-04-09T19:00:00.000Z",
+        "reviewerName": "Sarah Malik",
+        "reviewerEmail": "sarah@example.com"
+      },
+      {
+        "rating": 5,
+        "comment": "Not bad for the price.",
+        "date": "2025-01-10T19:00:00.000Z",
+        "reviewerName": "Ali Khan",
+        "reviewerEmail": "ali@example.com"
+      }
+    ]
+  },
+  {
+    "id": "ac3f7333-3536-4c91-b45d-303f906406e3",
+    "title": "Forever 21 Limited Edition Evening Dress",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "category": "Womens Dresses",
+    "brand": "Forever 21",
+    "price": 896.55,
+    "discountPercentage": 19.7,
+    "stock": 268,
+    "weight": 2.9,
+    "tags": [
+      "womens dresses",
+      "forever 21"
+    ],
+    "warrantyInformation": "1 year warranty included",
+    "shippingInformation": "Ships in 3-5 business days",
+    "returnPolicy": "30-day return policy",
+    "images": [
+      "https://res.cloudinary.com/dtllrinkv/image/upload/v1759229576/echocart/products/images/ngmfztpf6i3jy0wyttig.jpg"
+    ],
+    "thumbnail": "https://res.cloudinary.com/dtllrinkv/image/upload/v1759229575/echocart/products/thumbnails/s0bgpiydpyw7lckbcipf.jpg",
+    "reviews": [
+      {
+        "rating": 5,
+        "comment": "Excellent product!",
+        "date": "2024-08-12T09:01:23.556512",
+        "reviewerName": "Ali Khan",
+        "reviewerEmail": "jane@example.com"
+      },
+      {
+        "rating": 5,
+        "comment": "Looks good and performs well.",
+        "date": "2025-06-16T19:00:00.000Z",
+        "reviewerName": "Jane Smith",
+        "reviewerEmail": "jane@example.com"
+      },
+      {
+        "rating": 4,
+        "comment": "Not what I expected.",
+        "date": "2025-06-09T19:00:00.000Z",
+        "reviewerName": "Hira Shah",
+        "reviewerEmail": "hira@example.com"
+      }
+    ]
+  },
+  {
+    "id": "f8f9de45-c27e-4909-854a-a8506e953cd8",
+    "title": "Prestige Classic Blender",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "category": "Kitchen Accessories",
+    "brand": "Prestige",
+    "price": 18.82,
+    "discountPercentage": 13.2,
+    "stock": 127,
+    "weight": 3.3,
+    "tags": [
+      "kitchen accessories",
+      "prestige"
+    ],
+    "warrantyInformation": "1 year warranty included",
+    "shippingInformation": "Ships in 3-5 business days",
+    "returnPolicy": "30-day return policy",
+    "images": [
+      "https://res.cloudinary.com/dtllrinkv/image/upload/v1759229578/echocart/products/images/e7krwav9wsi6okw9aych.jpg"
+    ],
+    "thumbnail": "https://res.cloudinary.com/dtllrinkv/image/upload/v1759229577/echocart/products/thumbnails/y1gyormhvcgdlhlmgvhm.jpg",
+    "reviews": [
+      {
+        "rating": 5,
+        "comment": "Good value.",
+        "date": "2024-09-05T09:01:23.556749",
+        "reviewerName": "Jane Smith",
+        "reviewerEmail": "jane@example.com"
+      },
+      {
+        "rating": 3,
+        "comment": "Great product, highly recommend!",
+        "date": "2025-05-13T19:00:00.000Z",
+        "reviewerName": "Fatima Noor",
+        "reviewerEmail": "fatima@example.com"
+      },
+      {
+        "rating": 4,
+        "comment": "Works perfectly.",
+        "date": "2025-05-07T19:00:00.000Z",
+        "reviewerName": "Sarah Malik",
+        "reviewerEmail": "sarah@example.com"
+      }
+    ]
+  },
+  {
+    "id": "8bf70426-927d-430c-b5c3-9e2f694fbcc1",
+    "title": "Elegant Necklace",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "category": "Womens Jewellery",
+    "brand": "Pandora",
+    "price": 934.03,
+    "discountPercentage": 0,
+    "stock": 469,
+    "weight": 2.2,
+    "tags": [
+      "womens jewellery",
+      "pandora"
+    ],
+    "warrantyInformation": "1 year warranty included",
+    "shippingInformation": "Ships in 3-5 business days",
+    "returnPolicy": "30-day return policy",
+    "images": [
+      "https://res.cloudinary.com/dtllrinkv/image/upload/v1759229583/echocart/products/images/m1o6thqw8hrwo3tedez8.jpg"
+    ],
+    "thumbnail": "https://res.cloudinary.com/dtllrinkv/image/upload/v1759229581/echocart/products/thumbnails/midbajxv0t70gverogkp.jpg",
+    "reviews": [
+      {
+        "rating": 5,
+        "comment": "Good value.",
+        "date": "2025-01-24T09:01:23.556797",
+        "reviewerName": "John Doe",
+        "reviewerEmail": "john@example.com"
+      },
+      {
+        "rating": 3,
+        "comment": "Will definitely buy again.",
+        "date": "2025-02-01T19:00:00.000Z",
+        "reviewerName": "Fatima Noor",
+        "reviewerEmail": "fatima@example.com"
+      },
+      {
+        "rating": 4,
+        "comment": "Looks good and performs well.",
+        "date": "2025-06-08T19:00:00.000Z",
+        "reviewerName": "Bilal Aslam",
+        "reviewerEmail": "bilal@example.com"
+      },
+      {
+        "rating": 3,
+        "comment": "Great product, highly recommend!",
+        "date": "2025-01-31T19:00:00.000Z",
+        "reviewerName": "Usman Tariq",
+        "reviewerEmail": "usman@example.com"
+      }
+    ]
+  },
+  {
+    "id": "5bc60bc1-1574-4716-84c1-906f33ab06e4",
+    "title": "Guess Modern Leather Watch",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "category": "Womens Watches",
+    "brand": "Guess",
+    "price": 653.39,
+    "discountPercentage": 22.5,
+    "stock": 114,
+    "weight": 4,
+    "tags": [
+      "womens watches",
+      "guess"
+    ],
+    "warrantyInformation": "1 year warranty included",
+    "shippingInformation": "Ships in 3-5 business days",
+    "returnPolicy": "30-day return policy",
+    "images": [
+      "https://res.cloudinary.com/dtllrinkv/image/upload/v1759229585/echocart/products/images/dirjmfjereryha7ze1nd.jpg"
+    ],
+    "thumbnail": "https://res.cloudinary.com/dtllrinkv/image/upload/v1759229584/echocart/products/thumbnails/vq71x7lice39ofufxqzi.jpg",
+    "reviews": [
+      {
+        "rating": 5,
+        "comment": "Good value.",
+        "date": "2025-04-08T09:01:23.556887",
+        "reviewerName": "Jane Smith",
+        "reviewerEmail": "john@example.com"
+      },
+      {
+        "rating": 3,
+        "comment": "Great product, highly recommend!",
+        "date": "2025-04-04T19:00:00.000Z",
+        "reviewerName": "Ali Khan",
+        "reviewerEmail": "ali@example.com"
+      },
+      {
+        "rating": 4,
+        "comment": "Not what I expected.",
+        "date": "2025-05-21T19:00:00.000Z",
+        "reviewerName": "Usman Tariq",
+        "reviewerEmail": "usman@example.com"
+      },
+      {
+        "rating": 4,
+        "comment": "Love the design!",
+        "date": "2025-01-03T19:00:00.000Z",
+        "reviewerName": "Ahmed Raza",
+        "reviewerEmail": "ahmed@example.com"
+      }
+    ]
+  },
+  {
+    "id": "716d2f93-1862-45e0-88f3-282107cc7551",
+    "title": "Fossil Elegant Analog Watch",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "category": "Mens Watches",
+    "brand": "Fossil",
+    "price": 323.06,
+    "discountPercentage": 26.7,
+    "stock": 374,
+    "weight": 1.1,
+    "tags": [
+      "mens watches",
+      "fossil"
+    ],
+    "warrantyInformation": "1 year warranty included",
+    "shippingInformation": "Ships in 3-5 business days",
+    "returnPolicy": "30-day return policy",
+    "images": [
+      "https://res.cloudinary.com/dtllrinkv/image/upload/v1759229590/echocart/products/images/e3cws6zshbbuyhrsgtyt.jpg"
+    ],
+    "thumbnail": "https://res.cloudinary.com/dtllrinkv/image/upload/v1759229588/echocart/products/thumbnails/owv5yqsnj5vi8omoiqnp.jpg",
+    "reviews": [
+      {
+        "rating": 5,
+        "comment": "Excellent product!",
+        "date": "2024-09-27T09:01:23.556950",
+        "reviewerName": "John Doe",
+        "reviewerEmail": "ali@example.com"
+      },
+      {
+        "rating": 4,
+        "comment": "Great product, highly recommend!",
+        "date": "2025-03-08T19:00:00.000Z",
+        "reviewerName": "Fatima Noor",
+        "reviewerEmail": "fatima@example.com"
+      },
+      {
+        "rating": 3,
+        "comment": "Love the design!",
+        "date": "2025-05-13T19:00:00.000Z",
+        "reviewerName": "Zain Ali",
+        "reviewerEmail": "zain@example.com"
+      },
+      {
+        "rating": 5,
+        "comment": "Love the design!",
+        "date": "2025-02-10T19:00:00.000Z",
+        "reviewerName": "Sarah Malik",
+        "reviewerEmail": "sarah@example.com"
+      }
+    ]
+  },
+  {
+    "id": "5de00cd2-6c73-4783-9267-f1443d2e6f6a",
+    "title": "Casio Elegant Chronograph",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "category": "Mens Watches",
+    "brand": "Casio",
+    "price": 51.19,
+    "discountPercentage": 0.9,
+    "stock": 403,
+    "weight": 0.7,
+    "tags": [
+      "mens watches",
+      "casio"
+    ],
+    "warrantyInformation": "1 year warranty included",
+    "shippingInformation": "Ships in 3-5 business days",
+    "returnPolicy": "30-day return policy",
+    "images": [
+      "https://res.cloudinary.com/dtllrinkv/image/upload/v1759229592/echocart/products/images/nchiwpd3euz1o0poncok.jpg"
+    ],
+    "thumbnail": "https://res.cloudinary.com/dtllrinkv/image/upload/v1759229591/echocart/products/thumbnails/cif8oxnynijxqszjsnba.jpg",
+    "reviews": [
+      {
+        "rating": 3,
+        "comment": "Excellent product!",
+        "date": "2024-07-12T09:01:23.557009",
+        "reviewerName": "John Doe",
+        "reviewerEmail": "john@example.com"
+      },
+      {
+        "rating": 5,
+        "comment": "Not what I expected.",
+        "date": "2025-04-15T19:00:00.000Z",
+        "reviewerName": "Saad Javed",
+        "reviewerEmail": "saad@example.com"
+      },
+      {
+        "rating": 3,
+        "comment": "Will definitely buy again.",
+        "date": "2025-01-11T19:00:00.000Z",
+        "reviewerName": "Hira Shah",
+        "reviewerEmail": "hira@example.com"
+      },
+      {
+        "rating": 3,
+        "comment": "Works perfectly.",
+        "date": "2025-05-13T19:00:00.000Z",
+        "reviewerName": "Fatima Noor",
+        "reviewerEmail": "fatima@example.com"
+      },
+      {
+        "rating": 5,
+        "comment": "Could be better.",
+        "date": "2025-01-13T19:00:00.000Z",
+        "reviewerName": "Fatima Noor",
+        "reviewerEmail": "fatima@example.com"
+      }
+    ]
+  },
+  {
+    "id": "faaba80e-cad1-4181-bd93-1338657d2d77",
+    "title": "H&M Elegant Evening Dress",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "category": "Womens Dresses",
+    "brand": "H&M",
+    "price": 774.03,
+    "discountPercentage": 22.5,
+    "stock": 189,
+    "weight": 3,
+    "tags": [
+      "womens dresses",
+      "h&m"
+    ],
+    "warrantyInformation": "1 year warranty included",
+    "shippingInformation": "Ships in 3-5 business days",
+    "returnPolicy": "30-day return policy",
+    "images": [
+      "https://res.cloudinary.com/dtllrinkv/image/upload/v1759229594/echocart/products/images/aabikzgdwxfo9b4nygln.jpg"
+    ],
+    "thumbnail": "https://res.cloudinary.com/dtllrinkv/image/upload/v1759229594/echocart/products/thumbnails/ocprfjppbuqerrqor3z7.jpg",
+    "reviews": [
+      {
+        "rating": 3,
+        "comment": "Highly recommend.",
+        "date": "2024-12-23T09:01:23.557062",
+        "reviewerName": "Ali Khan",
+        "reviewerEmail": "john@example.com"
+      },
+      {
+        "rating": 3,
+        "comment": "Looks good and performs well.",
+        "date": "2025-02-06T19:00:00.000Z",
+        "reviewerName": "Laiba Ahmed",
+        "reviewerEmail": "laiba@example.com"
+      },
+      {
+        "rating": 5,
+        "comment": "Exceeded my expectations.",
+        "date": "2025-05-19T19:00:00.000Z",
+        "reviewerName": "Ali Khan",
+        "reviewerEmail": "ali@example.com"
+      },
+      {
+        "rating": 4,
+        "comment": "Works perfectly.",
+        "date": "2025-02-24T19:00:00.000Z",
+        "reviewerName": "Fatima Noor",
+        "reviewerEmail": "fatima@example.com"
+      }
+    ]
+  },
+  {
+    "id": "6633fc8e-3614-413a-ba92-1628ed227b13",
+    "title": "Fossil Casual Smartwatch",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "category": "Womens Watches",
+    "brand": "Fossil",
+    "price": 180.1,
+    "discountPercentage": 0.8,
+    "stock": 345,
+    "weight": 4.4,
+    "tags": [
+      "womens watches",
+      "fossil"
+    ],
+    "warrantyInformation": "1 year warranty included",
+    "shippingInformation": "Ships in 3-5 business days",
+    "returnPolicy": "30-day return policy",
+    "images": [
+      "https://res.cloudinary.com/dtllrinkv/image/upload/v1759229597/echocart/products/images/by1gntrfvgf0pknbzsjq.jpg"
+    ],
+    "thumbnail": "https://res.cloudinary.com/dtllrinkv/image/upload/v1759229596/echocart/products/thumbnails/xhy2ptm3l3bhkue3zift.jpg",
+    "reviews": [
+      {
+        "rating": 3,
+        "comment": "Good value.",
+        "date": "2025-05-10T09:01:23.557124",
+        "reviewerName": "John Doe",
+        "reviewerEmail": "ali@example.com"
+      },
+      {
+        "rating": 4,
+        "comment": "Not what I expected.",
+        "date": "2025-04-08T19:00:00.000Z",
+        "reviewerName": "Saad Javed",
+        "reviewerEmail": "saad@example.com"
+      },
+      {
+        "rating": 4,
+        "comment": "Exceeded my expectations.",
+        "date": "2025-03-10T19:00:00.000Z",
+        "reviewerName": "Ahmed Raza",
+        "reviewerEmail": "ahmed@example.com"
+      },
+      {
+        "rating": 3,
+        "comment": "Love the design!",
+        "date": "2025-05-11T19:00:00.000Z",
+        "reviewerName": "Jane Smith",
+        "reviewerEmail": "jane@example.com"
+      },
+      {
+        "rating": 3,
+        "comment": "Could be better.",
+        "date": "2025-04-06T19:00:00.000Z",
+        "reviewerName": "Fatima Noor",
+        "reviewerEmail": "fatima@example.com"
+      }
+    ]
+  },
+  {
+    "id": "6c30b684-45c8-42dc-8d5d-b1e62e92a63f",
+    "title": "Prestige Modern Knife Set",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "category": "Kitchen Accessories",
+    "brand": "Prestige",
+    "price": 160.85,
+    "discountPercentage": 0.8,
+    "stock": 207,
+    "weight": 4.6,
+    "tags": [
+      "kitchen accessories",
+      "prestige"
+    ],
+    "warrantyInformation": "1 year warranty included",
+    "shippingInformation": "Ships in 3-5 business days",
+    "returnPolicy": "30-day return policy",
+    "images": [
+      "https://res.cloudinary.com/dtllrinkv/image/upload/v1759229600/echocart/products/images/zdxpdlkbeq7lhrxnejwb.jpg"
+    ],
+    "thumbnail": "https://res.cloudinary.com/dtllrinkv/image/upload/v1759229599/echocart/products/thumbnails/ytifikalgeqgy6cezoyj.jpg",
+    "reviews": [
+      {
+        "rating": 4,
+        "comment": "Highly recommend.",
+        "date": "2025-02-25T09:01:23.557175",
+        "reviewerName": "Jane Smith",
+        "reviewerEmail": "john@example.com"
+      },
+      {
+        "rating": 5,
+        "comment": "Exceeded my expectations.",
+        "date": "2025-03-06T19:00:00.000Z",
+        "reviewerName": "Sarah Malik",
+        "reviewerEmail": "sarah@example.com"
+      },
+      {
+        "rating": 5,
+        "comment": "Not what I expected.",
+        "date": "2025-06-01T19:00:00.000Z",
+        "reviewerName": "Bilal Aslam",
+        "reviewerEmail": "bilal@example.com"
+      },
+      {
+        "rating": 4,
+        "comment": "Great product, highly recommend!",
+        "date": "2025-04-12T19:00:00.000Z",
+        "reviewerName": "Laiba Ahmed",
+        "reviewerEmail": "laiba@example.com"
+      }
+    ]
+  },
+  {
+    "id": "93de0c2b-06a1-44df-a39d-7fb7841533f1",
+    "title": "Fossil Premium Smartwatch",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "category": "Womens Watches",
+    "brand": "Fossil",
+    "price": 379.47,
+    "discountPercentage": 19.2,
+    "stock": 204,
+    "weight": 2.9,
+    "tags": [
+      "womens watches",
+      "fossil"
+    ],
+    "warrantyInformation": "1 year warranty included",
+    "shippingInformation": "Ships in 3-5 business days",
+    "returnPolicy": "30-day return policy",
+    "images": [
+      "https://res.cloudinary.com/dtllrinkv/image/upload/v1759229602/echocart/products/images/o0mafffilwuxrd5dmis6.jpg"
+    ],
+    "thumbnail": "https://res.cloudinary.com/dtllrinkv/image/upload/v1759229601/echocart/products/thumbnails/ssadipivczyer2nlnxfd.jpg",
+    "reviews": [
+      {
+        "rating": 5,
+        "comment": "Good value.",
+        "date": "2024-10-18T09:01:23.557219",
+        "reviewerName": "Jane Smith",
+        "reviewerEmail": "jane@example.com"
+      },
+      {
+        "rating": 4,
+        "comment": "Exceeded my expectations.",
+        "date": "2025-01-04T19:00:00.000Z",
+        "reviewerName": "Fatima Noor",
+        "reviewerEmail": "fatima@example.com"
+      },
+      {
+        "rating": 5,
+        "comment": "Not bad for the price.",
+        "date": "2025-01-02T19:00:00.000Z",
+        "reviewerName": "Hira Shah",
+        "reviewerEmail": "hira@example.com"
+      }
+    ]
+  },
+  {
+    "id": "cec22aa3-7b26-4556-935c-896cfe7ce0f8",
+    "title": "Forever 21 Classic Maxi Dress",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "category": "Womens Dresses",
+    "brand": "Forever 21",
+    "price": 466.53,
+    "discountPercentage": 0,
+    "stock": 418,
+    "weight": 3.6,
+    "tags": [
+      "womens dresses",
+      "forever 21"
+    ],
+    "warrantyInformation": "1 year warranty included",
+    "shippingInformation": "Ships in 3-5 business days",
+    "returnPolicy": "30-day return policy",
+    "images": [
+      "https://res.cloudinary.com/dtllrinkv/image/upload/v1759229604/echocart/products/images/jf6s13hgpowkvygwdzby.jpg"
+    ],
+    "thumbnail": "https://res.cloudinary.com/dtllrinkv/image/upload/v1759229603/echocart/products/thumbnails/pohiyrtlzhmvzsspkesl.jpg",
+    "reviews": [
+      {
+        "rating": 3,
+        "comment": "Excellent product!",
+        "date": "2025-03-16T09:01:23.557255",
+        "reviewerName": "John Doe",
+        "reviewerEmail": "jane@example.com"
+      },
+      {
+        "rating": 3,
+        "comment": "Not what I expected.",
+        "date": "2025-06-10T19:00:00.000Z",
+        "reviewerName": "Zain Ali",
+        "reviewerEmail": "zain@example.com"
+      },
+      {
+        "rating": 4,
+        "comment": "Looks good and performs well.",
+        "date": "2025-05-12T19:00:00.000Z",
+        "reviewerName": "Laiba Ahmed",
+        "reviewerEmail": "laiba@example.com"
+      }
+    ]
+  },
+  {
+    "id": "b81931ab-7ee8-4179-aaea-5891414271aa",
+    "title": "Uniqlo Casual Formal Shirt",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "category": "Mens Shirts",
+    "brand": "Uniqlo",
+    "price": 308.46,
+    "discountPercentage": 0.4,
+    "stock": 442,
+    "weight": 3.4,
+    "tags": [
+      "mens shirts",
+      "uniqlo"
+    ],
+    "warrantyInformation": "1 year warranty included",
+    "shippingInformation": "Ships in 3-5 business days",
+    "returnPolicy": "30-day return policy",
+    "images": [
+      "https://res.cloudinary.com/dtllrinkv/image/upload/v1759229607/echocart/products/images/v9pfaklrtlf9sxupaleb.jpg"
+    ],
+    "thumbnail": "https://res.cloudinary.com/dtllrinkv/image/upload/v1759229605/echocart/products/thumbnails/d7nnjq1itn6mu4lx0tpu.jpg",
+    "reviews": [
+      {
+        "rating": 4,
+        "comment": "Highly recommend.",
+        "date": "2025-02-25T09:01:23.557295",
+        "reviewerName": "John Doe",
+        "reviewerEmail": "john@example.com"
+      },
+      {
+        "rating": 3,
+        "comment": "Not what I expected.",
+        "date": "2025-03-08T19:00:00.000Z",
+        "reviewerName": "Bilal Aslam",
+        "reviewerEmail": "bilal@example.com"
+      },
+      {
+        "rating": 3,
+        "comment": "Will definitely buy again.",
+        "date": "2025-03-09T19:00:00.000Z",
+        "reviewerName": "Usman Tariq",
+        "reviewerEmail": "usman@example.com"
+      },
+      {
+        "rating": 4,
+        "comment": "Will definitely buy again.",
+        "date": "2025-06-09T19:00:00.000Z",
+        "reviewerName": "Jane Smith",
+        "reviewerEmail": "jane@example.com"
+      }
+    ]
+  },
+  {
+    "id": "72da88af-3925-4a54-b23d-fc4932bc3c71",
+    "title": "Fossil Elegant Gold Watch",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "category": "Womens Watches",
+    "brand": "Fossil",
+    "price": 452.13,
+    "discountPercentage": 12.4,
+    "stock": 464,
+    "weight": 0.6,
+    "tags": [
+      "womens watches",
+      "fossil"
+    ],
+    "warrantyInformation": "1 year warranty included",
+    "shippingInformation": "Ships in 3-5 business days",
+    "returnPolicy": "30-day return policy",
+    "images": [
+      "https://res.cloudinary.com/dtllrinkv/image/upload/v1759229609/echocart/products/images/nueueohgxl3pccz31psy.jpg"
+    ],
+    "thumbnail": "https://res.cloudinary.com/dtllrinkv/image/upload/v1759229608/echocart/products/thumbnails/dobcgsvnt0wi0z0djcuj.jpg",
+    "reviews": [
+      {
+        "rating": 3,
+        "comment": "Excellent product!",
+        "date": "2024-11-23T09:01:23.557346",
+        "reviewerName": "Ali Khan",
+        "reviewerEmail": "ali@example.com"
+      },
+      {
+        "rating": 4,
+        "comment": "Great product, highly recommend!",
+        "date": "2025-05-25T19:00:00.000Z",
+        "reviewerName": "Zain Ali",
+        "reviewerEmail": "zain@example.com"
+      },
+      {
+        "rating": 3,
+        "comment": "Works perfectly.",
+        "date": "2025-02-19T19:00:00.000Z",
+        "reviewerName": "Jane Smith",
+        "reviewerEmail": "jane@example.com"
+      },
+      {
+        "rating": 4,
+        "comment": "Quality isn't consistent.",
+        "date": "2025-04-23T19:00:00.000Z",
+        "reviewerName": "Laiba Ahmed",
+        "reviewerEmail": "laiba@example.com"
+      }
+    ]
+  },
+  {
+    "id": "5ebf5ec4-7a40-4286-a804-0202711218c0",
+    "title": "Toyota Elegant Car Accessory",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "category": "Vehicle",
+    "brand": "Toyota",
+    "price": 887.01,
+    "discountPercentage": 0.7,
+    "stock": 213,
+    "weight": 0.8,
+    "tags": [
+      "vehicle",
+      "toyota"
+    ],
+    "warrantyInformation": "1 year warranty included",
+    "shippingInformation": "Ships in 3-5 business days",
+    "returnPolicy": "30-day return policy",
+    "images": [
+      "https://res.cloudinary.com/dtllrinkv/image/upload/v1759229613/echocart/products/images/n6nadtrp3gaztnacx766.jpg"
+    ],
+    "thumbnail": "https://res.cloudinary.com/dtllrinkv/image/upload/v1759229611/echocart/products/thumbnails/tzsddfr4yi5x4vrood8b.jpg",
+    "reviews": [
+      {
+        "rating": 3,
+        "comment": "Good value.",
+        "date": "2024-09-07T09:01:23.557382",
+        "reviewerName": "John Doe",
+        "reviewerEmail": "ali@example.com"
+      },
+      {
+        "rating": 5,
+        "comment": "Not what I expected.",
+        "date": "2025-05-13T19:00:00.000Z",
+        "reviewerName": "Ali Khan",
+        "reviewerEmail": "ali@example.com"
+      },
+      {
+        "rating": 5,
+        "comment": "Exceeded my expectations.",
+        "date": "2025-02-15T19:00:00.000Z",
+        "reviewerName": "Fatima Noor",
+        "reviewerEmail": "fatima@example.com"
+      }
+    ]
+  },
+  {
+    "id": "1ccbf5b0-87f8-4cbc-b141-02a304a1eb76",
+    "title": "The Ordinary Premium Face Wash",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "category": "Skin Care",
+    "brand": "The Ordinary",
+    "price": 337.26,
+    "discountPercentage": 0.5,
+    "stock": 59,
+    "weight": 3.3,
+    "tags": [
+      "skin care",
+      "the ordinary"
+    ],
+    "warrantyInformation": "1 year warranty included",
+    "shippingInformation": "Ships in 3-5 business days",
+    "returnPolicy": "30-day return policy",
+    "images": [
+      "https://res.cloudinary.com/dtllrinkv/image/upload/v1759229615/echocart/products/images/wucm9fiofagl53m6vknr.jpg"
+    ],
+    "thumbnail": "https://res.cloudinary.com/dtllrinkv/image/upload/v1759229614/echocart/products/thumbnails/z535eu9bymgeuul3k03e.jpg",
+    "reviews": [
+      {
+        "rating": 5,
+        "comment": "Good value.",
+        "date": "2024-12-23T09:01:23.557437",
+        "reviewerName": "John Doe",
+        "reviewerEmail": "john@example.com"
+      },
+      {
+        "rating": 5,
+        "comment": "Great product, highly recommend!",
+        "date": "2025-02-20T19:00:00.000Z",
+        "reviewerName": "Sarah Malik",
+        "reviewerEmail": "sarah@example.com"
+      },
+      {
+        "rating": 5,
+        "comment": "Exceeded my expectations.",
+        "date": "2025-02-27T19:00:00.000Z",
+        "reviewerName": "Usman Tariq",
+        "reviewerEmail": "usman@example.com"
+      }
+    ]
+  },
+  {
+    "id": "75b3fdb1-c519-4ba9-bd2b-64ee69e487fc",
+    "title": "Samsung Classic Mobile Phone",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "category": "Smartphones",
+    "brand": "Samsung",
+    "price": 17.1,
+    "discountPercentage": 0.4,
+    "stock": 408,
+    "weight": 1.7,
+    "tags": [
+      "smartphones",
+      "samsung"
+    ],
+    "warrantyInformation": "1 year warranty included",
+    "shippingInformation": "Ships in 3-5 business days",
+    "returnPolicy": "30-day return policy",
+    "images": [
+      "https://res.cloudinary.com/dtllrinkv/image/upload/v1759229617/echocart/products/images/dksomwjfdfuzfzwirvym.jpg"
+    ],
+    "thumbnail": "https://res.cloudinary.com/dtllrinkv/image/upload/v1759229616/echocart/products/thumbnails/bt3f9swzdzasokanfm85.jpg",
+    "reviews": [
+      {
+        "rating": 3,
+        "comment": "Excellent product!",
+        "date": "2024-12-26T09:01:23.557482",
+        "reviewerName": "Jane Smith",
+        "reviewerEmail": "jane@example.com"
+      },
+      {
+        "rating": 5,
+        "comment": "Exceeded my expectations.",
+        "date": "2025-03-16T19:00:00.000Z",
+        "reviewerName": "Hira Shah",
+        "reviewerEmail": "hira@example.com"
+      },
+      {
+        "rating": 3,
+        "comment": "Works perfectly.",
+        "date": "2025-05-12T19:00:00.000Z",
+        "reviewerName": "Laiba Ahmed",
+        "reviewerEmail": "laiba@example.com"
+      }
+    ]
+  },
+  {
+    "id": "7405d84e-df19-4db2-b996-5483780e277b",
+    "title": "Dell Elegant Laptop",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "category": "Laptops",
+    "brand": "Dell",
+    "price": 783.58,
+    "discountPercentage": 0.2,
+    "stock": 454,
+    "weight": 0.8,
+    "tags": [
+      "laptops",
+      "dell"
+    ],
+    "warrantyInformation": "1 year warranty included",
+    "shippingInformation": "Ships in 3-5 business days",
+    "returnPolicy": "30-day return policy",
+    "images": [
+      "https://res.cloudinary.com/dtllrinkv/image/upload/v1759229619/echocart/products/images/kkjlfipf6z5xjkguzpjf.jpg"
+    ],
+    "thumbnail": "https://res.cloudinary.com/dtllrinkv/image/upload/v1759229618/echocart/products/thumbnails/fdd1bc8dbntobaniudwk.jpg",
+    "reviews": [
+      {
+        "rating": 5,
+        "comment": "Good value.",
+        "date": "2024-09-03T09:01:23.557600",
+        "reviewerName": "Ali Khan",
+        "reviewerEmail": "jane@example.com"
+      },
+      {
+        "rating": 5,
+        "comment": "Will definitely buy again.",
+        "date": "2025-04-09T19:00:00.000Z",
+        "reviewerName": "Laiba Ahmed",
+        "reviewerEmail": "laiba@example.com"
+      },
+      {
+        "rating": 4,
+        "comment": "Love the design!",
+        "date": "2025-01-20T19:00:00.000Z",
+        "reviewerName": "Hira Shah",
+        "reviewerEmail": "hira@example.com"
+      },
+      {
+        "rating": 5,
+        "comment": "Not what I expected.",
+        "date": "2025-02-12T19:00:00.000Z",
+        "reviewerName": "Ali Khan",
+        "reviewerEmail": "ali@example.com"
+      },
+      {
+        "rating": 3,
+        "comment": "Love the design!",
+        "date": "2025-06-14T19:00:00.000Z",
+        "reviewerName": "Hira Shah",
+        "reviewerEmail": "hira@example.com"
+      }
+    ]
+  },
+  {
+    "id": "61262ec6-d491-431b-b636-c2c6069a6e3f",
+    "title": "Zara Elegant Crop Top",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "category": "Tops",
+    "brand": "Zara",
+    "price": 788.35,
+    "discountPercentage": 20,
+    "stock": 453,
+    "weight": 1.4,
+    "tags": [
+      "tops",
+      "zara"
+    ],
+    "warrantyInformation": "1 year warranty included",
+    "shippingInformation": "Ships in 3-5 business days",
+    "returnPolicy": "30-day return policy",
+    "images": [
+      "https://res.cloudinary.com/dtllrinkv/image/upload/v1759229623/echocart/products/images/zmmg2mzffzzqjp7ae7lp.jpg"
+    ],
+    "thumbnail": "https://res.cloudinary.com/dtllrinkv/image/upload/v1759229621/echocart/products/thumbnails/gtd1orjvyfpukiuntymb.jpg",
+    "reviews": [
+      {
+        "rating": 4,
+        "comment": "Good value.",
+        "date": "2024-11-10T09:01:23.557658",
+        "reviewerName": "Ali Khan",
+        "reviewerEmail": "jane@example.com"
+      },
+      {
+        "rating": 3,
+        "comment": "Great product, highly recommend!",
+        "date": "2025-03-15T19:00:00.000Z",
+        "reviewerName": "Ali Khan",
+        "reviewerEmail": "ali@example.com"
+      },
+      {
+        "rating": 4,
+        "comment": "Works perfectly.",
+        "date": "2025-03-25T19:00:00.000Z",
+        "reviewerName": "Ahmed Raza",
+        "reviewerEmail": "ahmed@example.com"
+      },
+      {
+        "rating": 4,
+        "comment": "Love the design!",
+        "date": "2025-02-11T19:00:00.000Z",
+        "reviewerName": "Hira Shah",
+        "reviewerEmail": "hira@example.com"
+      },
+      {
+        "rating": 3,
+        "comment": "Love the design!",
+        "date": "2025-04-30T19:00:00.000Z",
+        "reviewerName": "Laiba Ahmed",
+        "reviewerEmail": "laiba@example.com"
+      }
+    ]
+  },
+  {
+    "id": "10abeb03-b85b-4e3b-8a61-6d1173526769",
+    "title": "Coach Modern Tote",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "category": "Womens Bags",
+    "brand": "Coach",
+    "price": 63.69,
+    "discountPercentage": 11.2,
+    "stock": 39,
+    "weight": 2.1,
+    "tags": [
+      "womens bags",
+      "coach"
+    ],
+    "warrantyInformation": "1 year warranty included",
+    "shippingInformation": "Ships in 3-5 business days",
+    "returnPolicy": "30-day return policy",
+    "images": [
+      "https://res.cloudinary.com/dtllrinkv/image/upload/v1759229625/echocart/products/images/oeyufpqubtpwdodtjjza.jpg"
+    ],
+    "thumbnail": "https://res.cloudinary.com/dtllrinkv/image/upload/v1759229624/echocart/products/thumbnails/k74x2nejk2fox18rfuts.jpg",
+    "reviews": [
+      {
+        "rating": 3,
+        "comment": "Highly recommend.",
+        "date": "2024-08-30T09:01:23.557708",
+        "reviewerName": "Ali Khan",
+        "reviewerEmail": "jane@example.com"
+      },
+      {
+        "rating": 5,
+        "comment": "Not what I expected.",
+        "date": "2025-04-30T19:00:00.000Z",
+        "reviewerName": "Ahmed Raza",
+        "reviewerEmail": "ahmed@example.com"
+      },
+      {
+        "rating": 5,
+        "comment": "Exceeded my expectations.",
+        "date": "2025-05-24T19:00:00.000Z",
+        "reviewerName": "Jane Smith",
+        "reviewerEmail": "jane@example.com"
+      },
+      {
+        "rating": 4,
+        "comment": "Looks good and performs well.",
+        "date": "2025-03-15T19:00:00.000Z",
+        "reviewerName": "Laiba Ahmed",
+        "reviewerEmail": "laiba@example.com"
+      },
+      {
+        "rating": 4,
+        "comment": "Could be better.",
+        "date": "2025-04-20T19:00:00.000Z",
+        "reviewerName": "Fatima Noor",
+        "reviewerEmail": "fatima@example.com"
+      }
+    ]
+  },
+  {
+    "id": "0d3f39e2-0cee-4c67-91ca-d578b1098585",
+    "title": "H&M Elegant Casual Shirt",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "category": "Mens Shirts",
+    "brand": "H&M",
+    "price": 909.96,
+    "discountPercentage": 9,
+    "stock": 366,
+    "weight": 1.2,
+    "tags": [
+      "mens shirts",
+      "h&m"
+    ],
+    "warrantyInformation": "1 year warranty included",
+    "shippingInformation": "Ships in 3-5 business days",
+    "returnPolicy": "30-day return policy",
+    "images": [
+      "https://res.cloudinary.com/dtllrinkv/image/upload/v1759229628/echocart/products/images/g9jdeeg2yonkakg6hp6q.jpg"
+    ],
+    "thumbnail": "https://res.cloudinary.com/dtllrinkv/image/upload/v1759229626/echocart/products/thumbnails/w7n8hfoquqillyzeb0em.jpg",
+    "reviews": [
+      {
+        "rating": 5,
+        "comment": "Highly recommend.",
+        "date": "2024-10-08T09:01:23.557743",
+        "reviewerName": "John Doe",
+        "reviewerEmail": "ali@example.com"
+      },
+      {
+        "rating": 4,
+        "comment": "Looks good and performs well.",
+        "date": "2025-04-10T19:00:00.000Z",
+        "reviewerName": "Saad Javed",
+        "reviewerEmail": "saad@example.com"
+      },
+      {
+        "rating": 3,
+        "comment": "Great product, highly recommend!",
+        "date": "2025-01-10T19:00:00.000Z",
+        "reviewerName": "Usman Tariq",
+        "reviewerEmail": "usman@example.com"
+      },
+      {
+        "rating": 3,
+        "comment": "Love the design!",
+        "date": "2025-05-02T19:00:00.000Z",
+        "reviewerName": "Laiba Ahmed",
+        "reviewerEmail": "laiba@example.com"
+      },
+      {
+        "rating": 4,
+        "comment": "Great product, highly recommend!",
+        "date": "2025-03-09T19:00:00.000Z",
+        "reviewerName": "Fatima Noor",
+        "reviewerEmail": "fatima@example.com"
+      }
+    ]
+  },
+  {
+    "id": "a9cb1ca2-6a00-4573-8dc0-f34a9c7faa9c",
+    "title": "Clarks Modern Boots",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "category": "Womens Shoes",
+    "brand": "Clarks",
+    "price": 328.4,
+    "discountPercentage": 0.7,
+    "stock": 429,
+    "weight": 2.3,
+    "tags": [
+      "womens shoes",
+      "clarks"
+    ],
+    "warrantyInformation": "1 year warranty included",
+    "shippingInformation": "Ships in 3-5 business days",
+    "returnPolicy": "30-day return policy",
+    "images": [
+      "https://res.cloudinary.com/dtllrinkv/image/upload/v1759229631/echocart/products/images/v9kdijz9qotvnlweqwvj.jpg"
+    ],
+    "thumbnail": "https://res.cloudinary.com/dtllrinkv/image/upload/v1759229630/echocart/products/thumbnails/qpcfu6odllcvhfpi4d04.jpg",
+    "reviews": [
+      {
+        "rating": 3,
+        "comment": "Highly recommend.",
+        "date": "2024-11-23T09:01:23.557778",
+        "reviewerName": "Ali Khan",
+        "reviewerEmail": "ali@example.com"
+      },
+      {
+        "rating": 5,
+        "comment": "Not what I expected.",
+        "date": "2025-06-13T19:00:00.000Z",
+        "reviewerName": "Hira Shah",
+        "reviewerEmail": "hira@example.com"
+      },
+      {
+        "rating": 4,
+        "comment": "Exceeded my expectations.",
+        "date": "2025-01-21T19:00:00.000Z",
+        "reviewerName": "Sarah Malik",
+        "reviewerEmail": "sarah@example.com"
+      }
+    ]
+  },
+  {
+    "id": "9ac2126c-f405-466f-8ba9-f75c1eccef8d",
+    "title": "H&M Classic Evening Dress",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "category": "Womens Dresses",
+    "brand": "H&M",
+    "price": 280.71,
+    "discountPercentage": 12.9,
+    "stock": 328,
+    "weight": 4.7,
+    "tags": [
+      "womens dresses",
+      "h&m"
+    ],
+    "warrantyInformation": "1 year warranty included",
+    "shippingInformation": "Ships in 3-5 business days",
+    "returnPolicy": "30-day return policy",
+    "images": [
+      "https://res.cloudinary.com/dtllrinkv/image/upload/v1759229641/echocart/products/images/refmer2ubuib4i0ntdud.jpg"
+    ],
+    "thumbnail": "https://res.cloudinary.com/dtllrinkv/image/upload/v1759229635/echocart/products/thumbnails/qb5ht7gc9cz4dnsef1xi.jpg",
+    "reviews": [
+      {
+        "rating": 4,
+        "comment": "Good value.",
+        "date": "2025-05-20T09:01:23.557815",
+        "reviewerName": "Jane Smith",
+        "reviewerEmail": "ali@example.com"
+      },
+      {
+        "rating": 4,
+        "comment": "Great product, highly recommend!",
+        "date": "2025-03-31T19:00:00.000Z",
+        "reviewerName": "Bilal Aslam",
+        "reviewerEmail": "bilal@example.com"
+      },
+      {
+        "rating": 3,
+        "comment": "Love the design!",
+        "date": "2025-01-12T19:00:00.000Z",
+        "reviewerName": "Sarah Malik",
+        "reviewerEmail": "sarah@example.com"
+      },
+      {
+        "rating": 4,
+        "comment": "Love the design!",
+        "date": "2025-01-08T19:00:00.000Z",
+        "reviewerName": "Fatima Noor",
+        "reviewerEmail": "fatima@example.com"
+      },
+      {
+        "rating": 3,
+        "comment": "Quality isn't consistent.",
+        "date": "2025-06-06T19:00:00.000Z",
+        "reviewerName": "Hira Shah",
+        "reviewerEmail": "hira@example.com"
+      }
+    ]
+  },
+  {
+    "id": "4395ab12-ba3e-435a-9840-8621dde21440",
+    "title": "Baseus Modern Phone Case",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "category": "Mobile Accessories",
+    "brand": "Baseus",
+    "price": 250.49,
+    "discountPercentage": 0,
+    "stock": 239,
+    "weight": 3.8,
+    "tags": [
+      "mobile accessories",
+      "baseus"
+    ],
+    "warrantyInformation": "1 year warranty included",
+    "shippingInformation": "Ships in 3-5 business days",
+    "returnPolicy": "30-day return policy",
+    "images": [
+      "https://res.cloudinary.com/dtllrinkv/image/upload/v1759229644/echocart/products/images/c8ldxdo8n4xnqtau33ea.jpg"
+    ],
+    "thumbnail": "https://res.cloudinary.com/dtllrinkv/image/upload/v1759229643/echocart/products/thumbnails/eqiunlammprmkivj6oyi.jpg",
+    "reviews": [
+      {
+        "rating": 3,
+        "comment": "Excellent product!",
+        "date": "2025-05-13T09:01:23.557857",
+        "reviewerName": "John Doe",
+        "reviewerEmail": "ali@example.com"
+      },
+      {
+        "rating": 5,
+        "comment": "Exceeded my expectations.",
+        "date": "2025-01-06T19:00:00.000Z",
+        "reviewerName": "Laiba Ahmed",
+        "reviewerEmail": "laiba@example.com"
+      },
+      {
+        "rating": 4,
+        "comment": "Exceeded my expectations.",
+        "date": "2025-06-03T19:00:00.000Z",
+        "reviewerName": "Zain Ali",
+        "reviewerEmail": "zain@example.com"
+      },
+      {
+        "rating": 5,
+        "comment": "Great product, highly recommend!",
+        "date": "2025-02-02T19:00:00.000Z",
+        "reviewerName": "Sarah Malik",
+        "reviewerEmail": "sarah@example.com"
+      }
+    ]
+  },
+  {
+    "id": "81760a5d-03d5-4316-9bda-5d0f7e1630ae",
+    "title": "Seiko Casual Chronograph",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "category": "Mens Watches",
+    "brand": "Seiko",
+    "price": 253.56,
+    "discountPercentage": 0,
+    "stock": 155,
+    "weight": 1.4,
+    "tags": [
+      "mens watches",
+      "seiko"
+    ],
+    "warrantyInformation": "1 year warranty included",
+    "shippingInformation": "Ships in 3-5 business days",
+    "returnPolicy": "30-day return policy",
+    "images": [
+      "https://res.cloudinary.com/dtllrinkv/image/upload/v1759229646/echocart/products/images/i22twpi75o68cmzvuojv.jpg"
+    ],
+    "thumbnail": "https://res.cloudinary.com/dtllrinkv/image/upload/v1759229645/echocart/products/thumbnails/tzrncdxjitm8m80az09r.jpg",
+    "reviews": [
+      {
+        "rating": 4,
+        "comment": "Good value.",
+        "date": "2025-02-22T09:01:23.557921",
+        "reviewerName": "John Doe",
+        "reviewerEmail": "jane@example.com"
+      },
+      {
+        "rating": 5,
+        "comment": "Love the design!",
+        "date": "2025-05-14T19:00:00.000Z",
+        "reviewerName": "Bilal Aslam",
+        "reviewerEmail": "bilal@example.com"
+      },
+      {
+        "rating": 3,
+        "comment": "Looks good and performs well.",
+        "date": "2025-04-02T19:00:00.000Z",
+        "reviewerName": "Ali Khan",
+        "reviewerEmail": "ali@example.com"
+      },
+      {
+        "rating": 5,
+        "comment": "Love the design!",
+        "date": "2025-02-12T19:00:00.000Z",
+        "reviewerName": "Jane Smith",
+        "reviewerEmail": "jane@example.com"
+      }
+    ]
+  },
+  {
+    "id": "6653bbdc-139b-4abe-9988-98c0654e4e9d",
+    "title": "Wayfair Limited Edition Dining Table",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "category": "Furniture",
+    "brand": "Wayfair",
+    "price": 421.16,
+    "discountPercentage": 0.7,
+    "stock": 133,
+    "weight": 0.5,
+    "tags": [
+      "furniture",
+      "wayfair"
+    ],
+    "warrantyInformation": "1 year warranty included",
+    "shippingInformation": "Ships in 3-5 business days",
+    "returnPolicy": "30-day return policy",
+    "images": [
+      "https://res.cloudinary.com/dtllrinkv/image/upload/v1759229649/echocart/products/images/drlzps2kw2v59drhiaeq.jpg"
+    ],
+    "thumbnail": "https://res.cloudinary.com/dtllrinkv/image/upload/v1759229648/echocart/products/thumbnails/poigbmazmtdvnsy37uwy.jpg",
+    "reviews": [
+      {
+        "rating": 3,
+        "comment": "Highly recommend.",
+        "date": "2024-07-26T09:01:23.557977",
+        "reviewerName": "Jane Smith",
+        "reviewerEmail": "ali@example.com"
+      },
+      {
+        "rating": 4,
+        "comment": "Exceeded my expectations.",
+        "date": "2025-02-14T19:00:00.000Z",
+        "reviewerName": "Bilal Aslam",
+        "reviewerEmail": "bilal@example.com"
+      },
+      {
+        "rating": 4,
+        "comment": "Love the design!",
+        "date": "2025-05-18T19:00:00.000Z",
+        "reviewerName": "Zain Ali",
+        "reviewerEmail": "zain@example.com"
+      },
+      {
+        "rating": 3,
+        "comment": "Will definitely buy again.",
+        "date": "2025-03-01T19:00:00.000Z",
+        "reviewerName": "Saad Javed",
+        "reviewerEmail": "saad@example.com"
+      },
+      {
+        "rating": 3,
+        "comment": "Not bad for the price.",
+        "date": "2025-03-24T19:00:00.000Z",
+        "reviewerName": "Bilal Aslam",
+        "reviewerEmail": "bilal@example.com"
+      }
+    ]
+  },
+  {
+    "id": "1e9deeb3-0da6-47ac-9dcd-adff012acd13",
+    "title": "Baseus Elegant Power Bank",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "category": "Mobile Accessories",
+    "brand": "Baseus",
+    "price": 750.23,
+    "discountPercentage": 5,
+    "stock": 337,
+    "weight": 3.8,
+    "tags": [
+      "mobile accessories",
+      "baseus"
+    ],
+    "warrantyInformation": "1 year warranty included",
+    "shippingInformation": "Ships in 3-5 business days",
+    "returnPolicy": "30-day return policy",
+    "images": [
+      "https://res.cloudinary.com/dtllrinkv/image/upload/v1759229651/echocart/products/images/d17tx9jv0u8nrdpvvssy.jpg"
+    ],
+    "thumbnail": "https://res.cloudinary.com/dtllrinkv/image/upload/v1759229650/echocart/products/thumbnails/lui3v2mvl0yihveyy1k8.jpg",
+    "reviews": [
+      {
+        "rating": 5,
+        "comment": "Excellent product!",
+        "date": "2025-01-05T09:01:23.558019",
+        "reviewerName": "Ali Khan",
+        "reviewerEmail": "ali@example.com"
+      },
+      {
+        "rating": 4,
+        "comment": "Exceeded my expectations.",
+        "date": "2025-02-15T19:00:00.000Z",
+        "reviewerName": "Ahmed Raza",
+        "reviewerEmail": "ahmed@example.com"
+      },
+      {
+        "rating": 5,
+        "comment": "Exceeded my expectations.",
+        "date": "2025-03-20T19:00:00.000Z",
+        "reviewerName": "Fatima Noor",
+        "reviewerEmail": "fatima@example.com"
+      },
+      {
+        "rating": 5,
+        "comment": "Exceeded my expectations.",
+        "date": "2025-01-03T19:00:00.000Z",
+        "reviewerName": "Laiba Ahmed",
+        "reviewerEmail": "laiba@example.com"
+      }
+    ]
+  },
+  {
+    "id": "be646d2b-19e0-4a99-b93e-24f270cb45ce",
+    "title": "Fossil Elegant Round Shades",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "category": "Sunglasses",
+    "brand": "Fossil",
+    "price": 525.53,
+    "discountPercentage": 20.6,
+    "stock": 468,
+    "weight": 3.4,
+    "tags": [
+      "sunglasses",
+      "fossil"
+    ],
+    "warrantyInformation": "1 year warranty included",
+    "shippingInformation": "Ships in 3-5 business days",
+    "returnPolicy": "30-day return policy",
+    "images": [
+      "https://res.cloudinary.com/dtllrinkv/image/upload/v1759229652/echocart/products/images/fmckp0quuxgc7yh0rm9j.jpg"
+    ],
+    "thumbnail": "https://res.cloudinary.com/dtllrinkv/image/upload/v1759229652/echocart/products/thumbnails/uvnajnb8ajzgnlu1ksvj.jpg",
+    "reviews": [
+      {
+        "rating": 3,
+        "comment": "Good value.",
+        "date": "2025-05-11T09:01:23.558055",
+        "reviewerName": "Jane Smith",
+        "reviewerEmail": "jane@example.com"
+      },
+      {
+        "rating": 3,
+        "comment": "Works perfectly.",
+        "date": "2025-04-23T19:00:00.000Z",
+        "reviewerName": "Saad Javed",
+        "reviewerEmail": "saad@example.com"
+      },
+      {
+        "rating": 5,
+        "comment": "Will definitely buy again.",
+        "date": "2025-03-26T19:00:00.000Z",
+        "reviewerName": "Ali Khan",
+        "reviewerEmail": "ali@example.com"
+      },
+      {
+        "rating": 3,
+        "comment": "Not bad for the price.",
+        "date": "2025-04-10T19:00:00.000Z",
+        "reviewerName": "Fatima Noor",
+        "reviewerEmail": "fatima@example.com"
+      },
+      {
+        "rating": 4,
+        "comment": "Could be better.",
+        "date": "2025-03-05T19:00:00.000Z",
+        "reviewerName": "Fatima Noor",
+        "reviewerEmail": "fatima@example.com"
+      }
+    ]
+  },
+  {
+    "id": "d4688f44-62c7-4080-a345-cdaa13e4bce5",
+    "title": "Zara Casual Formal Shirt",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "category": "Mens Shirts",
+    "brand": "Zara",
+    "price": 298.08,
+    "discountPercentage": 15,
+    "stock": 430,
+    "weight": 0.9,
+    "tags": [
+      "mens shirts",
+      "zara"
+    ],
+    "warrantyInformation": "1 year warranty included",
+    "shippingInformation": "Ships in 3-5 business days",
+    "returnPolicy": "30-day return policy",
+    "images": [
+      "https://res.cloudinary.com/dtllrinkv/image/upload/v1759229655/echocart/products/images/mg0lbpm7i0yl41ixqupy.jpg"
+    ],
+    "thumbnail": "https://res.cloudinary.com/dtllrinkv/image/upload/v1759229653/echocart/products/thumbnails/efaqb5utu864tdcclzaw.jpg",
+    "reviews": [
+      {
+        "rating": 3,
+        "comment": "Highly recommend.",
+        "date": "2025-05-06T09:01:23.558095",
+        "reviewerName": "John Doe",
+        "reviewerEmail": "jane@example.com"
+      },
+      {
+        "rating": 5,
+        "comment": "Love the design!",
+        "date": "2025-05-01T19:00:00.000Z",
+        "reviewerName": "Zain Ali",
+        "reviewerEmail": "zain@example.com"
+      },
+      {
+        "rating": 5,
+        "comment": "Exceeded my expectations.",
+        "date": "2025-04-23T19:00:00.000Z",
+        "reviewerName": "Sarah Malik",
+        "reviewerEmail": "sarah@example.com"
+      }
+    ]
+  },
+  {
+    "id": "8641c80b-9a50-4632-9afa-dae8fcbc8662",
+    "title": "Dell Limited Edition Laptop",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "category": "Laptops",
+    "brand": "Dell",
+    "price": 535.57,
+    "discountPercentage": 0.8,
+    "stock": 102,
+    "weight": 1.7,
+    "tags": [
+      "laptops",
+      "dell"
+    ],
+    "warrantyInformation": "1 year warranty included",
+    "shippingInformation": "Ships in 3-5 business days",
+    "returnPolicy": "30-day return policy",
+    "images": [
+      "https://res.cloudinary.com/dtllrinkv/image/upload/v1759229657/echocart/products/images/vuharydu9dibnidkqlzd.jpg"
+    ],
+    "thumbnail": "https://res.cloudinary.com/dtllrinkv/image/upload/v1759229656/echocart/products/thumbnails/cgzbo8yghrpgsewdutk1.jpg",
+    "reviews": [
+      {
+        "rating": 3,
+        "comment": "Excellent product!",
+        "date": "2024-09-25T09:01:23.558128",
+        "reviewerName": "John Doe",
+        "reviewerEmail": "ali@example.com"
+      },
+      {
+        "rating": 3,
+        "comment": "Quality isn't consistent.",
+        "date": "2025-06-05T19:00:00.000Z",
+        "reviewerName": "Saad Javed",
+        "reviewerEmail": "saad@example.com"
+      },
+      {
+        "rating": 5,
+        "comment": "Will definitely buy again.",
+        "date": "2025-06-21T19:00:00.000Z",
+        "reviewerName": "Jane Smith",
+        "reviewerEmail": "jane@example.com"
+      },
+      {
+        "rating": 5,
+        "comment": "Will definitely buy again.",
+        "date": "2025-03-20T19:00:00.000Z",
+        "reviewerName": "Saad Javed",
+        "reviewerEmail": "saad@example.com"
+      },
+      {
+        "rating": 4,
+        "comment": "Not bad for the price.",
+        "date": "2025-03-25T19:00:00.000Z",
+        "reviewerName": "Bilal Aslam",
+        "reviewerEmail": "bilal@example.com"
+      }
+    ]
+  },
+  {
+    "id": "f1673dff-1e06-42b4-ad3f-bdf72bc55fa2",
+    "title": "Forever 21 Classic Crop Top",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "category": "Tops",
+    "brand": "Forever 21",
+    "price": 906.38,
+    "discountPercentage": 11.8,
+    "stock": 18,
+    "weight": 3.5,
+    "tags": [
+      "tops",
+      "forever 21"
+    ],
+    "warrantyInformation": "1 year warranty included",
+    "shippingInformation": "Ships in 3-5 business days",
+    "returnPolicy": "30-day return policy",
+    "images": [
+      "https://res.cloudinary.com/dtllrinkv/image/upload/v1759229659/echocart/products/images/nykgpndxwwnctzert2nw.jpg"
+    ],
+    "thumbnail": "https://res.cloudinary.com/dtllrinkv/image/upload/v1759229658/echocart/products/thumbnails/gwabl7qx8fntenvva2ul.jpg",
+    "reviews": [
+      {
+        "rating": 5,
+        "comment": "Good value.",
+        "date": "2024-10-18T09:01:23.558160",
+        "reviewerName": "Ali Khan",
+        "reviewerEmail": "ali@example.com"
+      },
+      {
+        "rating": 5,
+        "comment": "Not bad for the price.",
+        "date": "2025-05-14T19:00:00.000Z",
+        "reviewerName": "Zain Ali",
+        "reviewerEmail": "zain@example.com"
+      },
+      {
+        "rating": 3,
+        "comment": "Looks good and performs well.",
+        "date": "2025-04-04T19:00:00.000Z",
+        "reviewerName": "Zain Ali",
+        "reviewerEmail": "zain@example.com"
+      },
+      {
+        "rating": 5,
+        "comment": "Exceeded my expectations.",
+        "date": "2025-04-14T19:00:00.000Z",
+        "reviewerName": "Fatima Noor",
+        "reviewerEmail": "fatima@example.com"
+      }
+    ]
+  },
+  {
+    "id": "23e55c6a-0e85-4dd1-80a0-8dba50ad2fa9",
+    "title": "Apple Casual Laptop",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "category": "Laptops",
+    "brand": "Apple",
+    "price": 56.31,
+    "discountPercentage": 22.5,
+    "stock": 437,
+    "weight": 1,
+    "tags": [
+      "laptops",
+      "apple"
+    ],
+    "warrantyInformation": "1 year warranty included",
+    "shippingInformation": "Ships in 3-5 business days",
+    "returnPolicy": "30-day return policy",
+    "images": [
+      "https://res.cloudinary.com/dtllrinkv/image/upload/v1759229661/echocart/products/images/sjgzhzh1cpe0wtcmnx1e.jpg"
+    ],
+    "thumbnail": "https://res.cloudinary.com/dtllrinkv/image/upload/v1759229660/echocart/products/thumbnails/kthmv7hxnyejyt0xt9zh.jpg",
+    "reviews": [
+      {
+        "rating": 5,
+        "comment": "Good value.",
+        "date": "2024-07-06T09:01:23.558199",
+        "reviewerName": "Jane Smith",
+        "reviewerEmail": "john@example.com"
+      },
+      {
+        "rating": 5,
+        "comment": "Great product, highly recommend!",
+        "date": "2025-05-31T19:00:00.000Z",
+        "reviewerName": "Ali Khan",
+        "reviewerEmail": "ali@example.com"
+      },
+      {
+        "rating": 4,
+        "comment": "Not what I expected.",
+        "date": "2025-02-19T19:00:00.000Z",
+        "reviewerName": "Ahmed Raza",
+        "reviewerEmail": "ahmed@example.com"
+      },
+      {
+        "rating": 4,
+        "comment": "Exceeded my expectations.",
+        "date": "2025-01-17T19:00:00.000Z",
+        "reviewerName": "Usman Tariq",
+        "reviewerEmail": "usman@example.com"
+      }
+    ]
+  },
+  {
+    "id": "720fd7b1-e49b-479d-a563-9fcf3a36e27f",
+    "title": "Seiko Premium Digital Watch",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "category": "Mens Watches",
+    "brand": "Seiko",
+    "price": 608.68,
+    "discountPercentage": 0.7,
+    "stock": 421,
+    "weight": 3.2,
+    "tags": [
+      "mens watches",
+      "seiko"
+    ],
+    "warrantyInformation": "1 year warranty included",
+    "shippingInformation": "Ships in 3-5 business days",
+    "returnPolicy": "30-day return policy",
+    "images": [
+      "https://res.cloudinary.com/dtllrinkv/image/upload/v1759229663/echocart/products/images/n46yaaiodx8hzuastr4b.jpg"
+    ],
+    "thumbnail": "https://res.cloudinary.com/dtllrinkv/image/upload/v1759229662/echocart/products/thumbnails/xem2r7ddn8cukukwa5fn.jpg",
+    "reviews": [
+      {
+        "rating": 4,
+        "comment": "Excellent product!",
+        "date": "2025-04-19T09:01:23.558234",
+        "reviewerName": "Jane Smith",
+        "reviewerEmail": "ali@example.com"
+      },
+      {
+        "rating": 3,
+        "comment": "Quality isn't consistent.",
+        "date": "2025-04-13T19:00:00.000Z",
+        "reviewerName": "Zain Ali",
+        "reviewerEmail": "zain@example.com"
+      },
+      {
+        "rating": 4,
+        "comment": "Not what I expected.",
+        "date": "2025-05-03T19:00:00.000Z",
+        "reviewerName": "Jane Smith",
+        "reviewerEmail": "jane@example.com"
+      }
+    ]
+  },
+  {
+    "id": "5d5bc6b5-8aa6-4fc0-8eb4-c47ad8634bfa",
+    "title": "Guess Premium Gold Watch",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "category": "Womens Watches",
+    "brand": "Guess",
+    "price": 601.49,
+    "discountPercentage": 0.9,
+    "stock": 29,
+    "weight": 3.3,
+    "tags": [
+      "womens watches",
+      "guess"
+    ],
+    "warrantyInformation": "1 year warranty included",
+    "shippingInformation": "Ships in 3-5 business days",
+    "returnPolicy": "30-day return policy",
+    "images": [
+      "https://res.cloudinary.com/dtllrinkv/image/upload/v1759229667/echocart/products/images/lmas3g7pethju5utmz77.jpg"
+    ],
+    "thumbnail": "https://res.cloudinary.com/dtllrinkv/image/upload/v1759229665/echocart/products/thumbnails/wyrlz79auz2e2c69oms2.jpg",
+    "reviews": [
+      {
+        "rating": 3,
+        "comment": "Highly recommend.",
+        "date": "2025-05-30T09:01:23.558270",
+        "reviewerName": "Jane Smith",
+        "reviewerEmail": "jane@example.com"
+      },
+      {
+        "rating": 3,
+        "comment": "Could be better.",
+        "date": "2025-05-08T19:00:00.000Z",
+        "reviewerName": "Bilal Aslam",
+        "reviewerEmail": "bilal@example.com"
+      },
+      {
+        "rating": 4,
+        "comment": "Not bad for the price.",
+        "date": "2025-05-20T19:00:00.000Z",
+        "reviewerName": "Zain Ali",
+        "reviewerEmail": "zain@example.com"
+      },
+      {
+        "rating": 4,
+        "comment": "Love the design!",
+        "date": "2025-04-05T19:00:00.000Z",
+        "reviewerName": "Ahmed Raza",
+        "reviewerEmail": "ahmed@example.com"
+      },
+      {
+        "rating": 3,
+        "comment": "Works perfectly.",
+        "date": "2025-06-04T19:00:00.000Z",
+        "reviewerName": "Jane Smith",
+        "reviewerEmail": "jane@example.com"
+      }
+    ]
+  },
+  {
+    "id": "c8c0dc73-6be6-4ca2-a779-ccbcf3b98cf5",
+    "title": "Anker Classic Phone Case",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "category": "Mobile Accessories",
+    "brand": "Anker",
+    "price": 260.5,
+    "discountPercentage": 0.3,
+    "stock": 197,
+    "weight": 3.6,
+    "tags": [
+      "mobile accessories",
+      "anker"
+    ],
+    "warrantyInformation": "1 year warranty included",
+    "shippingInformation": "Ships in 3-5 business days",
+    "returnPolicy": "30-day return policy",
+    "images": [
+      "https://res.cloudinary.com/dtllrinkv/image/upload/v1759229668/echocart/products/images/vm6nv8kuhkckr9k2hdkh.jpg"
+    ],
+    "thumbnail": "https://res.cloudinary.com/dtllrinkv/image/upload/v1759229667/echocart/products/thumbnails/zvdbpurvlf2esx4eno1u.jpg",
+    "reviews": [
+      {
+        "rating": 3,
+        "comment": "Good value.",
+        "date": "2024-12-19T09:01:23.558309",
+        "reviewerName": "Jane Smith",
+        "reviewerEmail": "jane@example.com"
+      },
+      {
+        "rating": 3,
+        "comment": "Not bad for the price.",
+        "date": "2025-04-13T19:00:00.000Z",
+        "reviewerName": "Zain Ali",
+        "reviewerEmail": "zain@example.com"
+      },
+      {
+        "rating": 4,
+        "comment": "Not bad for the price.",
+        "date": "2025-01-19T19:00:00.000Z",
+        "reviewerName": "Hira Shah",
+        "reviewerEmail": "hira@example.com"
+      },
+      {
+        "rating": 5,
+        "comment": "Could be better.",
+        "date": "2025-03-01T19:00:00.000Z",
+        "reviewerName": "Fatima Noor",
+        "reviewerEmail": "fatima@example.com"
+      },
+      {
+        "rating": 5,
+        "comment": "Great product, highly recommend!",
+        "date": "2025-04-21T19:00:00.000Z",
+        "reviewerName": "Ahmed Raza",
+        "reviewerEmail": "ahmed@example.com"
+      }
+    ]
+  },
+  {
+    "id": "53fb93c0-dec8-4c9d-baae-b353eda4e101",
+    "title": "Urban Ladder Classic Wall Art",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "category": "Home Decoration",
+    "brand": "Urban Ladder",
+    "price": 19.8,
+    "discountPercentage": 0.4,
+    "stock": 49,
+    "weight": 3.1,
+    "tags": [
+      "home decoration",
+      "urban ladder"
+    ],
+    "warrantyInformation": "1 year warranty included",
+    "shippingInformation": "Ships in 3-5 business days",
+    "returnPolicy": "30-day return policy",
+    "images": [
+      "https://res.cloudinary.com/dtllrinkv/image/upload/v1759229670/echocart/products/images/bp21fts6asg8bzaxf89q.jpg"
+    ],
+    "thumbnail": "https://res.cloudinary.com/dtllrinkv/image/upload/v1759229669/echocart/products/thumbnails/mks7hziblrhhjlzgsybm.jpg",
+    "reviews": [
+      {
+        "rating": 3,
+        "comment": "Good value.",
+        "date": "2025-02-18T09:01:23.558341",
+        "reviewerName": "John Doe",
+        "reviewerEmail": "jane@example.com"
+      },
+      {
+        "rating": 3,
+        "comment": "Could be better.",
+        "date": "2025-04-23T19:00:00.000Z",
+        "reviewerName": "Laiba Ahmed",
+        "reviewerEmail": "laiba@example.com"
+      },
+      {
+        "rating": 5,
+        "comment": "Works perfectly.",
+        "date": "2025-01-23T19:00:00.000Z",
+        "reviewerName": "Fatima Noor",
+        "reviewerEmail": "fatima@example.com"
+      },
+      {
+        "rating": 3,
+        "comment": "Could be better.",
+        "date": "2025-03-20T19:00:00.000Z",
+        "reviewerName": "Ali Khan",
+        "reviewerEmail": "ali@example.com"
+      },
+      {
+        "rating": 3,
+        "comment": "Love the design!",
+        "date": "2025-02-18T19:00:00.000Z",
+        "reviewerName": "Fatima Noor",
+        "reviewerEmail": "fatima@example.com"
+      }
+    ]
+  },
+  {
+    "id": "1a4d7ef0-0fac-4c0a-80f6-73309ee1c991",
+    "title": "H&M Limited Edition Evening Dress",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "category": "Womens Dresses",
+    "brand": "H&M",
+    "price": 453.99,
+    "discountPercentage": 0.7,
+    "stock": 321,
+    "weight": 4.9,
+    "tags": [
+      "womens dresses",
+      "h&m"
+    ],
+    "warrantyInformation": "1 year warranty included",
+    "shippingInformation": "Ships in 3-5 business days",
+    "returnPolicy": "30-day return policy",
+    "images": [
+      "https://res.cloudinary.com/dtllrinkv/image/upload/v1759229675/echocart/products/images/m3gqakigkgiivgot7w4s.jpg"
+    ],
+    "thumbnail": "https://res.cloudinary.com/dtllrinkv/image/upload/v1759229672/echocart/products/thumbnails/zshccuiq6pqpauha3vs7.jpg",
+    "reviews": [
+      {
+        "rating": 3,
+        "comment": "Highly recommend.",
+        "date": "2024-06-27T09:01:23.558378",
+        "reviewerName": "Ali Khan",
+        "reviewerEmail": "ali@example.com"
+      },
+      {
+        "rating": 3,
+        "comment": "Not bad for the price.",
+        "date": "2025-03-23T19:00:00.000Z",
+        "reviewerName": "Jane Smith",
+        "reviewerEmail": "jane@example.com"
+      },
+      {
+        "rating": 3,
+        "comment": "Could be better.",
+        "date": "2025-01-09T19:00:00.000Z",
+        "reviewerName": "Saad Javed",
+        "reviewerEmail": "saad@example.com"
+      }
+    ]
+  },
+  {
+    "id": "3325e0bb-9d41-4ccc-bc40-ff4f0ed65c2a",
+    "title": "Yamaha Premium Gloves",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "category": "Motorcycle",
+    "brand": "Yamaha",
+    "price": 8.74,
+    "discountPercentage": 18,
+    "stock": 137,
+    "weight": 3.1,
+    "tags": [
+      "motorcycle",
+      "yamaha"
+    ],
+    "warrantyInformation": "1 year warranty included",
+    "shippingInformation": "Ships in 3-5 business days",
+    "returnPolicy": "30-day return policy",
+    "images": [
+      "https://res.cloudinary.com/dtllrinkv/image/upload/v1759229677/echocart/products/images/xzszl3vos7kdkrix0wcb.jpg"
+    ],
+    "thumbnail": "https://res.cloudinary.com/dtllrinkv/image/upload/v1759229676/echocart/products/thumbnails/zklr65ptuqqicfg6pnnn.jpg",
+    "reviews": [
+      {
+        "rating": 3,
+        "comment": "Highly recommend.",
+        "date": "2024-06-23T09:01:23.558411",
+        "reviewerName": "Jane Smith",
+        "reviewerEmail": "ali@example.com"
+      },
+      {
+        "rating": 4,
+        "comment": "Quality isn't consistent.",
+        "date": "2025-05-23T19:00:00.000Z",
+        "reviewerName": "Fatima Noor",
+        "reviewerEmail": "fatima@example.com"
+      },
+      {
+        "rating": 4,
+        "comment": "Will definitely buy again.",
+        "date": "2024-12-31T19:00:00.000Z",
+        "reviewerName": "Hira Shah",
+        "reviewerEmail": "hira@example.com"
+      }
+    ]
+  },
+  {
+    "id": "f47d6349-5a41-4505-a746-e298100c4a97",
+    "title": "Michael Kors Casual Leather Watch",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "category": "Womens Watches",
+    "brand": "Michael Kors",
+    "price": 722.28,
+    "discountPercentage": 0.4,
+    "stock": 88,
+    "weight": 5,
+    "tags": [
+      "womens watches",
+      "michael kors"
+    ],
+    "warrantyInformation": "1 year warranty included",
+    "shippingInformation": "Ships in 3-5 business days",
+    "returnPolicy": "30-day return policy",
+    "images": [
+      "https://res.cloudinary.com/dtllrinkv/image/upload/v1759229681/echocart/products/images/fyszk5vugjlrwfskjcx8.jpg"
+    ],
+    "thumbnail": "https://res.cloudinary.com/dtllrinkv/image/upload/v1759229679/echocart/products/thumbnails/jzkhftrwqn5ijjeudhon.jpg",
+    "reviews": [
+      {
+        "rating": 4,
+        "comment": "Excellent product!",
+        "date": "2025-04-02T09:01:23.558446",
+        "reviewerName": "Ali Khan",
+        "reviewerEmail": "john@example.com"
+      },
+      {
+        "rating": 5,
+        "comment": "Exceeded my expectations.",
+        "date": "2025-02-27T19:00:00.000Z",
+        "reviewerName": "Saad Javed",
+        "reviewerEmail": "saad@example.com"
+      },
+      {
+        "rating": 4,
+        "comment": "Could be better.",
+        "date": "2025-05-22T19:00:00.000Z",
+        "reviewerName": "Ahmed Raza",
+        "reviewerEmail": "ahmed@example.com"
+      },
+      {
+        "rating": 3,
+        "comment": "Could be better.",
+        "date": "2025-05-18T19:00:00.000Z",
+        "reviewerName": "Bilal Aslam",
+        "reviewerEmail": "bilal@example.com"
+      },
+      {
+        "rating": 4,
+        "comment": "Works perfectly.",
+        "date": "2025-06-05T19:00:00.000Z",
+        "reviewerName": "Usman Tariq",
+        "reviewerEmail": "usman@example.com"
+      }
+    ]
+  },
+  {
+    "id": "89ce29d8-6983-4b3c-b75e-2f02165f2e20",
+    "title": "Nestle Limited Edition Sauce",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "category": "Groceries",
+    "brand": "Nestle",
+    "price": 216.05,
+    "discountPercentage": 0.1,
+    "stock": 51,
+    "weight": 2.3,
+    "tags": [
+      "groceries",
+      "nestle"
+    ],
+    "warrantyInformation": "1 year warranty included",
+    "shippingInformation": "Ships in 3-5 business days",
+    "returnPolicy": "30-day return policy",
+    "images": [
+      "https://res.cloudinary.com/dtllrinkv/image/upload/v1759229683/echocart/products/images/mtqzdntjwjkwgl1flsuk.jpg"
+    ],
+    "thumbnail": "https://res.cloudinary.com/dtllrinkv/image/upload/v1759229682/echocart/products/thumbnails/kga0o6zbmqilrufghie9.jpg",
+    "reviews": [
+      {
+        "rating": 3,
+        "comment": "Highly recommend.",
+        "date": "2024-10-12T09:01:23.558485",
+        "reviewerName": "Ali Khan",
+        "reviewerEmail": "ali@example.com"
+      },
+      {
+        "rating": 5,
+        "comment": "Could be better.",
+        "date": "2025-01-26T19:00:00.000Z",
+        "reviewerName": "Ahmed Raza",
+        "reviewerEmail": "ahmed@example.com"
+      },
+      {
+        "rating": 4,
+        "comment": "Great product, highly recommend!",
+        "date": "2025-06-17T19:00:00.000Z",
+        "reviewerName": "Ali Khan",
+        "reviewerEmail": "ali@example.com"
+      },
+      {
+        "rating": 5,
+        "comment": "Not what I expected.",
+        "date": "2025-02-27T19:00:00.000Z",
+        "reviewerName": "Usman Tariq",
+        "reviewerEmail": "usman@example.com"
+      }
+    ]
+  },
+  {
+    "id": "1601a90a-233c-413a-be73-dd83a7c6dd67",
+    "title": "Swarovski Limited Edition Bracelet",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "category": "Womens Jewellery",
+    "brand": "Swarovski",
+    "price": 854.32,
+    "discountPercentage": 0.6,
+    "stock": 474,
+    "weight": 3.3,
+    "tags": [
+      "womens jewellery",
+      "swarovski"
+    ],
+    "warrantyInformation": "1 year warranty included",
+    "shippingInformation": "Ships in 3-5 business days",
+    "returnPolicy": "30-day return policy",
+    "images": [
+      "https://res.cloudinary.com/dtllrinkv/image/upload/v1759229685/echocart/products/images/mgu5nterevfp0e9erh4k.jpg"
+    ],
+    "thumbnail": "https://res.cloudinary.com/dtllrinkv/image/upload/v1759229684/echocart/products/thumbnails/nccya4oiewqi2d9yxe16.jpg",
+    "reviews": [
+      {
+        "rating": 4,
+        "comment": "Excellent product!",
+        "date": "2024-10-18T09:01:23.558521",
+        "reviewerName": "John Doe",
+        "reviewerEmail": "jane@example.com"
+      },
+      {
+        "rating": 3,
+        "comment": "Love the design!",
+        "date": "2025-06-14T19:00:00.000Z",
+        "reviewerName": "Saad Javed",
+        "reviewerEmail": "saad@example.com"
+      },
+      {
+        "rating": 5,
+        "comment": "Not bad for the price.",
+        "date": "2025-04-09T19:00:00.000Z",
+        "reviewerName": "Sarah Malik",
+        "reviewerEmail": "sarah@example.com"
+      },
+      {
+        "rating": 3,
+        "comment": "Could be better.",
+        "date": "2025-03-02T19:00:00.000Z",
+        "reviewerName": "Fatima Noor",
+        "reviewerEmail": "fatima@example.com"
+      },
+      {
+        "rating": 4,
+        "comment": "Love the design!",
+        "date": "2025-01-23T19:00:00.000Z",
+        "reviewerName": "Bilal Aslam",
+        "reviewerEmail": "bilal@example.com"
+      }
+    ]
+  },
+  {
+    "id": "13d1f8c1-3176-413e-b1dc-f9dab9539a54",
+    "title": "Toyota Limited Edition Floor Mat",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "category": "Vehicle",
+    "brand": "Toyota",
+    "price": 573.89,
+    "discountPercentage": 0.4,
+    "stock": 285,
+    "weight": 0.5,
+    "tags": [
+      "vehicle",
+      "toyota"
+    ],
+    "warrantyInformation": "1 year warranty included",
+    "shippingInformation": "Ships in 3-5 business days",
+    "returnPolicy": "30-day return policy",
+    "images": [
+      "https://res.cloudinary.com/dtllrinkv/image/upload/v1759229687/echocart/products/images/z9g19we2yvwa2j4ednt9.jpg"
+    ],
+    "thumbnail": "https://res.cloudinary.com/dtllrinkv/image/upload/v1759229686/echocart/products/thumbnails/bpvchgyuztrdnuuqd8rd.jpg",
+    "reviews": [
+      {
+        "rating": 5,
+        "comment": "Excellent product!",
+        "date": "2025-05-20T09:01:23.558553",
+        "reviewerName": "Ali Khan",
+        "reviewerEmail": "ali@example.com"
+      },
+      {
+        "rating": 3,
+        "comment": "Not bad for the price.",
+        "date": "2025-01-23T19:00:00.000Z",
+        "reviewerName": "Saad Javed",
+        "reviewerEmail": "saad@example.com"
+      },
+      {
+        "rating": 4,
+        "comment": "Exceeded my expectations.",
+        "date": "2025-02-25T19:00:00.000Z",
+        "reviewerName": "Bilal Aslam",
+        "reviewerEmail": "bilal@example.com"
+      }
+    ]
+  },
+  {
+    "id": "8b6ff309-a4d5-49d7-abd5-c58932cea45c",
+    "title": "Prestige Classic Blender",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "category": "Kitchen Accessories",
+    "brand": "Prestige",
+    "price": 205.68,
+    "discountPercentage": 25.2,
+    "stock": 185,
+    "weight": 2.2,
+    "tags": [
+      "kitchen accessories",
+      "prestige"
+    ],
+    "warrantyInformation": "1 year warranty included",
+    "shippingInformation": "Ships in 3-5 business days",
+    "returnPolicy": "30-day return policy",
+    "images": [
+      "https://res.cloudinary.com/dtllrinkv/image/upload/v1759229690/echocart/products/images/azee8mdzmxoofgtrie0g.jpg"
+    ],
+    "thumbnail": "https://res.cloudinary.com/dtllrinkv/image/upload/v1759229688/echocart/products/thumbnails/mpeuniez5zbkheg6d59g.jpg",
+    "reviews": [
+      {
+        "rating": 4,
+        "comment": "Highly recommend.",
+        "date": "2025-06-08T09:01:23.558585",
+        "reviewerName": "Ali Khan",
+        "reviewerEmail": "jane@example.com"
+      },
+      {
+        "rating": 3,
+        "comment": "Great product, highly recommend!",
+        "date": "2025-05-12T19:00:00.000Z",
+        "reviewerName": "Jane Smith",
+        "reviewerEmail": "jane@example.com"
+      },
+      {
+        "rating": 4,
+        "comment": "Quality isn't consistent.",
+        "date": "2025-04-01T19:00:00.000Z",
+        "reviewerName": "Jane Smith",
+        "reviewerEmail": "jane@example.com"
+      }
+    ]
+  },
+  {
+    "id": "0aae5f73-1bae-458a-8ecf-17dd21ed0a9d",
+    "title": "The Ordinary Limited Edition Face Wash",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "category": "Skin Care",
+    "brand": "The Ordinary",
+    "price": 759.65,
+    "discountPercentage": 22.3,
+    "stock": 433,
+    "weight": 5,
+    "tags": [
+      "skin care",
+      "the ordinary"
+    ],
+    "warrantyInformation": "1 year warranty included",
+    "shippingInformation": "Ships in 3-5 business days",
+    "returnPolicy": "30-day return policy",
+    "images": [
+      "https://res.cloudinary.com/dtllrinkv/image/upload/v1759229692/echocart/products/images/hdycgmo9zty6fu33u8sk.jpg"
+    ],
+    "thumbnail": "https://res.cloudinary.com/dtllrinkv/image/upload/v1759229691/echocart/products/thumbnails/a8csy0cybou6wfgoc7oc.jpg",
+    "reviews": [
+      {
+        "rating": 4,
+        "comment": "Good value.",
+        "date": "2024-11-25T09:01:23.558617",
+        "reviewerName": "John Doe",
+        "reviewerEmail": "ali@example.com"
+      },
+      {
+        "rating": 5,
+        "comment": "Love the design!",
+        "date": "2025-02-11T19:00:00.000Z",
+        "reviewerName": "Zain Ali",
+        "reviewerEmail": "zain@example.com"
+      },
+      {
+        "rating": 4,
+        "comment": "Love the design!",
+        "date": "2025-06-27T19:00:00.000Z",
+        "reviewerName": "Jane Smith",
+        "reviewerEmail": "jane@example.com"
+      }
+    ]
+  },
+  {
+    "id": "001f5cdd-963c-489b-8c6f-02ca31254daa",
+    "title": "Michael Kors Casual Leather Watch",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "category": "Womens Watches",
+    "brand": "Michael Kors",
+    "price": 452.92,
+    "discountPercentage": 3,
+    "stock": 16,
+    "weight": 2,
+    "tags": [
+      "womens watches",
+      "michael kors"
+    ],
+    "warrantyInformation": "1 year warranty included",
+    "shippingInformation": "Ships in 3-5 business days",
+    "returnPolicy": "30-day return policy",
+    "images": [
+      "https://res.cloudinary.com/dtllrinkv/image/upload/v1759229694/echocart/products/images/uw97v8r4okadps1fx57t.jpg"
+    ],
+    "thumbnail": "https://res.cloudinary.com/dtllrinkv/image/upload/v1759229693/echocart/products/thumbnails/cs9mpmfq0p6n9ol1ythp.jpg",
+    "reviews": [
+      {
+        "rating": 4,
+        "comment": "Good value.",
+        "date": "2024-07-22T09:01:23.558653",
+        "reviewerName": "John Doe",
+        "reviewerEmail": "jane@example.com"
+      },
+      {
+        "rating": 4,
+        "comment": "Could be better.",
+        "date": "2025-06-17T19:00:00.000Z",
+        "reviewerName": "Laiba Ahmed",
+        "reviewerEmail": "laiba@example.com"
+      },
+      {
+        "rating": 3,
+        "comment": "Love the design!",
+        "date": "2025-04-10T19:00:00.000Z",
+        "reviewerName": "Ali Khan",
+        "reviewerEmail": "ali@example.com"
+      },
+      {
+        "rating": 3,
+        "comment": "Works perfectly.",
+        "date": "2025-03-01T19:00:00.000Z",
+        "reviewerName": "Zain Ali",
+        "reviewerEmail": "zain@example.com"
+      },
+      {
+        "rating": 5,
+        "comment": "Will definitely buy again.",
+        "date": "2025-05-06T19:00:00.000Z",
+        "reviewerName": "Laiba Ahmed",
+        "reviewerEmail": "laiba@example.com"
+      }
+    ]
+  },
+  {
+    "id": "c7850573-d791-41c8-9204-bdc47991415a",
+    "title": "Fossil Premium Gold Watch",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "category": "Womens Watches",
+    "brand": "Fossil",
+    "price": 188.24,
+    "discountPercentage": 0,
+    "stock": 477,
+    "weight": 0.9,
+    "tags": [
+      "womens watches",
+      "fossil"
+    ],
+    "warrantyInformation": "1 year warranty included",
+    "shippingInformation": "Ships in 3-5 business days",
+    "returnPolicy": "30-day return policy",
+    "images": [
+      "https://res.cloudinary.com/dtllrinkv/image/upload/v1759229698/echocart/products/images/jr2dm8rfpnngc900hhnx.jpg"
+    ],
+    "thumbnail": "https://res.cloudinary.com/dtllrinkv/image/upload/v1759229696/echocart/products/thumbnails/gavohsiehqhbotgydwln.jpg",
+    "reviews": [
+      {
+        "rating": 5,
+        "comment": "Highly recommend.",
+        "date": "2025-03-19T09:01:23.558685",
+        "reviewerName": "John Doe",
+        "reviewerEmail": "ali@example.com"
+      },
+      {
+        "rating": 4,
+        "comment": "Love the design!",
+        "date": "2025-02-05T19:00:00.000Z",
+        "reviewerName": "Usman Tariq",
+        "reviewerEmail": "usman@example.com"
+      },
+      {
+        "rating": 4,
+        "comment": "Not what I expected.",
+        "date": "2025-05-03T19:00:00.000Z",
+        "reviewerName": "Saad Javed",
+        "reviewerEmail": "saad@example.com"
+      },
+      {
+        "rating": 4,
+        "comment": "Works perfectly.",
+        "date": "2025-03-01T19:00:00.000Z",
+        "reviewerName": "Fatima Noor",
+        "reviewerEmail": "fatima@example.com"
+      }
+    ]
+  },
+  {
+    "id": "0dd5a186-6053-4e56-b861-5c2929ee8616",
+    "title": "Fossil Elegant Chronograph",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "category": "Mens Watches",
+    "brand": "Fossil",
+    "price": 867.51,
+    "discountPercentage": 0.3,
+    "stock": 36,
+    "weight": 1.9,
+    "tags": [
+      "mens watches",
+      "fossil"
+    ],
+    "warrantyInformation": "1 year warranty included",
+    "shippingInformation": "Ships in 3-5 business days",
+    "returnPolicy": "30-day return policy",
+    "images": [
+      "https://res.cloudinary.com/dtllrinkv/image/upload/v1759229699/echocart/products/images/tx980e2xojficqjaghcw.jpg"
+    ],
+    "thumbnail": "https://res.cloudinary.com/dtllrinkv/image/upload/v1759229699/echocart/products/thumbnails/ysfeourk8p0aompmhisx.jpg",
+    "reviews": [
+      {
+        "rating": 3,
+        "comment": "Highly recommend.",
+        "date": "2025-03-10T09:01:23.558723",
+        "reviewerName": "Ali Khan",
+        "reviewerEmail": "jane@example.com"
+      },
+      {
+        "rating": 5,
+        "comment": "Love the design!",
+        "date": "2025-03-09T19:00:00.000Z",
+        "reviewerName": "Usman Tariq",
+        "reviewerEmail": "usman@example.com"
+      },
+      {
+        "rating": 4,
+        "comment": "Love the design!",
+        "date": "2025-06-05T19:00:00.000Z",
+        "reviewerName": "Zain Ali",
+        "reviewerEmail": "zain@example.com"
+      },
+      {
+        "rating": 3,
+        "comment": "Exceeded my expectations.",
+        "date": "2025-03-13T19:00:00.000Z",
+        "reviewerName": "Fatima Noor",
+        "reviewerEmail": "fatima@example.com"
+      },
+      {
+        "rating": 3,
+        "comment": "Not bad for the price.",
+        "date": "2025-06-02T19:00:00.000Z",
+        "reviewerName": "Ahmed Raza",
+        "reviewerEmail": "ahmed@example.com"
+      }
+    ]
+  },
+  {
+    "id": "ef8acc1a-65e9-4c0f-af4d-ef6fadd4c899",
+    "title": "Apple Modern Ultrabook",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "category": "Laptops",
+    "brand": "Apple",
+    "price": 157.44,
+    "discountPercentage": 0.6,
+    "stock": 340,
+    "weight": 3.8,
+    "tags": [
+      "laptops",
+      "apple"
+    ],
+    "warrantyInformation": "1 year warranty included",
+    "shippingInformation": "Ships in 3-5 business days",
+    "returnPolicy": "30-day return policy",
+    "images": [
+      "https://res.cloudinary.com/dtllrinkv/image/upload/v1759229702/echocart/products/images/hytaytry0384kbr55dsj.jpg"
+    ],
+    "thumbnail": "https://res.cloudinary.com/dtllrinkv/image/upload/v1759229701/echocart/products/thumbnails/ewxur7sjvhkrt56j497q.jpg",
+    "reviews": [
+      {
+        "rating": 4,
+        "comment": "Good value.",
+        "date": "2025-05-18T09:01:23.558831",
+        "reviewerName": "John Doe",
+        "reviewerEmail": "ali@example.com"
+      },
+      {
+        "rating": 4,
+        "comment": "Quality isn't consistent.",
+        "date": "2025-02-03T19:00:00.000Z",
+        "reviewerName": "Bilal Aslam",
+        "reviewerEmail": "bilal@example.com"
+      },
+      {
+        "rating": 5,
+        "comment": "Will definitely buy again.",
+        "date": "2025-03-16T19:00:00.000Z",
+        "reviewerName": "Hira Shah",
+        "reviewerEmail": "hira@example.com"
+      }
+    ]
+  },
+  {
+    "id": "18ac7d29-6cbe-44c7-ae7c-6a300fc90621",
+    "title": "Puma Modern Loafers",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "category": "Mens Shoes",
+    "brand": "Puma",
+    "price": 256.02,
+    "discountPercentage": 0.7,
+    "stock": 364,
+    "weight": 1,
+    "tags": [
+      "mens shoes",
+      "puma"
+    ],
+    "warrantyInformation": "1 year warranty included",
+    "shippingInformation": "Ships in 3-5 business days",
+    "returnPolicy": "30-day return policy",
+    "images": [
+      "https://res.cloudinary.com/dtllrinkv/image/upload/v1759229705/echocart/products/images/nbjoicdyqf29mpmenco7.jpg"
+    ],
+    "thumbnail": "https://res.cloudinary.com/dtllrinkv/image/upload/v1759229704/echocart/products/thumbnails/ewvtf9r3lqy5bjfd5jq6.jpg",
+    "reviews": [
+      {
+        "rating": 3,
+        "comment": "Good value.",
+        "date": "2024-11-05T09:01:23.558882",
+        "reviewerName": "Jane Smith",
+        "reviewerEmail": "jane@example.com"
+      },
+      {
+        "rating": 4,
+        "comment": "Will definitely buy again.",
+        "date": "2025-01-12T19:00:00.000Z",
+        "reviewerName": "Bilal Aslam",
+        "reviewerEmail": "bilal@example.com"
+      },
+      {
+        "rating": 4,
+        "comment": "Will definitely buy again.",
+        "date": "2025-02-06T19:00:00.000Z",
+        "reviewerName": "Sarah Malik",
+        "reviewerEmail": "sarah@example.com"
+      },
+      {
+        "rating": 4,
+        "comment": "Looks good and performs well.",
+        "date": "2025-01-15T19:00:00.000Z",
+        "reviewerName": "Saad Javed",
+        "reviewerEmail": "saad@example.com"
+      },
+      {
+        "rating": 3,
+        "comment": "Will definitely buy again.",
+        "date": "2025-06-03T19:00:00.000Z",
+        "reviewerName": "Fatima Noor",
+        "reviewerEmail": "fatima@example.com"
+      }
+    ]
+  },
+  {
+    "id": "36b15a48-3557-4647-838f-30c85ab3a750",
+    "title": "Cuisinart Modern Knife Set",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "category": "Kitchen Accessories",
+    "brand": "Cuisinart",
+    "price": 287.2,
+    "discountPercentage": 0.3,
+    "stock": 413,
+    "weight": 0.6,
+    "tags": [
+      "kitchen accessories",
+      "cuisinart"
+    ],
+    "warrantyInformation": "1 year warranty included",
+    "shippingInformation": "Ships in 3-5 business days",
+    "returnPolicy": "30-day return policy",
+    "images": [
+      "https://res.cloudinary.com/dtllrinkv/image/upload/v1759229710/echocart/products/images/bioxjvofhpsgm9bi9otg.jpg"
+    ],
+    "thumbnail": "https://res.cloudinary.com/dtllrinkv/image/upload/v1759229708/echocart/products/thumbnails/zprhrdqvwxirjukctmou.jpg",
+    "reviews": [
+      {
+        "rating": 5,
+        "comment": "Excellent product!",
+        "date": "2024-08-04T09:01:23.558930",
+        "reviewerName": "John Doe",
+        "reviewerEmail": "john@example.com"
+      },
+      {
+        "rating": 3,
+        "comment": "Looks good and performs well.",
+        "date": "2025-02-28T19:00:00.000Z",
+        "reviewerName": "Laiba Ahmed",
+        "reviewerEmail": "laiba@example.com"
+      },
+      {
+        "rating": 5,
+        "comment": "Works perfectly.",
+        "date": "2025-01-05T19:00:00.000Z",
+        "reviewerName": "Laiba Ahmed",
+        "reviewerEmail": "laiba@example.com"
+      }
+    ]
+  },
+  {
+    "id": "49be6ee2-a970-49bd-8050-5135c2ab369c",
+    "title": "Ray-Ban Casual Round Shades",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "category": "Sunglasses",
+    "brand": "Ray-Ban",
+    "price": 905.45,
+    "discountPercentage": 0,
+    "stock": 449,
+    "weight": 4,
+    "tags": [
+      "sunglasses",
+      "ray-ban"
+    ],
+    "warrantyInformation": "1 year warranty included",
+    "shippingInformation": "Ships in 3-5 business days",
+    "returnPolicy": "30-day return policy",
+    "images": [
+      "https://res.cloudinary.com/dtllrinkv/image/upload/v1759229713/echocart/products/images/d48llikq79jjsqkbovf9.jpg"
+    ],
+    "thumbnail": "https://res.cloudinary.com/dtllrinkv/image/upload/v1759229711/echocart/products/thumbnails/cfni5yw1kanomlzl8eip.jpg",
+    "reviews": [
+      {
+        "rating": 3,
+        "comment": "Highly recommend.",
+        "date": "2025-05-29T09:01:23.558975",
+        "reviewerName": "Ali Khan",
+        "reviewerEmail": "jane@example.com"
+      },
+      {
+        "rating": 5,
+        "comment": "Great product, highly recommend!",
+        "date": "2025-03-12T19:00:00.000Z",
+        "reviewerName": "Usman Tariq",
+        "reviewerEmail": "usman@example.com"
+      },
+      {
+        "rating": 3,
+        "comment": "Love the design!",
+        "date": "2025-05-02T19:00:00.000Z",
+        "reviewerName": "Sarah Malik",
+        "reviewerEmail": "sarah@example.com"
+      },
+      {
+        "rating": 5,
+        "comment": "Exceeded my expectations.",
+        "date": "2025-04-30T19:00:00.000Z",
+        "reviewerName": "Jane Smith",
+        "reviewerEmail": "jane@example.com"
+      }
+    ]
+  },
+  {
+    "id": "cb7831bc-74ed-4d42-90a8-def8ccd30701",
+    "title": "Adidas Modern Sneakers",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "category": "Mens Shoes",
+    "brand": "Adidas",
+    "price": 434.42,
+    "discountPercentage": 0.3,
+    "stock": 32,
+    "weight": 2.5,
+    "tags": [
+      "mens shoes",
+      "adidas"
+    ],
+    "warrantyInformation": "1 year warranty included",
+    "shippingInformation": "Ships in 3-5 business days",
+    "returnPolicy": "30-day return policy",
+    "images": [
+      "https://res.cloudinary.com/dtllrinkv/image/upload/v1759229716/echocart/products/images/bzvstwgekkeqb3sfvu24.jpg"
+    ],
+    "thumbnail": "https://res.cloudinary.com/dtllrinkv/image/upload/v1759229715/echocart/products/thumbnails/t5ndoycmykktygik2eba.jpg",
+    "reviews": [
+      {
+        "rating": 4,
+        "comment": "Highly recommend.",
+        "date": "2024-07-26T09:01:23.559009",
+        "reviewerName": "Ali Khan",
+        "reviewerEmail": "ali@example.com"
+      },
+      {
+        "rating": 3,
+        "comment": "Great product, highly recommend!",
+        "date": "2025-04-27T19:00:00.000Z",
+        "reviewerName": "Laiba Ahmed",
+        "reviewerEmail": "laiba@example.com"
+      },
+      {
+        "rating": 5,
+        "comment": "Will definitely buy again.",
+        "date": "2025-01-27T19:00:00.000Z",
+        "reviewerName": "Bilal Aslam",
+        "reviewerEmail": "bilal@example.com"
+      }
+    ]
+  },
+  {
+    "id": "b9e1b60b-39cb-4b9f-8a0c-f55cfe819e0e",
+    "title": "Calvin Klein Classic Body Mist",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "category": "Fragrances",
+    "brand": "Calvin Klein",
+    "price": 522.49,
+    "discountPercentage": 0.3,
+    "stock": 182,
+    "weight": 3.8,
+    "tags": [
+      "fragrances",
+      "calvin klein"
+    ],
+    "warrantyInformation": "1 year warranty included",
+    "shippingInformation": "Ships in 3-5 business days",
+    "returnPolicy": "30-day return policy",
+    "images": [
+      "https://res.cloudinary.com/dtllrinkv/image/upload/v1759229718/echocart/products/images/qzx0dvcgw4nperbtws0f.jpg"
+    ],
+    "thumbnail": "https://res.cloudinary.com/dtllrinkv/image/upload/v1759229717/echocart/products/thumbnails/jltvurposrzpvav9v07g.jpg",
+    "reviews": [
+      {
+        "rating": 3,
+        "comment": "Excellent product!",
+        "date": "2024-12-04T09:01:23.559110",
+        "reviewerName": "Ali Khan",
+        "reviewerEmail": "john@example.com"
+      },
+      {
+        "rating": 5,
+        "comment": "Love the design!",
+        "date": "2025-04-14T19:00:00.000Z",
+        "reviewerName": "Laiba Ahmed",
+        "reviewerEmail": "laiba@example.com"
+      },
+      {
+        "rating": 3,
+        "comment": "Not what I expected.",
+        "date": "2025-06-27T19:00:00.000Z",
+        "reviewerName": "Bilal Aslam",
+        "reviewerEmail": "bilal@example.com"
+      },
+      {
+        "rating": 3,
+        "comment": "Exceeded my expectations.",
+        "date": "2025-05-07T19:00:00.000Z",
+        "reviewerName": "Zain Ali",
+        "reviewerEmail": "zain@example.com"
+      }
+    ]
+  },
+  {
+    "id": "a970251e-8a03-4c93-91de-d1184797f7b2",
+    "title": "Xiaomi Modern Smartphone",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "category": "Smartphones",
+    "brand": "Xiaomi",
+    "price": 82.06,
+    "discountPercentage": 0.3,
+    "stock": 465,
+    "weight": 3.4,
+    "tags": [
+      "smartphones",
+      "xiaomi"
+    ],
+    "warrantyInformation": "1 year warranty included",
+    "shippingInformation": "Ships in 3-5 business days",
+    "returnPolicy": "30-day return policy",
+    "images": [
+      "https://res.cloudinary.com/dtllrinkv/image/upload/v1759229722/echocart/products/images/o7hygiiibpdvxp9rs6nb.jpg"
+    ],
+    "thumbnail": "https://res.cloudinary.com/dtllrinkv/image/upload/v1759229720/echocart/products/thumbnails/hmadycvbqj4cieksh6pk.jpg",
+    "reviews": [
+      {
+        "rating": 5,
+        "comment": "Good value.",
+        "date": "2025-03-26T09:01:23.559145",
+        "reviewerName": "Ali Khan",
+        "reviewerEmail": "ali@example.com"
+      },
+      {
+        "rating": 3,
+        "comment": "Not what I expected.",
+        "date": "2025-03-31T19:00:00.000Z",
+        "reviewerName": "Ali Khan",
+        "reviewerEmail": "ali@example.com"
+      },
+      {
+        "rating": 3,
+        "comment": "Love the design!",
+        "date": "2025-04-30T19:00:00.000Z",
+        "reviewerName": "Fatima Noor",
+        "reviewerEmail": "fatima@example.com"
+      },
+      {
+        "rating": 3,
+        "comment": "Exceeded my expectations.",
+        "date": "2025-03-03T19:00:00.000Z",
+        "reviewerName": "Sarah Malik",
+        "reviewerEmail": "sarah@example.com"
+      },
+      {
+        "rating": 3,
+        "comment": "Great product, highly recommend!",
+        "date": "2025-02-13T19:00:00.000Z",
+        "reviewerName": "Laiba Ahmed",
+        "reviewerEmail": "laiba@example.com"
+      }
+    ]
+  },
+  {
+    "id": "7c6e3384-f140-4d4d-9ffe-1ea9b6b96419",
+    "title": "HomeCentre Modern Vase",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "category": "Home Decoration",
+    "brand": "HomeCentre",
+    "price": 668.89,
+    "discountPercentage": 0,
+    "stock": 418,
+    "weight": 4.3,
+    "tags": [
+      "home decoration",
+      "homecentre"
+    ],
+    "warrantyInformation": "1 year warranty included",
+    "shippingInformation": "Ships in 3-5 business days",
+    "returnPolicy": "30-day return policy",
+    "images": [
+      "https://res.cloudinary.com/dtllrinkv/image/upload/v1759229723/echocart/products/images/m1mckmlfjfmhufcytom1.jpg"
+    ],
+    "thumbnail": "https://res.cloudinary.com/dtllrinkv/image/upload/v1759229722/echocart/products/thumbnails/bxo71jtlx2c3hbkhwfoy.jpg",
+    "reviews": [
+      {
+        "rating": 3,
+        "comment": "Excellent product!",
+        "date": "2025-06-13T09:01:23.559177",
+        "reviewerName": "John Doe",
+        "reviewerEmail": "john@example.com"
+      },
+      {
+        "rating": 5,
+        "comment": "Exceeded my expectations.",
+        "date": "2025-02-11T19:00:00.000Z",
+        "reviewerName": "Bilal Aslam",
+        "reviewerEmail": "bilal@example.com"
+      },
+      {
+        "rating": 5,
+        "comment": "Works perfectly.",
+        "date": "2025-03-13T19:00:00.000Z",
+        "reviewerName": "Saad Javed",
+        "reviewerEmail": "saad@example.com"
+      },
+      {
+        "rating": 3,
+        "comment": "Looks good and performs well.",
+        "date": "2025-01-01T19:00:00.000Z",
+        "reviewerName": "Zain Ali",
+        "reviewerEmail": "zain@example.com"
+      }
+    ]
+  },
+  {
+    "id": "5e735c2e-55da-4ec0-97b1-3db050fc1cb7",
+    "title": "Seiko Limited Edition Chronograph",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "category": "Mens Watches",
+    "brand": "Seiko",
+    "price": 132.97,
+    "discountPercentage": 0,
+    "stock": 480,
+    "weight": 1.1,
+    "tags": [
+      "mens watches",
+      "seiko"
+    ],
+    "warrantyInformation": "1 year warranty included",
+    "shippingInformation": "Ships in 3-5 business days",
+    "returnPolicy": "30-day return policy",
+    "images": [
+      "https://res.cloudinary.com/dtllrinkv/image/upload/v1759229725/echocart/products/images/uglxhoyghpwp096im6vq.jpg"
+    ],
+    "thumbnail": "https://res.cloudinary.com/dtllrinkv/image/upload/v1759229724/echocart/products/thumbnails/veorjlxa99b4jhfqurk1.jpg",
+    "reviews": [
+      {
+        "rating": 4,
+        "comment": "Good value.",
+        "date": "2024-07-02T09:01:23.559210",
+        "reviewerName": "John Doe",
+        "reviewerEmail": "john@example.com"
+      },
+      {
+        "rating": 4,
+        "comment": "Great product, highly recommend!",
+        "date": "2025-03-31T19:00:00.000Z",
+        "reviewerName": "Ahmed Raza",
+        "reviewerEmail": "ahmed@example.com"
+      },
+      {
+        "rating": 5,
+        "comment": "Not bad for the price.",
+        "date": "2025-04-15T19:00:00.000Z",
+        "reviewerName": "Ahmed Raza",
+        "reviewerEmail": "ahmed@example.com"
+      },
+      {
+        "rating": 4,
+        "comment": "Will definitely buy again.",
+        "date": "2025-02-07T19:00:00.000Z",
+        "reviewerName": "Usman Tariq",
+        "reviewerEmail": "usman@example.com"
+      }
+    ]
+  },
+  {
+    "id": "4c3973cb-1e09-4953-9965-0b87874e79e5",
+    "title": "Coach Modern Tote",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "category": "Womens Bags",
+    "brand": "Coach",
+    "price": 51.25,
+    "discountPercentage": 0,
+    "stock": 64,
+    "weight": 2.3,
+    "tags": [
+      "womens bags",
+      "coach"
+    ],
+    "warrantyInformation": "1 year warranty included",
+    "shippingInformation": "Ships in 3-5 business days",
+    "returnPolicy": "30-day return policy",
+    "images": [
+      "https://res.cloudinary.com/dtllrinkv/image/upload/v1759229729/echocart/products/images/g0fyr4rt1xzfx7jeqs5q.jpg"
+    ],
+    "thumbnail": "https://res.cloudinary.com/dtllrinkv/image/upload/v1759229727/echocart/products/thumbnails/aupol4fm7wu0tbpqsmj4.jpg",
+    "reviews": [
+      {
+        "rating": 5,
+        "comment": "Good value.",
+        "date": "2025-03-19T09:01:23.559256",
+        "reviewerName": "John Doe",
+        "reviewerEmail": "john@example.com"
+      },
+      {
+        "rating": 3,
+        "comment": "Will definitely buy again.",
+        "date": "2025-02-15T19:00:00.000Z",
+        "reviewerName": "Hira Shah",
+        "reviewerEmail": "hira@example.com"
+      },
+      {
+        "rating": 3,
+        "comment": "Quality isn't consistent.",
+        "date": "2025-04-15T19:00:00.000Z",
+        "reviewerName": "Sarah Malik",
+        "reviewerEmail": "sarah@example.com"
+      }
+    ]
+  },
+  {
+    "id": "3ec83a0e-4740-4113-a5cd-32945ad59b00",
+    "title": "HomeCentre Limited Edition Vase",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "category": "Home Decoration",
+    "brand": "HomeCentre",
+    "price": 603.43,
+    "discountPercentage": 0,
+    "stock": 499,
+    "weight": 4,
+    "tags": [
+      "home decoration",
+      "homecentre"
+    ],
+    "warrantyInformation": "1 year warranty included",
+    "shippingInformation": "Ships in 3-5 business days",
+    "returnPolicy": "30-day return policy",
+    "images": [
+      "https://res.cloudinary.com/dtllrinkv/image/upload/v1759229731/echocart/products/images/fb9yr81zbc2ovnbg6dzd.jpg"
+    ],
+    "thumbnail": "https://res.cloudinary.com/dtllrinkv/image/upload/v1759229730/echocart/products/thumbnails/zoaidct36tvieedmxhik.jpg",
+    "reviews": [
+      {
+        "rating": 3,
+        "comment": "Excellent product!",
+        "date": "2024-07-02T09:01:23.559298",
+        "reviewerName": "Ali Khan",
+        "reviewerEmail": "jane@example.com"
+      },
+      {
+        "rating": 3,
+        "comment": "Not what I expected.",
+        "date": "2025-04-25T19:00:00.000Z",
+        "reviewerName": "Zain Ali",
+        "reviewerEmail": "zain@example.com"
+      },
+      {
+        "rating": 5,
+        "comment": "Could be better.",
+        "date": "2025-06-03T19:00:00.000Z",
+        "reviewerName": "Zain Ali",
+        "reviewerEmail": "zain@example.com"
+      },
+      {
+        "rating": 3,
+        "comment": "Not bad for the price.",
+        "date": "2025-02-18T19:00:00.000Z",
+        "reviewerName": "Jane Smith",
+        "reviewerEmail": "jane@example.com"
+      },
+      {
+        "rating": 3,
+        "comment": "Could be better.",
+        "date": "2025-04-04T19:00:00.000Z",
+        "reviewerName": "Usman Tariq",
+        "reviewerEmail": "usman@example.com"
+      }
+    ]
+  },
+  {
+    "id": "289647a7-b57b-4498-8556-b9b151dc3200",
+    "title": "Steve Madden Modern Boots",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "category": "Womens Shoes",
+    "brand": "Steve Madden",
+    "price": 567.02,
+    "discountPercentage": 0,
+    "stock": 149,
+    "weight": 3.4,
+    "tags": [
+      "womens shoes",
+      "steve madden"
+    ],
+    "warrantyInformation": "1 year warranty included",
+    "shippingInformation": "Ships in 3-5 business days",
+    "returnPolicy": "30-day return policy",
+    "images": [
+      "https://res.cloudinary.com/dtllrinkv/image/upload/v1759229734/echocart/products/images/zvm4gomgm48tsb2ditoc.jpg"
+    ],
+    "thumbnail": "https://res.cloudinary.com/dtllrinkv/image/upload/v1759229732/echocart/products/thumbnails/aa4lbbgohxjkpszq4kik.jpg",
+    "reviews": [
+      {
+        "rating": 3,
+        "comment": "Highly recommend.",
+        "date": "2025-04-06T09:01:23.559333",
+        "reviewerName": "Jane Smith",
+        "reviewerEmail": "ali@example.com"
+      },
+      {
+        "rating": 3,
+        "comment": "Exceeded my expectations.",
+        "date": "2025-02-24T19:00:00.000Z",
+        "reviewerName": "Sarah Malik",
+        "reviewerEmail": "sarah@example.com"
+      },
+      {
+        "rating": 5,
+        "comment": "Not what I expected.",
+        "date": "2025-06-06T19:00:00.000Z",
+        "reviewerName": "Ahmed Raza",
+        "reviewerEmail": "ahmed@example.com"
+      },
+      {
+        "rating": 4,
+        "comment": "Great product, highly recommend!",
+        "date": "2025-06-21T19:00:00.000Z",
+        "reviewerName": "Jane Smith",
+        "reviewerEmail": "jane@example.com"
+      },
+      {
+        "rating": 5,
+        "comment": "Looks good and performs well.",
+        "date": "2025-06-02T19:00:00.000Z",
+        "reviewerName": "Fatima Noor",
+        "reviewerEmail": "fatima@example.com"
+      }
+    ]
+  },
+  {
+    "id": "08aeae4d-0a68-41c3-9176-40c93a478207",
+    "title": "Nike Premium Loafers",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "category": "Mens Shoes",
+    "brand": "Nike",
+    "price": 318.57,
+    "discountPercentage": 0,
+    "stock": 293,
+    "weight": 3.6,
+    "tags": [
+      "mens shoes",
+      "nike"
+    ],
+    "warrantyInformation": "1 year warranty included",
+    "shippingInformation": "Ships in 3-5 business days",
+    "returnPolicy": "30-day return policy",
+    "images": [
+      "https://res.cloudinary.com/dtllrinkv/image/upload/v1759229736/echocart/products/images/piscnurxplsisshjvz31.jpg"
+    ],
+    "thumbnail": "https://res.cloudinary.com/dtllrinkv/image/upload/v1759229735/echocart/products/thumbnails/nfbjudbaxonww1f3fsdw.jpg",
+    "reviews": [
+      {
+        "rating": 4,
+        "comment": "Good value.",
+        "date": "2025-05-10T09:01:23.559377",
+        "reviewerName": "John Doe",
+        "reviewerEmail": "ali@example.com"
+      },
+      {
+        "rating": 3,
+        "comment": "Not bad for the price.",
+        "date": "2025-05-21T19:00:00.000Z",
+        "reviewerName": "Hira Shah",
+        "reviewerEmail": "hira@example.com"
+      },
+      {
+        "rating": 4,
+        "comment": "Not what I expected.",
+        "date": "2025-02-08T19:00:00.000Z",
+        "reviewerName": "Bilal Aslam",
+        "reviewerEmail": "bilal@example.com"
+      }
+    ]
+  },
+  {
+    "id": "95d47802-d5d1-4931-ac8c-d1dd189d35b9",
+    "title": "Wayfair Limited Edition Lamp",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "category": "Home Decoration",
+    "brand": "Wayfair",
+    "price": 341.31,
+    "discountPercentage": 0,
+    "stock": 206,
+    "weight": 3.7,
+    "tags": [
+      "home decoration",
+      "wayfair"
+    ],
+    "warrantyInformation": "1 year warranty included",
+    "shippingInformation": "Ships in 3-5 business days",
+    "returnPolicy": "30-day return policy",
+    "images": [
+      "https://res.cloudinary.com/dtllrinkv/image/upload/v1759229739/echocart/products/images/sztbs6ht9aeqk4uxxt8p.jpg"
+    ],
+    "thumbnail": "https://res.cloudinary.com/dtllrinkv/image/upload/v1759229738/echocart/products/thumbnails/qzeqnnmq2woy6qru56sp.jpg",
+    "reviews": [
+      {
+        "rating": 3,
+        "comment": "Good value.",
+        "date": "2024-07-20T09:01:23.559414",
+        "reviewerName": "Ali Khan",
+        "reviewerEmail": "jane@example.com"
+      },
+      {
+        "rating": 3,
+        "comment": "Could be better.",
+        "date": "2025-04-12T19:00:00.000Z",
+        "reviewerName": "Hira Shah",
+        "reviewerEmail": "hira@example.com"
+      },
+      {
+        "rating": 5,
+        "comment": "Could be better.",
+        "date": "2025-04-09T19:00:00.000Z",
+        "reviewerName": "Ali Khan",
+        "reviewerEmail": "ali@example.com"
+      }
+    ]
+  },
+  {
+    "id": "184eca29-4746-4d03-8f1b-0c11cfeee5e1",
+    "title": "Dell Premium Ultrabook",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "category": "Laptops",
+    "brand": "Dell",
+    "price": 55.24,
+    "discountPercentage": 24,
+    "stock": 303,
+    "weight": 2.7,
+    "tags": [
+      "laptops",
+      "dell"
+    ],
+    "warrantyInformation": "1 year warranty included",
+    "shippingInformation": "Ships in 3-5 business days",
+    "returnPolicy": "30-day return policy",
+    "images": [
+      "https://res.cloudinary.com/dtllrinkv/image/upload/v1759229741/echocart/products/images/dkqt62xbjh1tt8442cvl.jpg"
+    ],
+    "thumbnail": "https://res.cloudinary.com/dtllrinkv/image/upload/v1759229740/echocart/products/thumbnails/lmqvlw5bkk6jvhd0bnpq.jpg",
+    "reviews": [
+      {
+        "rating": 5,
+        "comment": "Excellent product!",
+        "date": "2025-01-06T09:01:23.559450",
+        "reviewerName": "Ali Khan",
+        "reviewerEmail": "jane@example.com"
+      },
+      {
+        "rating": 4,
+        "comment": "Great product, highly recommend!",
+        "date": "2025-01-18T19:00:00.000Z",
+        "reviewerName": "Jane Smith",
+        "reviewerEmail": "jane@example.com"
+      },
+      {
+        "rating": 4,
+        "comment": "Works perfectly.",
+        "date": "2025-06-02T19:00:00.000Z",
+        "reviewerName": "Usman Tariq",
+        "reviewerEmail": "usman@example.com"
+      },
+      {
+        "rating": 5,
+        "comment": "Not bad for the price.",
+        "date": "2025-04-11T19:00:00.000Z",
+        "reviewerName": "Zain Ali",
+        "reviewerEmail": "zain@example.com"
+      },
+      {
+        "rating": 5,
+        "comment": "Great product, highly recommend!",
+        "date": "2025-02-18T19:00:00.000Z",
+        "reviewerName": "Zain Ali",
+        "reviewerEmail": "zain@example.com"
+      }
+    ]
+  },
+  {
+    "id": "39c43ed5-e875-4485-b5e1-96b98a5d4776",
+    "title": "Dell Limited Edition Laptop",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "category": "Laptops",
+    "brand": "Dell",
+    "price": 212.23,
+    "discountPercentage": 0.3,
+    "stock": 74,
+    "weight": 0.8,
+    "tags": [
+      "laptops",
+      "dell"
+    ],
+    "warrantyInformation": "1 year warranty included",
+    "shippingInformation": "Ships in 3-5 business days",
+    "returnPolicy": "30-day return policy",
+    "images": [
+      "https://res.cloudinary.com/dtllrinkv/image/upload/v1759229745/echocart/products/images/olo0vqgljjttc6jku4mg.jpg"
+    ],
+    "thumbnail": "https://res.cloudinary.com/dtllrinkv/image/upload/v1759229743/echocart/products/thumbnails/x1wiskpek4fupdy9bnes.jpg",
+    "reviews": [
+      {
+        "rating": 4,
+        "comment": "Good value.",
+        "date": "2024-11-15T09:01:23.559484",
+        "reviewerName": "John Doe",
+        "reviewerEmail": "jane@example.com"
+      },
+      {
+        "rating": 3,
+        "comment": "Exceeded my expectations.",
+        "date": "2025-03-15T19:00:00.000Z",
+        "reviewerName": "Ahmed Raza",
+        "reviewerEmail": "ahmed@example.com"
+      },
+      {
+        "rating": 4,
+        "comment": "Could be better.",
+        "date": "2025-04-22T19:00:00.000Z",
+        "reviewerName": "Sarah Malik",
+        "reviewerEmail": "sarah@example.com"
+      },
+      {
+        "rating": 4,
+        "comment": "Will definitely buy again.",
+        "date": "2025-03-27T19:00:00.000Z",
+        "reviewerName": "Ahmed Raza",
+        "reviewerEmail": "ahmed@example.com"
+      },
+      {
+        "rating": 3,
+        "comment": "Exceeded my expectations.",
+        "date": "2025-06-02T19:00:00.000Z",
+        "reviewerName": "Saad Javed",
+        "reviewerEmail": "saad@example.com"
+      }
+    ]
+  },
+  {
+    "id": "31782d2e-ab03-4636-bb60-74560a2d4a66",
+    "title": "Seiko Limited Edition Chronograph",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "category": "Mens Watches",
+    "brand": "Seiko",
+    "price": 962.31,
+    "discountPercentage": 0.9,
+    "stock": 346,
+    "weight": 1.2,
+    "tags": [
+      "mens watches",
+      "seiko"
+    ],
+    "warrantyInformation": "1 year warranty included",
+    "shippingInformation": "Ships in 3-5 business days",
+    "returnPolicy": "30-day return policy",
+    "images": [
+      "https://res.cloudinary.com/dtllrinkv/image/upload/v1759229748/echocart/products/images/ha7pqw8qwl8nz9inchzv.jpg"
+    ],
+    "thumbnail": "https://res.cloudinary.com/dtllrinkv/image/upload/v1759229747/echocart/products/thumbnails/vndst63xelcuxmtqkkgu.jpg",
+    "reviews": [
+      {
+        "rating": 5,
+        "comment": "Highly recommend.",
+        "date": "2024-09-03T09:01:23.559515",
+        "reviewerName": "John Doe",
+        "reviewerEmail": "ali@example.com"
+      },
+      {
+        "rating": 4,
+        "comment": "Looks good and performs well.",
+        "date": "2025-04-17T19:00:00.000Z",
+        "reviewerName": "Saad Javed",
+        "reviewerEmail": "saad@example.com"
+      },
+      {
+        "rating": 5,
+        "comment": "Could be better.",
+        "date": "2025-06-27T19:00:00.000Z",
+        "reviewerName": "Saad Javed",
+        "reviewerEmail": "saad@example.com"
+      },
+      {
+        "rating": 3,
+        "comment": "Will definitely buy again.",
+        "date": "2025-03-11T19:00:00.000Z",
+        "reviewerName": "Fatima Noor",
+        "reviewerEmail": "fatima@example.com"
+      },
+      {
+        "rating": 3,
+        "comment": "Will definitely buy again.",
+        "date": "2025-06-18T19:00:00.000Z",
+        "reviewerName": "Saad Javed",
+        "reviewerEmail": "saad@example.com"
+      }
+    ]
+  },
+  {
+    "id": "f48fc575-c757-412c-9eb9-42208d613c58",
+    "title": "Prestige Limited Edition Blender",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "category": "Kitchen Accessories",
+    "brand": "Prestige",
+    "price": 431.3,
+    "discountPercentage": 9.9,
+    "stock": 481,
+    "weight": 4.9,
+    "tags": [
+      "kitchen accessories",
+      "prestige"
+    ],
+    "warrantyInformation": "1 year warranty included",
+    "shippingInformation": "Ships in 3-5 business days",
+    "returnPolicy": "30-day return policy",
+    "images": [
+      "https://res.cloudinary.com/dtllrinkv/image/upload/v1759229750/echocart/products/images/q37kxspdoio7b6e17ms4.jpg"
+    ],
+    "thumbnail": "https://res.cloudinary.com/dtllrinkv/image/upload/v1759229749/echocart/products/thumbnails/iwnvxresf4tolj5rzsmw.jpg",
+    "reviews": [
+      {
+        "rating": 4,
+        "comment": "Highly recommend.",
+        "date": "2024-09-01T09:01:23.559553",
+        "reviewerName": "John Doe",
+        "reviewerEmail": "john@example.com"
+      },
+      {
+        "rating": 3,
+        "comment": "Exceeded my expectations.",
+        "date": "2025-02-08T19:00:00.000Z",
+        "reviewerName": "Ahmed Raza",
+        "reviewerEmail": "ahmed@example.com"
+      },
+      {
+        "rating": 3,
+        "comment": "Exceeded my expectations.",
+        "date": "2025-05-06T19:00:00.000Z",
+        "reviewerName": "Ahmed Raza",
+        "reviewerEmail": "ahmed@example.com"
+      },
+      {
+        "rating": 5,
+        "comment": "Not bad for the price.",
+        "date": "2025-06-11T19:00:00.000Z",
+        "reviewerName": "Jane Smith",
+        "reviewerEmail": "jane@example.com"
+      },
+      {
+        "rating": 4,
+        "comment": "Great product, highly recommend!",
+        "date": "2025-03-18T19:00:00.000Z",
+        "reviewerName": "Jane Smith",
+        "reviewerEmail": "jane@example.com"
+      }
+    ]
+  },
+  {
+    "id": "a3476826-2c5d-4137-b8c7-e96944ad8314",
+    "title": "Apple Premium Smartphone",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "category": "Smartphones",
+    "brand": "Apple",
+    "price": 660.36,
+    "discountPercentage": 0,
+    "stock": 49,
+    "weight": 2.2,
+    "tags": [
+      "smartphones",
+      "apple"
+    ],
+    "warrantyInformation": "1 year warranty included",
+    "shippingInformation": "Ships in 3-5 business days",
+    "returnPolicy": "30-day return policy",
+    "images": [
+      "https://res.cloudinary.com/dtllrinkv/image/upload/v1759229754/echocart/products/images/zntmlozggfqfqh8gfv4k.jpg"
+    ],
+    "thumbnail": "https://res.cloudinary.com/dtllrinkv/image/upload/v1759229752/echocart/products/thumbnails/qfzxjghyddpkkjonh5xo.jpg",
+    "reviews": [
+      {
+        "rating": 5,
+        "comment": "Good value.",
+        "date": "2025-01-16T09:01:23.559589",
+        "reviewerName": "John Doe",
+        "reviewerEmail": "ali@example.com"
+      },
+      {
+        "rating": 5,
+        "comment": "Could be better.",
+        "date": "2025-03-22T19:00:00.000Z",
+        "reviewerName": "Zain Ali",
+        "reviewerEmail": "zain@example.com"
+      },
+      {
+        "rating": 5,
+        "comment": "Love the design!",
+        "date": "2025-04-19T19:00:00.000Z",
+        "reviewerName": "Laiba Ahmed",
+        "reviewerEmail": "laiba@example.com"
+      },
+      {
+        "rating": 4,
+        "comment": "Works perfectly.",
+        "date": "2025-02-27T19:00:00.000Z",
+        "reviewerName": "Ali Khan",
+        "reviewerEmail": "ali@example.com"
+      }
+    ]
+  },
+  {
+    "id": "2757a371-c2d1-4708-ada3-862d3c4b2bda",
+    "title": "Ford Limited Edition Cover",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "category": "Vehicle",
+    "brand": "Ford",
+    "price": 18.91,
+    "discountPercentage": 21.1,
+    "stock": 14,
+    "weight": 3.8,
+    "tags": [
+      "vehicle",
+      "ford"
+    ],
+    "warrantyInformation": "1 year warranty included",
+    "shippingInformation": "Ships in 3-5 business days",
+    "returnPolicy": "30-day return policy",
+    "images": [
+      "https://res.cloudinary.com/dtllrinkv/image/upload/v1759229760/echocart/products/images/uyeoadklaehem0mkafnz.jpg"
+    ],
+    "thumbnail": "https://res.cloudinary.com/dtllrinkv/image/upload/v1759229756/echocart/products/thumbnails/fufbljelwyputrqf43ej.jpg",
+    "reviews": [
+      {
+        "rating": 4,
+        "comment": "Excellent product!",
+        "date": "2025-03-19T09:01:23.559623",
+        "reviewerName": "John Doe",
+        "reviewerEmail": "jane@example.com"
+      },
+      {
+        "rating": 5,
+        "comment": "Quality isn't consistent.",
+        "date": "2025-03-02T19:00:00.000Z",
+        "reviewerName": "Jane Smith",
+        "reviewerEmail": "jane@example.com"
+      },
+      {
+        "rating": 3,
+        "comment": "Exceeded my expectations.",
+        "date": "2025-03-17T19:00:00.000Z",
+        "reviewerName": "Hira Shah",
+        "reviewerEmail": "hira@example.com"
+      }
+    ]
+  },
+  {
+    "id": "e43080bd-7d31-488a-863d-cb39f7234c5e",
+    "title": "Tiffany & Co. Casual Earrings",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "category": "Womens Jewellery",
+    "brand": "Tiffany & Co.",
+    "price": 936.04,
+    "discountPercentage": 26.9,
+    "stock": 225,
+    "weight": 1,
+    "tags": [
+      "womens jewellery",
+      "tiffany & co."
+    ],
+    "warrantyInformation": "1 year warranty included",
+    "shippingInformation": "Ships in 3-5 business days",
+    "returnPolicy": "30-day return policy",
+    "images": [
+      "https://res.cloudinary.com/dtllrinkv/image/upload/v1759229765/echocart/products/images/yk2rtkmepaxkx9nd7p9x.jpg"
+    ],
+    "thumbnail": "https://res.cloudinary.com/dtllrinkv/image/upload/v1759229762/echocart/products/thumbnails/dnonwto7wxeeddsolanr.jpg",
+    "reviews": [
+      {
+        "rating": 5,
+        "comment": "Excellent product!",
+        "date": "2025-03-04T09:01:23.559660",
+        "reviewerName": "Jane Smith",
+        "reviewerEmail": "ali@example.com"
+      },
+      {
+        "rating": 3,
+        "comment": "Quality isn't consistent.",
+        "date": "2025-06-23T19:00:00.000Z",
+        "reviewerName": "Ahmed Raza",
+        "reviewerEmail": "ahmed@example.com"
+      },
+      {
+        "rating": 5,
+        "comment": "Great product, highly recommend!",
+        "date": "2025-04-18T19:00:00.000Z",
+        "reviewerName": "Usman Tariq",
+        "reviewerEmail": "usman@example.com"
+      }
+    ]
+  },
+  {
+    "id": "32b1a2b8-0a78-4efa-ba92-12184659bd09",
+    "title": "Steve Madden Casual Boots",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "category": "Womens Shoes",
+    "brand": "Steve Madden",
+    "price": 973.15,
+    "discountPercentage": 5.4,
+    "stock": 277,
+    "weight": 4.9,
+    "tags": [
+      "womens shoes",
+      "steve madden"
+    ],
+    "warrantyInformation": "1 year warranty included",
+    "shippingInformation": "Ships in 3-5 business days",
+    "returnPolicy": "30-day return policy",
+    "images": [
+      "https://res.cloudinary.com/dtllrinkv/image/upload/v1759229768/echocart/products/images/s9hpqyac9zexpgjprmrn.jpg"
+    ],
+    "thumbnail": "https://res.cloudinary.com/dtllrinkv/image/upload/v1759229766/echocart/products/thumbnails/pgv9stj7vaxwm9tftxsu.jpg",
+    "reviews": [
+      {
+        "rating": 4,
+        "comment": "Excellent product!",
+        "date": "2024-11-07T09:01:23.559701",
+        "reviewerName": "Ali Khan",
+        "reviewerEmail": "john@example.com"
+      },
+      {
+        "rating": 3,
+        "comment": "Will definitely buy again.",
+        "date": "2025-05-31T19:00:00.000Z",
+        "reviewerName": "Ahmed Raza",
+        "reviewerEmail": "ahmed@example.com"
+      },
+      {
+        "rating": 5,
+        "comment": "Not bad for the price.",
+        "date": "2025-05-05T19:00:00.000Z",
+        "reviewerName": "Fatima Noor",
+        "reviewerEmail": "fatima@example.com"
+      }
+    ]
+  },
+  {
+    "id": "30082501-e406-4743-9135-395684bdd7a6",
+    "title": "Cuisinart Elegant Knife Set",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "category": "Kitchen Accessories",
+    "brand": "Cuisinart",
+    "price": 625.02,
+    "discountPercentage": 0.4,
+    "stock": 419,
+    "weight": 1.2,
+    "tags": [
+      "kitchen accessories",
+      "cuisinart"
+    ],
+    "warrantyInformation": "1 year warranty included",
+    "shippingInformation": "Ships in 3-5 business days",
+    "returnPolicy": "30-day return policy",
+    "images": [
+      "https://res.cloudinary.com/dtllrinkv/image/upload/v1759229774/echocart/products/images/x2oruopwg6uyc8d1wi77.jpg"
+    ],
+    "thumbnail": "https://res.cloudinary.com/dtllrinkv/image/upload/v1759229771/echocart/products/thumbnails/sd24bqap4espbbjbqzlo.jpg",
+    "reviews": [
+      {
+        "rating": 5,
+        "comment": "Good value.",
+        "date": "2024-09-29T09:01:23.559732",
+        "reviewerName": "Jane Smith",
+        "reviewerEmail": "jane@example.com"
+      },
+      {
+        "rating": 5,
+        "comment": "Love the design!",
+        "date": "2025-04-09T19:00:00.000Z",
+        "reviewerName": "Saad Javed",
+        "reviewerEmail": "saad@example.com"
+      },
+      {
+        "rating": 3,
+        "comment": "Quality isn't consistent.",
+        "date": "2025-03-22T19:00:00.000Z",
+        "reviewerName": "Fatima Noor",
+        "reviewerEmail": "fatima@example.com"
+      },
+      {
+        "rating": 4,
+        "comment": "Great product, highly recommend!",
+        "date": "2025-05-08T19:00:00.000Z",
+        "reviewerName": "Fatima Noor",
+        "reviewerEmail": "fatima@example.com"
+      },
+      {
+        "rating": 4,
+        "comment": "Love the design!",
+        "date": "2025-03-16T19:00:00.000Z",
+        "reviewerName": "Fatima Noor",
+        "reviewerEmail": "fatima@example.com"
+      }
+    ]
+  },
+  {
+    "id": "dbfeeb62-0db3-4217-860c-9fe0c9e6b470",
+    "title": "Versace Classic Body Mist",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "category": "Fragrances",
+    "brand": "Versace",
+    "price": 988.51,
+    "discountPercentage": 0.2,
+    "stock": 175,
+    "weight": 1,
+    "tags": [
+      "fragrances",
+      "versace"
+    ],
+    "warrantyInformation": "1 year warranty included",
+    "shippingInformation": "Ships in 3-5 business days",
+    "returnPolicy": "30-day return policy",
+    "images": [
+      "https://res.cloudinary.com/dtllrinkv/image/upload/v1759229779/echocart/products/images/bgddsya2vw7xlfzu6gzj.jpg"
+    ],
+    "thumbnail": "https://res.cloudinary.com/dtllrinkv/image/upload/v1759229777/echocart/products/thumbnails/fkf7ic74iir9bsqxdwf6.jpg",
+    "reviews": [
+      {
+        "rating": 3,
+        "comment": "Highly recommend.",
+        "date": "2024-07-15T09:01:23.559763",
+        "reviewerName": "John Doe",
+        "reviewerEmail": "ali@example.com"
+      },
+      {
+        "rating": 5,
+        "comment": "Could be better.",
+        "date": "2025-04-18T19:00:00.000Z",
+        "reviewerName": "Fatima Noor",
+        "reviewerEmail": "fatima@example.com"
+      },
+      {
+        "rating": 3,
+        "comment": "Love the design!",
+        "date": "2025-05-05T19:00:00.000Z",
+        "reviewerName": "Ahmed Raza",
+        "reviewerEmail": "ahmed@example.com"
+      },
+      {
+        "rating": 4,
+        "comment": "Looks good and performs well.",
+        "date": "2025-02-22T19:00:00.000Z",
+        "reviewerName": "Saad Javed",
+        "reviewerEmail": "saad@example.com"
+      },
+      {
+        "rating": 5,
+        "comment": "Works perfectly.",
+        "date": "2025-05-03T19:00:00.000Z",
+        "reviewerName": "Hira Shah",
+        "reviewerEmail": "hira@example.com"
+      }
+    ]
+  },
+  {
+    "id": "8abfb883-d656-43ce-9e03-64c93e2cb992",
+    "title": "Coach Premium Clutch",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "category": "Womens Bags",
+    "brand": "Coach",
+    "price": 29.08,
+    "discountPercentage": 0.3,
+    "stock": 159,
+    "weight": 2.4,
+    "tags": [
+      "womens bags",
+      "coach"
+    ],
+    "warrantyInformation": "1 year warranty included",
+    "shippingInformation": "Ships in 3-5 business days",
+    "returnPolicy": "30-day return policy",
+    "images": [
+      "https://res.cloudinary.com/dtllrinkv/image/upload/v1759229783/echocart/products/images/ezprdzvzai6ns3afeweo.jpg"
+    ],
+    "thumbnail": "https://res.cloudinary.com/dtllrinkv/image/upload/v1759229780/echocart/products/thumbnails/vpjafepyi7sprr8m7amq.jpg",
+    "reviews": [
+      {
+        "rating": 5,
+        "comment": "Excellent product!",
+        "date": "2025-01-26T09:01:23.559805",
+        "reviewerName": "Jane Smith",
+        "reviewerEmail": "john@example.com"
+      },
+      {
+        "rating": 3,
+        "comment": "Works perfectly.",
+        "date": "2025-02-01T19:00:00.000Z",
+        "reviewerName": "Ahmed Raza",
+        "reviewerEmail": "ahmed@example.com"
+      },
+      {
+        "rating": 5,
+        "comment": "Looks good and performs well.",
+        "date": "2025-03-15T19:00:00.000Z",
+        "reviewerName": "Fatima Noor",
+        "reviewerEmail": "fatima@example.com"
+      },
+      {
+        "rating": 4,
+        "comment": "Will definitely buy again.",
+        "date": "2025-05-04T19:00:00.000Z",
+        "reviewerName": "Usman Tariq",
+        "reviewerEmail": "usman@example.com"
+      }
+    ]
+  },
+  {
+    "id": "6a06e985-3d76-4c1b-b539-d0b4a6eb50f2",
+    "title": "Wayfair Limited Edition Bed",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "category": "Furniture",
+    "brand": "Wayfair",
+    "price": 372.49,
+    "discountPercentage": 0.8,
+    "stock": 472,
+    "weight": 3.9,
+    "tags": [
+      "furniture",
+      "wayfair"
+    ],
+    "warrantyInformation": "1 year warranty included",
+    "shippingInformation": "Ships in 3-5 business days",
+    "returnPolicy": "30-day return policy",
+    "images": [
+      "https://res.cloudinary.com/dtllrinkv/image/upload/v1759229786/echocart/products/images/uyckjhfa18o7frrhpy0b.jpg"
+    ],
+    "thumbnail": "https://res.cloudinary.com/dtllrinkv/image/upload/v1759229785/echocart/products/thumbnails/dz44wgtytbuknik8qozk.jpg",
+    "reviews": [
+      {
+        "rating": 4,
+        "comment": "Good value.",
+        "date": "2024-11-26T09:01:23.559839",
+        "reviewerName": "Ali Khan",
+        "reviewerEmail": "ali@example.com"
+      },
+      {
+        "rating": 5,
+        "comment": "Exceeded my expectations.",
+        "date": "2025-02-19T19:00:00.000Z",
+        "reviewerName": "Jane Smith",
+        "reviewerEmail": "jane@example.com"
+      },
+      {
+        "rating": 3,
+        "comment": "Love the design!",
+        "date": "2025-06-02T19:00:00.000Z",
+        "reviewerName": "Jane Smith",
+        "reviewerEmail": "jane@example.com"
+      },
+      {
+        "rating": 5,
+        "comment": "Quality isn't consistent.",
+        "date": "2025-04-18T19:00:00.000Z",
+        "reviewerName": "Jane Smith",
+        "reviewerEmail": "jane@example.com"
+      }
+    ]
+  },
+  {
+    "id": "2e2562b3-8615-465b-9a6e-5c8f8b679c1d",
+    "title": "Versace Premium Body Mist",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "category": "Fragrances",
+    "brand": "Versace",
+    "price": 265.77,
+    "discountPercentage": 24.7,
+    "stock": 116,
+    "weight": 4.9,
+    "tags": [
+      "fragrances",
+      "versace"
+    ],
+    "warrantyInformation": "1 year warranty included",
+    "shippingInformation": "Ships in 3-5 business days",
+    "returnPolicy": "30-day return policy",
+    "images": [
+      "https://res.cloudinary.com/dtllrinkv/image/upload/v1759229790/echocart/products/images/eahuvf1vur8bs8timu7s.jpg"
+    ],
+    "thumbnail": "https://res.cloudinary.com/dtllrinkv/image/upload/v1759229788/echocart/products/thumbnails/nhk86i7lxbxykhor6n3n.jpg",
+    "reviews": [
+      {
+        "rating": 3,
+        "comment": "Good value.",
+        "date": "2025-03-22T09:01:23.559874",
+        "reviewerName": "Jane Smith",
+        "reviewerEmail": "john@example.com"
+      },
+      {
+        "rating": 3,
+        "comment": "Could be better.",
+        "date": "2025-06-14T19:00:00.000Z",
+        "reviewerName": "Ahmed Raza",
+        "reviewerEmail": "ahmed@example.com"
+      },
+      {
+        "rating": 5,
+        "comment": "Love the design!",
+        "date": "2025-01-01T19:00:00.000Z",
+        "reviewerName": "Saad Javed",
+        "reviewerEmail": "saad@example.com"
+      },
+      {
+        "rating": 3,
+        "comment": "Exceeded my expectations.",
+        "date": "2024-12-31T19:00:00.000Z",
+        "reviewerName": "Bilal Aslam",
+        "reviewerEmail": "bilal@example.com"
+      }
+    ]
+  },
+  {
+    "id": "bb8b5a55-b6e1-40e0-8d14-ff0cbc984858",
+    "title": "Fossil Elegant Handbag",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "category": "Womens Bags",
+    "brand": "Fossil",
+    "price": 398.46,
+    "discountPercentage": 0.3,
+    "stock": 47,
+    "weight": 0.6,
+    "tags": [
+      "womens bags",
+      "fossil"
+    ],
+    "warrantyInformation": "1 year warranty included",
+    "shippingInformation": "Ships in 3-5 business days",
+    "returnPolicy": "30-day return policy",
+    "images": [
+      "https://res.cloudinary.com/dtllrinkv/image/upload/v1759229793/echocart/products/images/zzn6vs8954yapvnep8p1.jpg"
+    ],
+    "thumbnail": "https://res.cloudinary.com/dtllrinkv/image/upload/v1759229792/echocart/products/thumbnails/xtiei3lnrmfemo9bxiw7.jpg",
+    "reviews": [
+      {
+        "rating": 5,
+        "comment": "Good value.",
+        "date": "2025-04-03T09:01:23.559911",
+        "reviewerName": "Jane Smith",
+        "reviewerEmail": "john@example.com"
+      },
+      {
+        "rating": 5,
+        "comment": "Not bad for the price.",
+        "date": "2025-01-14T19:00:00.000Z",
+        "reviewerName": "Zain Ali",
+        "reviewerEmail": "zain@example.com"
+      },
+      {
+        "rating": 5,
+        "comment": "Not what I expected.",
+        "date": "2025-01-08T19:00:00.000Z",
+        "reviewerName": "Ali Khan",
+        "reviewerEmail": "ali@example.com"
+      },
+      {
+        "rating": 4,
+        "comment": "Could be better.",
+        "date": "2025-06-05T19:00:00.000Z",
+        "reviewerName": "Jane Smith",
+        "reviewerEmail": "jane@example.com"
+      }
+    ]
+  },
+  {
+    "id": "f28c9395-6bcd-46af-91ec-1959336ab4e8",
+    "title": "Fossil Elegant Smartwatch",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "category": "Womens Watches",
+    "brand": "Fossil",
+    "price": 910.43,
+    "discountPercentage": 0.2,
+    "stock": 222,
+    "weight": 2.1,
+    "tags": [
+      "womens watches",
+      "fossil"
+    ],
+    "warrantyInformation": "1 year warranty included",
+    "shippingInformation": "Ships in 3-5 business days",
+    "returnPolicy": "30-day return policy",
+    "images": [
+      "https://res.cloudinary.com/dtllrinkv/image/upload/v1759229796/echocart/products/images/kbcp5iy8lxf4nscbtdtq.jpg"
+    ],
+    "thumbnail": "https://res.cloudinary.com/dtllrinkv/image/upload/v1759229794/echocart/products/thumbnails/bfvsgco2i5tztvha3ypq.jpg",
+    "reviews": [
+      {
+        "rating": 5,
+        "comment": "Good value.",
+        "date": "2024-12-31T09:01:23.559950",
+        "reviewerName": "Ali Khan",
+        "reviewerEmail": "ali@example.com"
+      },
+      {
+        "rating": 4,
+        "comment": "Great product, highly recommend!",
+        "date": "2025-05-14T19:00:00.000Z",
+        "reviewerName": "Laiba Ahmed",
+        "reviewerEmail": "laiba@example.com"
+      },
+      {
+        "rating": 3,
+        "comment": "Great product, highly recommend!",
+        "date": "2025-06-09T19:00:00.000Z",
+        "reviewerName": "Zain Ali",
+        "reviewerEmail": "zain@example.com"
+      },
+      {
+        "rating": 5,
+        "comment": "Not what I expected.",
+        "date": "2025-03-16T19:00:00.000Z",
+        "reviewerName": "Fatima Noor",
+        "reviewerEmail": "fatima@example.com"
+      }
+    ]
+  },
+  {
+    "id": "7ef95eba-923c-4bc5-861d-636aecc8eb62",
+    "title": "Swarovski Limited Edition Earrings",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "category": "Womens Jewellery",
+    "brand": "Swarovski",
+    "price": 511.17,
+    "discountPercentage": 0.3,
+    "stock": 383,
+    "weight": 4.7,
+    "tags": [
+      "womens jewellery",
+      "swarovski"
+    ],
+    "warrantyInformation": "1 year warranty included",
+    "shippingInformation": "Ships in 3-5 business days",
+    "returnPolicy": "30-day return policy",
+    "images": [
+      "https://res.cloudinary.com/dtllrinkv/image/upload/v1759229798/echocart/products/images/tiabqi6dze8nbrinxc2b.jpg"
+    ],
+    "thumbnail": "https://res.cloudinary.com/dtllrinkv/image/upload/v1759229797/echocart/products/thumbnails/pquy2cqeozd5jvz3vqjt.jpg",
+    "reviews": [
+      {
+        "rating": 5,
+        "comment": "Good value.",
+        "date": "2025-02-13T09:01:23.559997",
+        "reviewerName": "Ali Khan",
+        "reviewerEmail": "jane@example.com"
+      },
+      {
+        "rating": 4,
+        "comment": "Will definitely buy again.",
+        "date": "2025-04-16T19:00:00.000Z",
+        "reviewerName": "Ahmed Raza",
+        "reviewerEmail": "ahmed@example.com"
+      },
+      {
+        "rating": 5,
+        "comment": "Works perfectly.",
+        "date": "2025-01-18T19:00:00.000Z",
+        "reviewerName": "Hira Shah",
+        "reviewerEmail": "hira@example.com"
+      }
+    ]
+  },
+  {
+    "id": "58145076-08bf-4589-923b-c0cc051135e7",
+    "title": "Oakley Premium Aviators",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "category": "Sunglasses",
+    "brand": "Oakley",
+    "price": 577.99,
+    "discountPercentage": 0.1,
+    "stock": 202,
+    "weight": 4.8,
+    "tags": [
+      "sunglasses",
+      "oakley"
+    ],
+    "warrantyInformation": "1 year warranty included",
+    "shippingInformation": "Ships in 3-5 business days",
+    "returnPolicy": "30-day return policy",
+    "images": [
+      "https://res.cloudinary.com/dtllrinkv/image/upload/v1759229801/echocart/products/images/bn7jgd2ozxvraafjlrf1.jpg"
+    ],
+    "thumbnail": "https://res.cloudinary.com/dtllrinkv/image/upload/v1759229799/echocart/products/thumbnails/v3xfosoi6oll9czsshc6.jpg",
+    "reviews": [
+      {
+        "rating": 5,
+        "comment": "Excellent product!",
+        "date": "2025-01-29T09:01:23.560043",
+        "reviewerName": "Ali Khan",
+        "reviewerEmail": "ali@example.com"
+      },
+      {
+        "rating": 4,
+        "comment": "Great product, highly recommend!",
+        "date": "2025-01-15T19:00:00.000Z",
+        "reviewerName": "Fatima Noor",
+        "reviewerEmail": "fatima@example.com"
+      },
+      {
+        "rating": 5,
+        "comment": "Great product, highly recommend!",
+        "date": "2025-02-22T19:00:00.000Z",
+        "reviewerName": "Laiba Ahmed",
+        "reviewerEmail": "laiba@example.com"
+      },
+      {
+        "rating": 4,
+        "comment": "Looks good and performs well.",
+        "date": "2025-05-16T19:00:00.000Z",
+        "reviewerName": "Ali Khan",
+        "reviewerEmail": "ali@example.com"
+      }
+    ]
+  },
+  {
+    "id": "3807441d-801f-42e8-a527-e71e8f963551",
+    "title": "Urban Ladder Casual Lamp",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "category": "Home Decoration",
+    "brand": "Urban Ladder",
+    "price": 406.75,
+    "discountPercentage": 6.4,
+    "stock": 363,
+    "weight": 3.3,
+    "tags": [
+      "home decoration",
+      "urban ladder"
+    ],
+    "warrantyInformation": "1 year warranty included",
+    "shippingInformation": "Ships in 3-5 business days",
+    "returnPolicy": "30-day return policy",
+    "images": [
+      "https://res.cloudinary.com/dtllrinkv/image/upload/v1759229803/echocart/products/images/edywaafy4ngvemhammy8.jpg"
+    ],
+    "thumbnail": "https://res.cloudinary.com/dtllrinkv/image/upload/v1759229802/echocart/products/thumbnails/vogqjqmuqagsebiehh7i.jpg",
+    "reviews": [
+      {
+        "rating": 3,
+        "comment": "Highly recommend.",
+        "date": "2025-02-09T09:01:23.560084",
+        "reviewerName": "John Doe",
+        "reviewerEmail": "john@example.com"
+      },
+      {
+        "rating": 4,
+        "comment": "Great product, highly recommend!",
+        "date": "2025-05-11T19:00:00.000Z",
+        "reviewerName": "Saad Javed",
+        "reviewerEmail": "saad@example.com"
+      },
+      {
+        "rating": 5,
+        "comment": "Could be better.",
+        "date": "2025-05-04T19:00:00.000Z",
+        "reviewerName": "Hira Shah",
+        "reviewerEmail": "hira@example.com"
+      },
+      {
+        "rating": 5,
+        "comment": "Looks good and performs well.",
+        "date": "2025-06-21T19:00:00.000Z",
+        "reviewerName": "Saad Javed",
+        "reviewerEmail": "saad@example.com"
+      }
+    ]
+  },
+  {
+    "id": "8719e4e0-39ae-4f97-8b83-00782866b359",
+    "title": "HP Classic Laptop",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "category": "Laptops",
+    "brand": "HP",
+    "price": 660.86,
+    "discountPercentage": 0.3,
+    "stock": 198,
+    "weight": 1.8,
+    "tags": [
+      "laptops",
+      "hp"
+    ],
+    "warrantyInformation": "1 year warranty included",
+    "shippingInformation": "Ships in 3-5 business days",
+    "returnPolicy": "30-day return policy",
+    "images": [
+      "https://res.cloudinary.com/dtllrinkv/image/upload/v1759229807/echocart/products/images/tu0jrprbobp5gue5gwkd.jpg"
+    ],
+    "thumbnail": "https://res.cloudinary.com/dtllrinkv/image/upload/v1759229805/echocart/products/thumbnails/ns9wrh214fewr0daq8nt.jpg",
+    "reviews": [
+      {
+        "rating": 5,
+        "comment": "Highly recommend.",
+        "date": "2025-03-22T09:01:23.560118",
+        "reviewerName": "Ali Khan",
+        "reviewerEmail": "john@example.com"
+      },
+      {
+        "rating": 5,
+        "comment": "Not what I expected.",
+        "date": "2025-03-11T19:00:00.000Z",
+        "reviewerName": "Bilal Aslam",
+        "reviewerEmail": "bilal@example.com"
+      },
+      {
+        "rating": 5,
+        "comment": "Quality isn't consistent.",
+        "date": "2025-01-23T19:00:00.000Z",
+        "reviewerName": "Saad Javed",
+        "reviewerEmail": "saad@example.com"
+      }
+    ]
+  },
+  {
+    "id": "11cd7407-dacc-4017-8c33-debf2616eab0",
+    "title": "CeraVe Elegant Moisturizer",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "category": "Skin Care",
+    "brand": "CeraVe",
+    "price": 19.92,
+    "discountPercentage": 7.6,
+    "stock": 112,
+    "weight": 1.5,
+    "tags": [
+      "skin care",
+      "cerave"
+    ],
+    "warrantyInformation": "1 year warranty included",
+    "shippingInformation": "Ships in 3-5 business days",
+    "returnPolicy": "30-day return policy",
+    "images": [
+      "https://res.cloudinary.com/dtllrinkv/image/upload/v1759229809/echocart/products/images/pjyukhs1g05cpa3ujfun.jpg"
+    ],
+    "thumbnail": "https://res.cloudinary.com/dtllrinkv/image/upload/v1759229808/echocart/products/thumbnails/hlihcjkhnp7hjobv6hym.jpg",
+    "reviews": [
+      {
+        "rating": 5,
+        "comment": "Highly recommend.",
+        "date": "2025-05-05T09:01:23.560152",
+        "reviewerName": "Ali Khan",
+        "reviewerEmail": "jane@example.com"
+      },
+      {
+        "rating": 5,
+        "comment": "Exceeded my expectations.",
+        "date": "2025-06-27T19:00:00.000Z",
+        "reviewerName": "Bilal Aslam",
+        "reviewerEmail": "bilal@example.com"
+      },
+      {
+        "rating": 4,
+        "comment": "Not what I expected.",
+        "date": "2025-04-15T19:00:00.000Z",
+        "reviewerName": "Sarah Malik",
+        "reviewerEmail": "sarah@example.com"
+      },
+      {
+        "rating": 4,
+        "comment": "Love the design!",
+        "date": "2025-03-11T19:00:00.000Z",
+        "reviewerName": "Bilal Aslam",
+        "reviewerEmail": "bilal@example.com"
+      },
+      {
+        "rating": 5,
+        "comment": "Great product, highly recommend!",
+        "date": "2025-04-17T19:00:00.000Z",
+        "reviewerName": "Laiba Ahmed",
+        "reviewerEmail": "laiba@example.com"
+      }
+    ]
+  },
+  {
+    "id": "094bda20-af52-4823-b86b-79494ae3cff3",
+    "title": "Dell Elegant Notebook",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "category": "Laptops",
+    "brand": "Dell",
+    "price": 738.69,
+    "discountPercentage": 6.8,
+    "stock": 197,
+    "weight": 3,
+    "tags": [
+      "laptops",
+      "dell"
+    ],
+    "warrantyInformation": "1 year warranty included",
+    "shippingInformation": "Ships in 3-5 business days",
+    "returnPolicy": "30-day return policy",
+    "images": [
+      "https://res.cloudinary.com/dtllrinkv/image/upload/v1759229811/echocart/products/images/e55ug8egvkwxoro71tm7.jpg"
+    ],
+    "thumbnail": "https://res.cloudinary.com/dtllrinkv/image/upload/v1759229810/echocart/products/thumbnails/xghilterilri3lynufu5.jpg",
+    "reviews": [
+      {
+        "rating": 3,
+        "comment": "Highly recommend.",
+        "date": "2024-07-07T09:01:23.560191",
+        "reviewerName": "Jane Smith",
+        "reviewerEmail": "jane@example.com"
+      },
+      {
+        "rating": 5,
+        "comment": "Could be better.",
+        "date": "2025-02-21T19:00:00.000Z",
+        "reviewerName": "Saad Javed",
+        "reviewerEmail": "saad@example.com"
+      },
+      {
+        "rating": 3,
+        "comment": "Not bad for the price.",
+        "date": "2025-06-17T19:00:00.000Z",
+        "reviewerName": "Ali Khan",
+        "reviewerEmail": "ali@example.com"
+      },
+      {
+        "rating": 3,
+        "comment": "Will definitely buy again.",
+        "date": "2025-05-05T19:00:00.000Z",
+        "reviewerName": "Ali Khan",
+        "reviewerEmail": "ali@example.com"
+      }
+    ]
+  },
+  {
+    "id": "1345c6e5-1685-459d-b2cc-eee8c3e87ba5",
+    "title": "Yamaha Premium Gloves",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "category": "Motorcycle",
+    "brand": "Yamaha",
+    "price": 473.46,
+    "discountPercentage": 0.7,
+    "stock": 190,
+    "weight": 3.6,
+    "tags": [
+      "motorcycle",
+      "yamaha"
+    ],
+    "warrantyInformation": "1 year warranty included",
+    "shippingInformation": "Ships in 3-5 business days",
+    "returnPolicy": "30-day return policy",
+    "images": [
+      "https://res.cloudinary.com/dtllrinkv/image/upload/v1759229814/echocart/products/images/xho1qimpb1fm3wkjzbt3.jpg"
+    ],
+    "thumbnail": "https://res.cloudinary.com/dtllrinkv/image/upload/v1759229813/echocart/products/thumbnails/eqaqpucjgnxozitzqwwi.jpg",
+    "reviews": [
+      {
+        "rating": 4,
+        "comment": "Good value.",
+        "date": "2024-10-31T09:01:23.560222",
+        "reviewerName": "Ali Khan",
+        "reviewerEmail": "john@example.com"
+      },
+      {
+        "rating": 3,
+        "comment": "Exceeded my expectations.",
+        "date": "2025-06-22T19:00:00.000Z",
+        "reviewerName": "Fatima Noor",
+        "reviewerEmail": "fatima@example.com"
+      },
+      {
+        "rating": 3,
+        "comment": "Works perfectly.",
+        "date": "2025-01-17T19:00:00.000Z",
+        "reviewerName": "Laiba Ahmed",
+        "reviewerEmail": "laiba@example.com"
+      },
+      {
+        "rating": 5,
+        "comment": "Quality isn't consistent.",
+        "date": "2025-05-19T19:00:00.000Z",
+        "reviewerName": "Bilal Aslam",
+        "reviewerEmail": "bilal@example.com"
+      }
+    ]
+  },
+  {
+    "id": "5f1e0f3b-ca1e-4dd2-ab86-e408af8f22a2",
+    "title": "Neutrogena Modern Face Wash",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "category": "Skin Care",
+    "brand": "Neutrogena",
+    "price": 258.57,
+    "discountPercentage": 10,
+    "stock": 484,
+    "weight": 0.6,
+    "tags": [
+      "skin care",
+      "neutrogena"
+    ],
+    "warrantyInformation": "1 year warranty included",
+    "shippingInformation": "Ships in 3-5 business days",
+    "returnPolicy": "30-day return policy",
+    "images": [
+      "https://res.cloudinary.com/dtllrinkv/image/upload/v1759229816/echocart/products/images/ws3vpbyiae4e6nw0dq7r.jpg"
+    ],
+    "thumbnail": "https://res.cloudinary.com/dtllrinkv/image/upload/v1759229815/echocart/products/thumbnails/ef4xxsuc3gsw1goiddsa.jpg",
+    "reviews": [
+      {
+        "rating": 4,
+        "comment": "Good value.",
+        "date": "2025-02-09T09:01:23.560255",
+        "reviewerName": "Jane Smith",
+        "reviewerEmail": "jane@example.com"
+      },
+      {
+        "rating": 5,
+        "comment": "Will definitely buy again.",
+        "date": "2025-04-13T19:00:00.000Z",
+        "reviewerName": "Sarah Malik",
+        "reviewerEmail": "sarah@example.com"
+      },
+      {
+        "rating": 3,
+        "comment": "Could be better.",
+        "date": "2025-06-26T19:00:00.000Z",
+        "reviewerName": "Laiba Ahmed",
+        "reviewerEmail": "laiba@example.com"
+      }
+    ]
+  },
+  {
+    "id": "a096529c-5716-4873-8763-2e06e9ed018f",
+    "title": "Honda Classic Floor Mat",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "category": "Vehicle",
+    "brand": "Honda",
+    "price": 447.97,
+    "discountPercentage": 8,
+    "stock": 169,
+    "weight": 0.9,
+    "tags": [
+      "vehicle",
+      "honda"
+    ],
+    "warrantyInformation": "1 year warranty included",
+    "shippingInformation": "Ships in 3-5 business days",
+    "returnPolicy": "30-day return policy",
+    "images": [
+      "https://res.cloudinary.com/dtllrinkv/image/upload/v1759229818/echocart/products/images/ph6kachd7o1bz3ninxas.jpg"
+    ],
+    "thumbnail": "https://res.cloudinary.com/dtllrinkv/image/upload/v1759229817/echocart/products/thumbnails/rvfexzw4okhdxasl9qhu.jpg",
+    "reviews": [
+      {
+        "rating": 4,
+        "comment": "Excellent product!",
+        "date": "2024-08-08T09:01:23.560302",
+        "reviewerName": "Ali Khan",
+        "reviewerEmail": "ali@example.com"
+      },
+      {
+        "rating": 5,
+        "comment": "Looks good and performs well.",
+        "date": "2025-01-25T19:00:00.000Z",
+        "reviewerName": "Laiba Ahmed",
+        "reviewerEmail": "laiba@example.com"
+      },
+      {
+        "rating": 3,
+        "comment": "Great product, highly recommend!",
+        "date": "2025-04-25T19:00:00.000Z",
+        "reviewerName": "Usman Tariq",
+        "reviewerEmail": "usman@example.com"
+      }
+    ]
+  },
+  {
+    "id": "48884a11-390b-4405-8a1b-f92a66ef6033",
+    "title": "Michael Kors Limited Edition Smartwatch",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "category": "Womens Watches",
+    "brand": "Michael Kors",
+    "price": 272.27,
+    "discountPercentage": 14.9,
+    "stock": 461,
+    "weight": 2.9,
+    "tags": [
+      "womens watches",
+      "michael kors"
+    ],
+    "warrantyInformation": "1 year warranty included",
+    "shippingInformation": "Ships in 3-5 business days",
+    "returnPolicy": "30-day return policy",
+    "images": [
+      "https://res.cloudinary.com/dtllrinkv/image/upload/v1759229820/echocart/products/images/whfl8yk8nmeyregbndin.jpg"
+    ],
+    "thumbnail": "https://res.cloudinary.com/dtllrinkv/image/upload/v1759229819/echocart/products/thumbnails/fsriyv9ibb82f5f3mpsu.jpg",
+    "reviews": [
+      {
+        "rating": 4,
+        "comment": "Good value.",
+        "date": "2025-03-14T09:01:23.560335",
+        "reviewerName": "Ali Khan",
+        "reviewerEmail": "jane@example.com"
+      },
+      {
+        "rating": 5,
+        "comment": "Exceeded my expectations.",
+        "date": "2025-03-13T19:00:00.000Z",
+        "reviewerName": "Usman Tariq",
+        "reviewerEmail": "usman@example.com"
+      },
+      {
+        "rating": 3,
+        "comment": "Not what I expected.",
+        "date": "2025-02-09T19:00:00.000Z",
+        "reviewerName": "Ali Khan",
+        "reviewerEmail": "ali@example.com"
+      },
+      {
+        "rating": 3,
+        "comment": "Great product, highly recommend!",
+        "date": "2025-04-24T19:00:00.000Z",
+        "reviewerName": "Zain Ali",
+        "reviewerEmail": "zain@example.com"
+      },
+      {
+        "rating": 4,
+        "comment": "Not bad for the price.",
+        "date": "2025-06-02T19:00:00.000Z",
+        "reviewerName": "Hira Shah",
+        "reviewerEmail": "hira@example.com"
+      }
+    ]
+  },
+  {
+    "id": "99d60e3d-360d-422c-b681-a7ba0d557478",
+    "title": "Guess Premium Leather Watch",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "category": "Womens Watches",
+    "brand": "Guess",
+    "price": 282.5,
+    "discountPercentage": 0,
+    "stock": 429,
+    "weight": 4.4,
+    "tags": [
+      "womens watches",
+      "guess"
+    ],
+    "warrantyInformation": "1 year warranty included",
+    "shippingInformation": "Ships in 3-5 business days",
+    "returnPolicy": "30-day return policy",
+    "images": [
+      "https://res.cloudinary.com/dtllrinkv/image/upload/v1759229822/echocart/products/images/qmjibv8uw8smwl1yad3k.jpg"
+    ],
+    "thumbnail": "https://res.cloudinary.com/dtllrinkv/image/upload/v1759229821/echocart/products/thumbnails/rlpopgrhazuz5tnpnlsj.jpg",
+    "reviews": [
+      {
+        "rating": 3,
+        "comment": "Good value.",
+        "date": "2024-07-14T09:01:23.560379",
+        "reviewerName": "John Doe",
+        "reviewerEmail": "ali@example.com"
+      },
+      {
+        "rating": 3,
+        "comment": "Not bad for the price.",
+        "date": "2025-06-13T19:00:00.000Z",
+        "reviewerName": "Usman Tariq",
+        "reviewerEmail": "usman@example.com"
+      },
+      {
+        "rating": 5,
+        "comment": "Exceeded my expectations.",
+        "date": "2025-03-06T19:00:00.000Z",
+        "reviewerName": "Laiba Ahmed",
+        "reviewerEmail": "laiba@example.com"
+      },
+      {
+        "rating": 4,
+        "comment": "Great product, highly recommend!",
+        "date": "2025-04-20T19:00:00.000Z",
+        "reviewerName": "Ahmed Raza",
+        "reviewerEmail": "ahmed@example.com"
+      },
+      {
+        "rating": 5,
+        "comment": "Quality isn't consistent.",
+        "date": "2025-03-20T19:00:00.000Z",
+        "reviewerName": "Saad Javed",
+        "reviewerEmail": "saad@example.com"
+      }
+    ]
+  }
+]

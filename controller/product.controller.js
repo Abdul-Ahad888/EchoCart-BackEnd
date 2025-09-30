@@ -1,5 +1,7 @@
 const Product = require('../model/product.model')
 const User = require('../model/user.model')
+const cloudinary = require('../config/cloudinary.config');
+
 
 const getAllProducts = async (req, res) => {
     try {
@@ -45,79 +47,87 @@ const getProductById = async (req, res) => {
 }
 
 const createProduct = async (req, res) => {
-
     try {
-
-        const { title, description, category, brand, price, discountPercentage, stock, weight, tags,
-            warrantyInformation, shippingInformation, returnPolicy, } = req.body
+        const {
+            title, description, category, brand, price, discountPercentage,
+            stock, weight, tags, warrantyInformation, shippingInformation, returnPolicy
+        } = req.body;
 
         const thumbnailFile = req.files["thumbnail"] ? req.files["thumbnail"][0] : null;
-        const imageFiles = req.files["images"] ? req.files["images"] : [];
+        const thumbnailUrl = thumbnailFile ? thumbnailFile.path : null; // multer-cloudinary gives .path = secure_url
 
-
-        const thumbnailUrl = thumbnailFile
-            ? `http://localhost:8000/uploads/${thumbnailFile.filename}`
-            : null;
-
-        const images = imageFiles.map(
-            (file) => `http://localhost:8000/uploads/${file.filename}`
-        );
-
+        const imageFiles = req.files["images"] || [];
+        const imagesUrls = imageFiles.map(file => file.path);
 
         const newProduct = await Product.create({
-            title, description, category, brand, price, discountPercentage, stock, weight,
-            tags: tags ? JSON.parse(tags) : [], warrantyInformation, shippingInformation, returnPolicy, images, reviews: [], thumbnail: thumbnailUrl
-        })
+            title,
+            description,
+            category,
+            brand,
+            price,
+            discountPercentage,
+            stock,
+            weight,
+            tags: tags ? JSON.parse(tags) : [],
+            warrantyInformation,
+            shippingInformation,
+            returnPolicy,
+            images: imagesUrls,
+            thumbnail: thumbnailUrl,
+            reviews: []
+        });
 
-        res.status(201).json({ msg: "Product Created Successfully", product: newProduct })
-
+        res.status(201).json({ msg: "Product Created Successfully", product: newProduct });
     } catch (err) {
-        res.status(500).json({ msg: "Error While Creating Product", error: err.message })
+        res.status(500).json({ msg: "Error While Creating Product", error: err.message });
     }
-}
+};
 
 const updateProduct = async (req, res) => {
-
     try {
-        const { id } = req.params
+        const { id } = req.params;
+        const product = await Product.findByPk(id);
+        if (!product) return res.status(404).json({ msg: "Product not found" });
 
         const {
             title, description, category, brand, price, discountPercentage,
             stock, weight, tags, warrantyInformation, shippingInformation, returnPolicy
         } = req.body;
 
-        const thumbnailFile = req.files?.thumbnail ? req.files.thumbnail[0] : null;
-        const imageFiles = req.files?.images || [];
-
-        const thumbnailUrl = thumbnailFile
-            ? `http://localhost:8000/uploads/${thumbnailFile.filename}`
-            : undefined;
-
-        const images = imageFiles.map(file => `http://localhost:8000/uploads/${file.filename}`);
-
-
-        const [updated] = await Product.update({
-            title, description, category, brand, price, discountPercentage,
-            stock, weight, tags, warrantyInformation, shippingInformation, returnPolicy,
-            tags: tags ? JSON.parse(tags) : [],
-            ...(thumbnailUrl && { thumbnail: thumbnailUrl }),
-            ...(images.length > 0 && { images }),
-        },
-            { where: { id } }
-        )
-
-        if (!updated) {
-            return res.status(404).json({ msg: "Error Product Not Found" })
+        // Thumbnail
+        let thumbnailUrl = product.thumbnail;
+        if (req.files?.thumbnail && req.files.thumbnail.length > 0) {
+            thumbnailUrl = req.files.thumbnail[0].path; // Cloudinary URL
         }
 
-        const updateProduct = await Product.findByPk(id)
+        // Images
+        let imagesUrls = product.images || [];
+        if (req.files?.images && req.files.images.length > 0) {
+            imagesUrls = req.files.images.map(file => file.path); // Cloudinary URLs
+        }
 
-        res.status(200).json({ msg: "Product Update Successfully", product: updateProduct })
+        await product.update({
+            title: title || product.title,
+            description: description || product.description,
+            category: category || product.category,
+            brand: brand || product.brand,
+            price: price || product.price,
+            discountPercentage: discountPercentage || product.discountPercentage,
+            stock: stock || product.stock,
+            weight: weight || product.weight,
+            tags: tags ? JSON.parse(tags) : product.tags,
+            warrantyInformation: warrantyInformation || product.warrantyInformation,
+            shippingInformation: shippingInformation || product.shippingInformation,
+            returnPolicy: returnPolicy || product.returnPolicy,
+            thumbnail: thumbnailUrl,
+            images: imagesUrls
+        });
 
+        res.status(200).json({ msg: "Product updated successfully", product });
     } catch (err) {
-        res.status(500).json({ msg: "Error While Creating Product", error: err.message })
+        res.status(500).json({ msg: "Error updating product", error: err.message });
     }
-}
+};
 
 const deleteProduct = async (req, res) => {
 
@@ -261,6 +271,8 @@ const getUserReviews = async (req, res) => {
         res.status(500).json({ err: err.message })
     }
 }
+
+
 
 const totalProducts = async (req, res) => {
     try {

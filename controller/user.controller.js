@@ -114,23 +114,24 @@ const userDetails = async (req, res) => {
 const uploadProfileImage = async (req, res) => {
     try {
         const userId = req.user.id;
-        const fileName = req.file.filename;
-        const imageUrl = `http://localhost:8000/uploads/${fileName}`;
 
-        const user = await User.findByPk(userId);
-
-        if (!user) {
-            return res.status(404).json({ msg: "User not found" });
+        if (!req.file || !req.file.path) {
+            return res.status(400).json({ msg: "No image uploaded" });
         }
 
-        user.profileImage = fileName;
+        const result = await cloudinary.uploader.upload(req.file.path, {
+            folder: 'echocart/users/profiles'
+        });
+
+        const user = await User.findByPk(userId);
+        if (!user) return res.status(404).json({ msg: "User not found" });
+
+        user.profileImage = result.secure_url;
         await user.save();
 
         res.status(200).json({
             msg: "Profile image uploaded successfully",
-            imagePath: fileName,
-            imageUrl,
-            profileImage: fileName
+            imageUrl: result.secure_url,
         });
 
     } catch (err) {
@@ -229,7 +230,7 @@ const updateUserRole = async (req, res) => {
         user.role = role
         await user.save()
 
-        res.json({ message: "Role Updated", user})
+        res.json({ message: "Role Updated", user })
 
     } catch (err) {
         res.status(500).json({ err: err.message })
