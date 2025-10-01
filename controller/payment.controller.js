@@ -47,8 +47,8 @@ export const createCheckoutSession = async (req, res) => {
                 allowed_countries: ["US", "PK", "CA", "GB", "AE"]
             },
 
-            success_url: "http://localhost:3000/cart/success?session_id={CHECKOUT_SESSION_ID}",
-            cancel_url: "http://localhost:3000/cart",
+            success_url: "https://echocart-ecommerce.netlify.app/cart/success?session_id={CHECKOUT_SESSION_ID}",
+            cancel_url: "https://echocart-ecommerce.netlify.app/cart",
         });
 
         res.json({ url: session.url });
