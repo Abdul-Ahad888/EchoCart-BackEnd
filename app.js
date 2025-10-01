@@ -10,7 +10,7 @@ const adminRoute = require('./routes/admin.route')
 const path = require('path')
 const app = express()
 
-app.use(cors({ origin: "http://localhost:3000" }))
+app.use(cors({ origin: "https://echocart-ecommerce.netlify.app" }))
 
 app.use(express.json())
 
