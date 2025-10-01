@@ -79,7 +79,7 @@ const createProduct = async (req, res) => {
 
         res.status(201).json({ msg: "Product Created Successfully", product: newProduct });
     } catch (err) {
-        console.error("❌ Error creating product:", err);
+        console.error("Error creating product:", err);
         res.status(500).json({ msg: "Error While Creating Product", error: err.message });
     }
 };
@@ -99,7 +99,7 @@ const updateProduct = async (req, res) => {
         // Keep old values if not replaced
         let thumbnailUrl = product.thumbnail;
         if (req.files?.thumbnail) {
-            thumbnailUrl = req.files.thumbnail[0].path; // Cloudinary URL
+            thumbnailUrl = req.files.thumbnail[0].path;
         }
 
         let imagesUrls = product.images || [];
@@ -126,7 +126,7 @@ const updateProduct = async (req, res) => {
 
         res.status(200).json({ msg: "Product updated successfully", product });
     } catch (err) {
-        console.error("❌ Error updating product:", err);
+        console.error("Error updating product:", err);
         res.status(500).json({ msg: "Error updating product", error: err.message });
     }
 };
